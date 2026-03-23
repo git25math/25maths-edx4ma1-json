@@ -51,7 +51,7 @@
           }
         }
       ],
-      "answer": {},
+      "answer": null,
       "meta": {}
     },
     {
@@ -1134,7 +1134,7 @@
           "subparts": [
             {
               "label": "(i)",
-              "marks": 0,
+              "marks": 1,
               "content": [
                 {
                   "type": "text",
@@ -1147,7 +1147,7 @@
             },
             {
               "label": "(ii)",
-              "marks": 0,
+              "marks": 1,
               "content": [
                 {
                   "type": "text",
@@ -1160,7 +1160,7 @@
             },
             {
               "label": "(iii)",
-              "marks": 0,
+              "marks": 1,
               "content": [
                 {
                   "type": "text",

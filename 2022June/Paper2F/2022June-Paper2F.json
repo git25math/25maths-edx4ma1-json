@@ -612,10 +612,10 @@
         {
           "type": "text",
           "content": "Anna buys 24 tins of dog food using special offer B."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Work out the difference between the amount that Gaspar pays and the amount that Anna pays."
@@ -624,6 +624,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "prefix": "$"
@@ -637,10 +638,10 @@
         {
           "type": "text",
           "content": "A circle has radius 6.5 cm."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Calculate the circumference of the circle."
@@ -656,6 +657,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "suffix": "$\text{cm}$"
@@ -704,10 +706,10 @@
         {
           "type": "text",
           "content": "The rest of the flowers are red."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Express the number of red flowers as a fraction of the total number of flowers."
@@ -723,6 +725,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "expression"
       },
@@ -756,10 +759,10 @@
         {
           "type": "text",
           "content": "The total amount of water that Emma pours into the container from the 3 cups and 4 jugs is 3.5 litres."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Work out the value of $x$"
@@ -768,6 +771,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "prefix": "$x$ ="
@@ -781,15 +785,16 @@
         {
           "type": "text",
           "content": "The diagram shows a kite drawn on a centimetre grid. [Figure]"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "On the centimetre grid below, draw a rectangle that has the same area as the kite."
         }
       ],
+      "parts": [],
       "answer": {
         "type": "none"
       },
@@ -947,10 +952,10 @@
         {
           "type": "text",
           "content": "1 euro = 11 Swedish Krona"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "work out how much cheaper the bag is in Sweden than it is in Finland."
@@ -966,6 +971,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "structured",
         "answerBlocks": [
@@ -1001,10 +1007,10 @@
         {
           "type": "text",
           "content": "She can have orange juice (O) or apple juice (A) or water (W) as her drink."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Write down all the possible combinations Hazel can have."
@@ -1013,6 +1019,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "multiline",
         "lines": 3
@@ -1077,10 +1084,10 @@
         {
           "type": "text",
           "content": "$\\frac{5.21 + 6.37}{9.8} + 8.32$"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Write down all the figures on your calculator display."
@@ -1089,6 +1096,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number"
       },
@@ -1115,15 +1123,16 @@
         {
           "type": "text",
           "content": "$\\text{B} = \\{1, 2, 4, 5, 7, 8, 10\\}$"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Complete the Venn diagram for this information. [Figure]"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "none"
       },
@@ -1164,10 +1173,10 @@
         {
           "type": "text",
           "content": "The range of the integers is 4"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Work out the value of $a$, the value of $b$, the value of $c$ and the value of $d$"
@@ -1176,6 +1185,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "structured",
         "answerBlocks": [
@@ -1306,10 +1316,10 @@
         {
           "type": "text",
           "content": "The aeroplane travelled a distance of 3980 kilometres in 5 hours 24 minutes."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Work out the average speed of the aeroplane."
@@ -1325,6 +1335,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "suffix": "kilometres per hour"
@@ -1334,14 +1345,13 @@
     {
       "qnum": 20,
       "marks": 3,
-      "stem": [],
-      "parts": [],
-      "content": [
+      "stem": [
         {
           "type": "text",
           "content": "Show that $5\\frac{1}{3} - 2\\frac{6}{7} = 2\\frac{10}{21}$"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "none"
       },
@@ -1382,10 +1392,10 @@
         {
           "type": "text",
           "content": "The area of shape ABCDEFGH is $434\\text{cm}^2$"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Find the length of CD."
@@ -1394,6 +1404,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "suffix": "$\text{cm}$"
@@ -1414,10 +1425,10 @@
         {
           "type": "text",
           "content": "Work out the value of $x$"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Give your answer correct to one decimal place."
@@ -1426,6 +1437,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "prefix": "$x$ ="
@@ -1435,9 +1447,7 @@
     {
       "qnum": 23,
       "marks": 3,
-      "stem": [],
-      "parts": [],
-      "content": [
+      "stem": [
         {
           "type": "text",
           "content": "Change a speed of 81 kilometres per hour to a speed in metres per second."
@@ -1446,6 +1456,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "suffix": "metres per second"
@@ -1487,10 +1498,10 @@
         {
           "type": "text",
           "content": "None of the congratulations cards have numbers on them."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Work out what fraction of the 300 cards have numbers on them."
@@ -1506,6 +1517,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "expression"
       },
@@ -1525,10 +1537,10 @@
         {
           "type": "text",
           "content": "He gets 1.3% per year compound interest."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Work out how much money Pasha will have in his savings account at the end of 4 years."
@@ -1544,6 +1556,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "suffix": "dollars"
@@ -1571,10 +1584,10 @@
         {
           "type": "text",
           "content": "$$3x - y = 7$$"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Show clear algebraic working."
@@ -1583,6 +1596,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "structured",
         "answerBlocks": [
@@ -1681,10 +1695,10 @@
         {
           "type": "text",
           "content": "The mean weight of the other 4 parcels is 3.3 kg"
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Work out the value of $W$"
@@ -1693,6 +1707,7 @@
           "type": "space"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "prefix": "$W$ ="

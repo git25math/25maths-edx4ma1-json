@@ -725,9 +725,7 @@
     {
       "qnum": 12,
       "marks": 3,
-      "stem": [],
-      "parts": [],
-      "content": [
+      "stem": [
         {
           "type": "text",
           "content": "On the grid, draw the graph of $y = 3x - 1$ for values of $x$ from -2 to 3"
@@ -740,6 +738,7 @@
           "content": "[Figure]"
         }
       ],
+      "parts": [],
       "answer": {
         "type": "none"
       },
@@ -748,9 +747,7 @@
     {
       "qnum": 13,
       "marks": 4,
-      "stem": [],
-      "parts": [],
-      "content": [
+      "stem": [
         {
           "type": "text",
           "content": "The table shows information about the heights, in cm, of 48 sunflowers in a garden centre."
@@ -770,6 +767,7 @@
           "content": "Work out an estimate for the mean height of the sunflowers."
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "suffix": "cm"
@@ -833,14 +831,13 @@
     {
       "qnum": 15,
       "marks": 2,
-      "stem": [],
-      "parts": [],
-      "content": [
+      "stem": [
         {
           "type": "text",
           "content": "A cylinder has diameter 14 cm and height 20 cm.\nWork out the volume of the cylinder.\nGive your answer correct to 3 significant figures."
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "suffix": "cm³"
@@ -936,14 +933,13 @@
     {
       "qnum": 18,
       "marks": 3,
-      "stem": [],
-      "parts": [],
-      "content": [
+      "stem": [
         {
           "type": "text",
           "content": "30 students in a class sat a Mathematics test.\nThe mean mark in the test for the 30 students was 26.8\n13 of the 30 students in the class are boys.\nThe mean mark in the test for the boys was 25\nFind the mean mark in the test for the girls.\nGive your answer correct to 3 significant figures."
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number"
       },
@@ -952,14 +948,13 @@
     {
       "qnum": 19,
       "marks": 3,
-      "stem": [],
-      "parts": [],
-      "content": [
+      "stem": [
         {
           "type": "text",
           "content": "Change a speed of $x$ kilometres per hour into a speed in metres per second.\nSimplify your answer."
         }
       ],
+      "parts": [],
       "answer": {
         "type": "expression",
         "suffix": "m/s"
@@ -969,14 +964,13 @@
     {
       "qnum": 20,
       "marks": 3,
-      "stem": [],
-      "parts": [],
-      "content": [
+      "stem": [
         {
           "type": "text",
           "content": "Solve the simultaneous equations\n$x + 2y = -0.5$\n$3x - y = 16$\nShow clear algebraic working."
         }
       ],
+      "parts": [],
       "answer": {
         "type": "multiline",
         "lines": 2,
@@ -1005,15 +999,16 @@
         {
           "type": "text",
           "content": "B is 234 km due north of A.\nC is 356 km due east of A."
-        }
-      ],
-      "parts": [],
-      "content": [
+        },
+        {
+          "type": "newline"
+        },
         {
           "type": "text",
           "content": "Work out the bearing of B from C.\nGive your answer correct to the nearest degree."
         }
       ],
+      "parts": [],
       "answer": {
         "type": "number",
         "suffix": "°"

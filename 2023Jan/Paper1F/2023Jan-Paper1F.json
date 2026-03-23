@@ -91,7 +91,7 @@
           }
         }
       ],
-      "answer": {},
+      "answer": null,
       "meta": {}
     },
     {
@@ -444,7 +444,7 @@
       "parts": [
         {
           "label": "(a)",
-          "marks": null,
+          "marks": 2,
           "content": [],
           "subparts": [
             {

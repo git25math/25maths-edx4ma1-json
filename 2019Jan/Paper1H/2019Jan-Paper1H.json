@@ -125,6 +125,27 @@
           "answer": {
             "type": "none"
           }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, enlarge triangle D with scale factor "
+            },
+            {
+              "type": "text",
+              "content": "$\\frac{1}{2}$"
+            },
+            {
+              "type": "text",
+              "content": " and centre (-4, 2)"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
         }
       ],
       "answer": null,
@@ -188,7 +209,7 @@
           }
         }
       ],
-      "answer": {},
+      "answer": null,
       "meta": {}
     },
     {

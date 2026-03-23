@@ -1401,6 +1401,19 @@
           "answer": {
             "type": "none"
           }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, enlarge triangle D with scale factor $\\frac{1}{2}$ and centre (-4, 2)"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
         }
       ],
       "answer": null,
