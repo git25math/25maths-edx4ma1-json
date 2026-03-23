@@ -121,7 +121,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{metres}$"
+            "suffix": "$\\text{metres}$"
           }
         }
       ],
@@ -268,7 +268,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{kilometres}$"
+            "suffix": "$\\text{kilometres}$"
           }
         },
         {
@@ -293,7 +293,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{kilometres}$"
+            "suffix": "$\\text{kilometres}$"
           }
         },
         {
@@ -388,7 +388,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{m}$"
+            "suffix": "$\\text{m}$"
           }
         }
       ],
@@ -559,7 +559,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{euros}$"
+        "suffix": "$\\text{euros}$"
       },
       "meta": {}
     },
@@ -710,7 +710,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{Swiss francs}$"
+        "suffix": "$\\text{Swiss francs}$"
       },
       "meta": {}
     },
@@ -758,7 +758,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{minutes}$"
+        "suffix": "$\\text{minutes}$"
       },
       "meta": {}
     },
@@ -1110,7 +1110,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{dollars}$"
+            "suffix": "$\\text{dollars}$"
           }
         }
       ],
@@ -1337,7 +1337,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{litres}$"
+        "suffix": "$\\text{litres}$"
       },
       "meta": {}
     },

@@ -78,7 +78,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Here are the temperatures, in $°\text{C}$, in Paris at midnight for one week."
+              "content": "Here are the temperatures, in $°\\text{C}$, in Paris at midnight for one week."
             },
             {
               "type": "newline"
@@ -100,7 +100,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$°\text{C}$"
+            "suffix": "$°\\text{C}$"
           }
         },
         {
@@ -146,8 +146,7 @@
             }
           ],
           "answer": {
-            "type": "multiline",
-            "lines": 3
+            "type": "none"
           }
         }
       ],

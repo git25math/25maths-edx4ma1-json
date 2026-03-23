@@ -67,12 +67,12 @@
             },
             {
               "type": "space",
-              "suffix": "$\text{km}^2$"
+              "suffix": "$\\text{km}^2$"
             }
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{km}^2$"
+            "suffix": "$\\text{km}^2$"
           }
         },
         {
@@ -1226,12 +1226,12 @@
             },
             {
               "type": "space",
-              "suffix": "$\text{kg}$"
+              "suffix": "$\\text{kg}$"
             }
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{kg}$"
+            "suffix": "$\\text{kg}$"
           }
         },
         {
@@ -1494,13 +1494,13 @@
         },
         {
           "type": "space",
-          "suffix": "$\text{cm}$"
+          "suffix": "$\\text{cm}$"
         }
       ],
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     }

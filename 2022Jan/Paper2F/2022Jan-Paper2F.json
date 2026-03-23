@@ -824,17 +824,8 @@
             }
           ],
           "answer": {
-            "type": "structured",
-            "answerBlocks": [
-              {
-                "type": "text",
-                "content": "Yes / No (tick box)"
-              },
-              {
-                "type": "multiline",
-                "lines": 2
-              }
-            ]
+            "type": "multiline",
+            "lines": 2
           }
         }
       ],

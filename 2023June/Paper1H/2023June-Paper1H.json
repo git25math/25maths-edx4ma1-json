@@ -256,7 +256,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1219,7 +1219,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1282,7 +1282,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     }

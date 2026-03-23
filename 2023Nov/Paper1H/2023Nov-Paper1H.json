@@ -336,7 +336,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -403,14 +403,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "$A = 2^3 \times 5^3 \times 7^6 \times 11^3$"
+          "content": "$A = 2^3 \\times 5^3 \\times 7^6 \\times 11^3$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "and $B = 2^4 \times 5^2 \times 7^6 \times 11^4$"
+          "content": "and $B = 2^4 \\times 5^2 \\times 7^6 \\times 11^4$"
         },
         {
           "type": "newline"
@@ -494,7 +494,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write $5.87 \times 10^4$ as an ordinary number."
+              "content": "Write $5.87 \\times 10^4$ as an ordinary number."
             },
             {
               "type": "space",
@@ -528,21 +528,21 @@
           "content": [
             {
               "type": "text",
-              "content": "The number of neurons in a human brain is $8.5 \times 10^{10}$."
+              "content": "The number of neurons in a human brain is $8.5 \\times 10^{10}$."
             },
             {
               "type": "newline"
             },
             {
               "type": "text",
-              "content": "The number of neurons in a monkey brain is $1.47 \times 10^9$."
+              "content": "The number of neurons in a monkey brain is $1.47 \\times 10^9$."
             },
             {
               "type": "newline"
             },
             {
               "type": "text",
-              "content": "The number of neurons in a human brain is K $\times$ the number of neurons in a monkey brain."
+              "content": "The number of neurons in a human brain is K $\\times$ the number of neurons in a monkey brain."
             },
             {
               "type": "newline"
@@ -1067,7 +1067,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^3$"
+        "suffix": "$\\text{cm}^3$"
       },
       "meta": {}
     },
@@ -1122,7 +1122,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1160,7 +1160,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },

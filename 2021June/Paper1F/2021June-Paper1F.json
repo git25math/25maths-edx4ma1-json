@@ -567,7 +567,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -1027,7 +1027,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{km/h}$"
+        "suffix": "$\\text{km/h}$"
       },
       "meta": {}
     },

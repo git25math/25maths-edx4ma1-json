@@ -718,7 +718,7 @@
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|}\n\\cline{2-4}\n\\multicolumn{1}{c|}{} & \\multicolumn{3}{c|}{\\textbf{Spinner A}}\\\\\n\\cline{2-4}\n\\multicolumn{1}{c|}{} & \\textbf{1} & \\textbf{2} & \\textbf{3}\\\\\n\\hline\n\\multirow{4}{*}{\\textbf{Spinner B}} & \\textbf{2} & 3 & 4 & 5\\\\\n\\cline{2-4}\n & \\textbf{4} & 5 & 6 & 7\\\\\n\\cline{2-4}\n & \\textbf{6} & 7 & 8 & 9\\\\\n\\cline{2-4}\n & \\textbf{8} & 9 & 10 & 11\\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|c|}\n\\cline{2-4}\n\\multicolumn{1}{c|}{} & \\multicolumn{3}{c|}{\\textbf{Spinner A}}\\\\\n\\cline{2-4}\n\\multicolumn{1}{c|}{} & \\textbf{1} & \\textbf{2} & \\textbf{3}\\\\\n\\hline\n\\multirow{4}{*}{\\textbf{Spinner B}} & \\textbf{2} & 3 & 4 & 5\\\\\n\\cline{2-4}\n & \\textbf{4} & 5 & 6 & 7\\\\\n\\cline{2-4}\n & \\textbf{6} & 7 & 8 & 9\\\\\n\\cline{2-4}\n & \\textbf{8} & 9 & 10 & 11\\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {

@@ -883,7 +883,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "A circle has radius 16$\text{cm}$"
+          "content": "A circle has radius 16$\\text{cm}$"
         },
         {
           "type": "newline"
@@ -906,7 +906,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1019,7 +1019,7 @@
             },
             {
               "type": "text",
-              "content": "She uses 180$\text{g}$ of butter."
+              "content": "She uses 180$\\text{g}$ of butter."
             },
             {
               "type": "newline"
@@ -1469,7 +1469,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },

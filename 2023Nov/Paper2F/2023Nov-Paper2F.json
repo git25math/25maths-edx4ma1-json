@@ -466,7 +466,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the grid, draw a rectangle with an area of $20\\,\text{cm}^2$"
+              "content": "On the grid, draw a rectangle with an area of $20\\,\\text{cm}^2$"
             },
             {
               "type": "text",
@@ -1563,7 +1563,7 @@
         },
         {
           "type": "text",
-          "content": "The area of hexagon ABCDEF is  $258\\,\text{cm}^2$"
+          "content": "The area of hexagon ABCDEF is  $258\\,\\text{cm}^2$"
         },
         {
           "type": "newline"

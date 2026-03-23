@@ -433,7 +433,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -927,7 +927,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1244,7 +1244,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^3$"
+        "suffix": "$\\text{cm}^3$"
       },
       "meta": {}
     },

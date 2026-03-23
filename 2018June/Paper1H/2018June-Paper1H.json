@@ -314,15 +314,8 @@
             }
           ],
           "answer": {
-            "type": "structured",
-            "answerBlocks": [
-              {
-                "type": "text"
-              },
-              {
-                "type": "text"
-              }
-            ]
+            "type": "multiline",
+            "lines": 2
           }
         },
         {
@@ -468,7 +461,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -731,7 +724,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -805,15 +798,8 @@
             }
           ],
           "answer": {
-            "type": "structured",
-            "answerBlocks": [
-              {
-                "type": "text"
-              },
-              {
-                "type": "text"
-              }
-            ]
+            "type": "multiline",
+            "lines": 2
           }
         }
       ],
@@ -1289,7 +1275,7 @@
       "parts": [],
       "answer": {
         "type": "expression",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },

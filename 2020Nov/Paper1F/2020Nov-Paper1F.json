@@ -282,7 +282,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}^3$"
+            "suffix": "$\\text{cm}^3$"
           }
         }
       ],
@@ -961,7 +961,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },

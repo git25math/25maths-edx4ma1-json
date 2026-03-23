@@ -561,7 +561,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}$"
+            "suffix": "$\\text{cm}$"
           }
         },
         {
@@ -1031,7 +1031,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1356,7 +1356,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{km/h}$"
+            "suffix": "$\\text{km/h}$"
           }
         }
       ],
@@ -1723,7 +1723,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{m/s}$"
+        "suffix": "$\\text{m/s}$"
       },
       "meta": {}
     },
@@ -1891,7 +1891,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     }

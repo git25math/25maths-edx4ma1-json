@@ -54,7 +54,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -243,7 +243,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -446,7 +446,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{m}^3$"
+            "suffix": "$\\text{m}^3$"
           }
         },
         {
@@ -464,7 +464,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{m/s}$"
+            "suffix": "$\\text{m/s}$"
           }
         }
       ],
@@ -927,7 +927,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },

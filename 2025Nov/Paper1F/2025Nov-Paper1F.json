@@ -307,7 +307,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}$"
+            "suffix": "$\\text{cm}$"
           }
         },
         {
@@ -558,7 +558,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{grams}$"
+        "suffix": "$\\text{grams}$"
       },
       "meta": {}
     },
@@ -688,7 +688,7 @@
         },
         {
           "type": "table",
-          "content": "\\begin{tabular}{|l|l|l|l|}\n\\hline\n & Coffee & Tea & Hot chocolate & Total \\\\\n\\hline\nMonday & & & & \\\\\nTuesday & & & & \\\\\nTotal & & & & \\\\\n\\hline\n\\end{tabular}"
+          "content": "\\begin{tabular}{|l|l|l|l|l|}\n\\hline\n & Coffee & Tea & Hot chocolate & Total \\\\\n\\hline\nMonday & & & & \\\\\nTuesday & & & & \\\\\nTotal & & & & \\\\\n\\hline\n\\end{tabular}"
         }
       ],
       "parts": [],
@@ -1228,7 +1228,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{kilometres}$"
+        "suffix": "$\\text{kilometres}$"
       },
       "meta": {}
     },
@@ -1461,7 +1461,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{g}$"
+            "suffix": "$\\text{g}$"
           }
         },
         {
@@ -1486,7 +1486,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}$"
+            "suffix": "$\\text{cm}$"
           }
         }
       ],

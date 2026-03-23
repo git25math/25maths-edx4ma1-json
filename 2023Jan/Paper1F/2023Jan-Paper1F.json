@@ -758,7 +758,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{ km}$"
+        "suffix": "$\\text{ km}$"
       },
       "meta": {}
     },
@@ -905,7 +905,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{ millilitres}$"
+        "suffix": "$\\text{ millilitres}$"
       },
       "meta": {}
     },
@@ -1564,7 +1564,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{ minutes}$"
+        "suffix": "$\\text{ minutes}$"
       },
       "meta": {}
     },
@@ -1986,7 +1986,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{ cm}$"
+        "suffix": "$\\text{ cm}$"
       },
       "meta": {}
     },

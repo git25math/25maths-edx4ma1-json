@@ -214,7 +214,7 @@
             }
           ],
           "answer": {
-            "type": "expression"
+            "type": "none"
           }
         }
       ],

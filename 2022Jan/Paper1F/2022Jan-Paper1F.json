@@ -81,7 +81,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{mm}$"
+            "suffix": "$\\text{mm}$"
           }
         },
         {
@@ -106,7 +106,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{mm}$"
+            "suffix": "$\\text{mm}$"
           }
         }
       ],
@@ -613,7 +613,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -708,7 +708,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -1037,7 +1037,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{euros}$"
+        "suffix": "$\\text{euros}$"
       },
       "meta": {}
     },
@@ -1076,7 +1076,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1420,7 +1420,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },

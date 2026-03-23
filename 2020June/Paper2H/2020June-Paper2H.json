@@ -406,7 +406,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -424,7 +424,7 @@
         },
         {
           "type": "text",
-          "content": "The volume of the cylinder is $72\\pi\\,\text{m}^3$"
+          "content": "The volume of the cylinder is $72\\pi\\,\\text{m}^3$"
         },
         {
           "type": "newline"
@@ -448,7 +448,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{m}^2$"
+        "suffix": "$\\text{m}^2$"
       },
       "meta": {}
     },
@@ -829,7 +829,7 @@
         },
         {
           "type": "text",
-          "content": "The area of the rectangle is $A\\,\text{cm}^2$"
+          "content": "The area of the rectangle is $A\\,\\text{cm}^2$"
         },
         {
           "type": "newline"
@@ -908,7 +908,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^3$"
+        "suffix": "$\\text{cm}^3$"
       },
       "meta": {}
     },

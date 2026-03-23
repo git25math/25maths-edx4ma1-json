@@ -185,7 +185,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{kilometres}$"
+        "suffix": "$\\text{kilometres}$"
       },
       "meta": {}
     },
@@ -403,20 +403,8 @@
             }
           ],
           "answer": {
-            "type": "structured",
-            "answerBlocks": [
-              {
-                "type": "choice",
-                "options": [
-                  "Yes",
-                  "No"
-                ]
-              },
-              {
-                "type": "multiline",
-                "lines": 2
-              }
-            ]
+            "type": "multiline",
+            "lines": 2
           }
         },
         {
@@ -496,7 +484,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{newtons/cm}^2$"
+        "suffix": "$\\text{newtons/cm}^2$"
       },
       "meta": {}
     },
@@ -555,7 +543,7 @@
           ],
           "answer": {
             "type": "expression",
-            "suffix": "$\text{tonnes}$"
+            "suffix": "$\\text{tonnes}$"
           }
         }
       ],
@@ -699,7 +687,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{euros}$"
+        "suffix": "$\\text{euros}$"
       },
       "meta": {}
     },
@@ -865,7 +853,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{dinars}$"
+        "suffix": "$\\text{dinars}$"
       },
       "meta": {}
     },
@@ -1114,7 +1102,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1299,7 +1287,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },

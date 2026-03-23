@@ -105,7 +105,7 @@
         },
         {
           "type": "text",
-          "content": "The height of the trapezium is $h\\,\text{cm}$."
+          "content": "The height of the trapezium is $h\\,\\text{cm}$."
         },
         {
           "type": "newline"
@@ -1233,7 +1233,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "A cone has a volume of $562.5\\pi\\,\text{cm}^3$"
+          "content": "A cone has a volume of $562.5\\pi\\,\\text{cm}^3$"
         },
         {
           "type": "newline"

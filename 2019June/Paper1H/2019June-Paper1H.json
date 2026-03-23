@@ -134,7 +134,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{km/h}$"
+            "suffix": "$\\text{km/h}$"
           }
         }
       ],
@@ -336,7 +336,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{grams}$"
+        "suffix": "$\\text{grams}$"
       },
       "meta": {}
     },
@@ -495,7 +495,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -910,7 +910,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}^2$"
+            "suffix": "$\\text{cm}^2$"
           }
         },
         {
@@ -935,7 +935,7 @@
           ],
           "answer": {
             "type": "expression",
-            "suffix": "$\text{cm}^3$"
+            "suffix": "$\\text{cm}^3$"
           }
         }
       ],
@@ -975,7 +975,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1126,7 +1126,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },

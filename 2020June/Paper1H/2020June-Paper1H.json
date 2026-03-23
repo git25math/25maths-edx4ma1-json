@@ -228,7 +228,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write $5.7 \times 10^{-3}$ as an ordinary number."
+              "content": "Write $5.7 \\times 10^{-3}$ as an ordinary number."
             },
             {
               "type": "space",
@@ -282,14 +282,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "A rocket travelled $100\\,\text{km}$ at an average speed of $28\\,440\\,\text{km/h}$."
+          "content": "A rocket travelled $100\\,\\text{km}$ at an average speed of $28\\,440\\,\\text{km/h}$."
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Work out how long it took the rocket to travel the $100\\,\text{km}$."
+          "content": "Work out how long it took the rocket to travel the $100\\,\\text{km}$."
         },
         {
           "type": "newline"
@@ -545,21 +545,21 @@
         },
         {
           "type": "text",
-          "content": "$BC = 8.4\\,\text{cm}$"
+          "content": "$BC = 8.4\\,\\text{cm}$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$AD = 17.6\\,\text{cm}$"
+          "content": "$AD = 17.6\\,\\text{cm}$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "The trapezium has area $179.4\\,\text{cm}^2$"
+          "content": "The trapezium has area $179.4\\,\\text{cm}^2$"
         },
         {
           "type": "newline"
@@ -872,14 +872,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "A metal block has a mass of $5\\,\text{kg}$, correct to the nearest $50\\,\text{grams}$."
+          "content": "A metal block has a mass of $5\\,\\text{kg}$, correct to the nearest $50\\,\\text{grams}$."
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "The block has a volume of $(1.84 \\times 10^{-3})\\,\text{m}^3$, correct to 3 significant figures."
+          "content": "The block has a volume of $(1.84 \\times 10^{-3})\\,\\text{m}^3$, correct to 3 significant figures."
         },
         {
           "type": "newline"
@@ -893,7 +893,7 @@
         },
         {
           "type": "text",
-          "content": "Give your answer in $\text{kg/m}^3$ correct to 1 decimal place."
+          "content": "Give your answer in $\\text{kg/m}^3$ correct to 1 decimal place."
         },
         {
           "type": "newline"
@@ -954,7 +954,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out an estimate for the number of these plants with a height greater than $40\\,\text{cm}$."
+              "content": "Work out an estimate for the number of these plants with a height greater than $40\\,\\text{cm}$."
             },
             {
               "type": "space",
@@ -1014,14 +1014,14 @@
         },
         {
           "type": "text",
-          "content": "Shape R has surface area $108\\,\text{cm}^2$ and volume $135\\,\text{cm}^3$"
+          "content": "Shape R has surface area $108\\,\\text{cm}^2$ and volume $135\\,\\text{cm}^3$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Shape S has surface area $300\\,\text{cm}^2$"
+          "content": "Shape S has surface area $300\\,\\text{cm}^2$"
         },
         {
           "type": "newline"

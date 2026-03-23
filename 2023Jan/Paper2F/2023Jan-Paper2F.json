@@ -273,7 +273,7 @@
           "content": [
             {
               "type": "text",
-              "content": "In the space below, draw a line of length 6.5$\text{cm}$"
+              "content": "In the space below, draw a line of length 6.5$\\text{cm}$"
             },
             {
               "type": "space",
@@ -340,7 +340,7 @@
         },
         {
           "type": "text",
-          "content": "Peony has one parcel of weight 1.3$\text{kg}$ and another parcel of weight 8$\text{kg}$ to send to two different places."
+          "content": "Peony has one parcel of weight 1.3$\\text{kg}$ and another parcel of weight 8$\\text{kg}$ to send to two different places."
         }
       ],
       "parts": [
@@ -375,7 +375,7 @@
             },
             {
               "type": "text",
-              "content": "One of the parcels has a weight of 1.5$\text{kg}$ and another of the parcels has a weight of 2.8$\text{kg}$"
+              "content": "One of the parcels has a weight of 1.5$\\text{kg}$ and another of the parcels has a weight of 2.8$\\text{kg}$"
             },
             {
               "type": "newline"
@@ -416,7 +416,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write 5$\text{15}\text{pm}$ using the 24-hour clock."
+              "content": "Write 5$\\text{15}\\text{pm}$ using the 24-hour clock."
             },
             {
               "type": "space",
@@ -440,14 +440,14 @@
             },
             {
               "type": "text",
-              "content": "She leaves home at 16$\text{35}$"
+              "content": "She leaves home at 16$\\text{35}$"
             },
             {
               "type": "newline"
             },
             {
               "type": "text",
-              "content": "She arrives back home at 20$\text{15}$ on the same day."
+              "content": "She arrives back home at 20$\\text{15}$ on the same day."
             },
             {
               "type": "newline"
@@ -977,7 +977,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Last season, Alisha and Jaya scored goals for their team in the ratio 4$\text{:}$7"
+          "content": "Last season, Alisha and Jaya scored goals for their team in the ratio 4$\\text{:}$7"
         },
         {
           "type": "newline"
@@ -1085,7 +1085,7 @@
         },
         {
           "type": "text",
-          "content": "The volume of the prism is 924$\text{cm}^3$"
+          "content": "The volume of the prism is 924$\\text{cm}^3$"
         },
         {
           "type": "newline"
@@ -1308,7 +1308,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The weight of a cake is 2.75$\text{kg}$, correct to 2 decimal places."
+          "content": "The weight of a cake is 2.75$\\text{kg}$, correct to 2 decimal places."
         }
       ],
       "parts": [
@@ -1361,7 +1361,7 @@
             },
             {
               "type": "text",
-              "content": "Her answer is 13$\text{332.299}\text{17}$"
+              "content": "Her answer is 13$\\text{332.299}\\text{17}$"
             },
             {
               "type": "newline"
@@ -1390,7 +1390,7 @@
             }
           ],
           "answer": {
-            "type": "expression"
+            "type": "none"
           }
         }
       ],
@@ -1649,7 +1649,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The diagram shows an isosceles triangle, with base length 24$\text{cm}$."
+          "content": "The diagram shows an isosceles triangle, with base length 24$\\text{cm}$."
         },
         {
           "type": "newline"
@@ -1663,7 +1663,7 @@
         },
         {
           "type": "text",
-          "content": "The perimeter of the triangle is 54$\text{cm}$."
+          "content": "The perimeter of the triangle is 54$\\text{cm}$."
         },
         {
           "type": "newline"

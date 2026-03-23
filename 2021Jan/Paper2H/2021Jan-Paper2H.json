@@ -46,7 +46,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{km/h}$"
+        "suffix": "$\\text{km/h}$"
       },
       "meta": {}
     },
@@ -293,7 +293,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Given that $y^n \times y^5 \times y^6 = y^{13}$"
+              "content": "Given that $y^n \\times y^5 \\times y^6 = y^{13}$"
             },
             {
               "type": "newline"
@@ -386,7 +386,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $9.6 \times 10^{141} + 6.4 \times 10^{140} + 3.2 \times 10^{139}$"
+              "content": "Work out $9.6 \\times 10^{141} + 6.4 \\times 10^{140} + 3.2 \\times 10^{139}$"
             },
             {
               "type": "newline"
@@ -450,7 +450,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{grams}$"
+        "suffix": "$\\text{grams}$"
       },
       "meta": {}
     },
@@ -511,7 +511,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -521,14 +521,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "$A = 2^3 \times 3^2 \times 5^2 \times 11$"
+          "content": "$A = 2^3 \\times 3^2 \\times 5^2 \\times 11$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$B = 2^4 \times 3 \times 5^4 \times 13$"
+          "content": "$B = 2^4 \\times 3 \\times 5^4 \\times 13$"
         },
         {
           "type": "newline"
@@ -661,7 +661,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{minutes}$"
+        "suffix": "$\\text{minutes}$"
       },
       "meta": {}
     },
@@ -1046,7 +1046,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}^2$"
+            "suffix": "$\\text{cm}^2$"
           }
         },
         {
@@ -1147,7 +1147,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}$"
+            "suffix": "$\\text{cm}$"
           }
         }
       ],
@@ -1204,7 +1204,7 @@
       "parts": [],
       "answer": {
         "type": "expression",
-        "suffix": "$\text{metres}$"
+        "suffix": "$\\text{metres}$"
       },
       "meta": {}
     },
@@ -1228,14 +1228,14 @@
         },
         {
           "type": "text",
-          "content": "The points P and Q lie on AB such that AB = $1.5 \times$ PQ"
+          "content": "The points P and Q lie on AB such that AB = $1.5 \\times$ PQ"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Given that the area of region T is $72\\sqrt{3}\text{ cm}^2$"
+          "content": "Given that the area of region T is $72\\sqrt{3}\\text{ cm}^2$"
         },
         {
           "type": "newline"
@@ -1251,7 +1251,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -1300,7 +1300,7 @@
         },
         {
           "type": "text",
-          "content": "The diagram shows a sector OBC of a circle with centre O and radius $(6 + x)\text{ cm}$."
+          "content": "The diagram shows a sector OBC of a circle with centre O and radius $(6 + x)\\text{ cm}$."
         },
         {
           "type": "newline"
@@ -1328,7 +1328,7 @@
         },
         {
           "type": "text",
-          "content": "the perimeter of sector OBC = $2 \times$ the perimeter of triangle OAD"
+          "content": "the perimeter of sector OBC = $2 \\times$ the perimeter of triangle OAD"
         },
         {
           "type": "newline"

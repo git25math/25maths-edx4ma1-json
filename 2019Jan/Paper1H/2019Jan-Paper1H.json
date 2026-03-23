@@ -442,7 +442,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{km}^3$"
+            "suffix": "$\\text{km}^3$"
           }
         },
         {
@@ -510,7 +510,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },
@@ -577,7 +577,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{km/h}$"
+            "suffix": "$\\text{km/h}$"
           }
         }
       ],

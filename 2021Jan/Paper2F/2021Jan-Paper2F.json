@@ -182,14 +182,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "The temperature in New York is $-2\\,°\text{C}$"
+          "content": "The temperature in New York is $-2\\,°\\text{C}$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "At the same time, the temperature in Rabat is $16\\,°\text{C}$ higher than the temperature in New York."
+          "content": "At the same time, the temperature in Rabat is $16\\,°\\text{C}$ higher than the temperature in New York."
         }
       ],
       "parts": [
@@ -207,7 +207,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$°\text{C}$"
+            "suffix": "$°\\text{C}$"
           }
         },
         {
@@ -216,7 +216,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Also, at the same time, the temperature in Helsinki is $17\\,°\text{C}$ lower than the temperature in New York."
+              "content": "Also, at the same time, the temperature in Helsinki is $17\\,°\\text{C}$ lower than the temperature in New York."
             },
             {
               "type": "newline"
@@ -231,7 +231,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$°\text{C}$"
+            "suffix": "$°\\text{C}$"
           }
         }
       ],
@@ -450,7 +450,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Using ruler and compasses only, in the space below construct the equilateral triangle ABC with sides of length $7\\,\text{cm}$. \nYou must show all your construction lines."
+              "content": "Using ruler and compasses only, in the space below construct the equilateral triangle ABC with sides of length $7\\,\\text{cm}$. \nYou must show all your construction lines."
             },
             {
               "type": "newline"
@@ -518,7 +518,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify    $e \times e \times e \times e \times e$"
+              "content": "Simplify    $e \\times e \\times e \\times e \\times e$"
             },
             {
               "type": "space"
@@ -534,7 +534,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify    $5c \times 4d$"
+              "content": "Simplify    $5c \\times 4d$"
             },
             {
               "type": "space"
@@ -641,7 +641,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{grams}$"
+        "suffix": "$\\text{grams}$"
       },
       "meta": {}
     },
@@ -763,7 +763,7 @@
         },
         {
           "type": "text",
-          "content": "The perimeter of the triangle is $126\\,\text{cm}$."
+          "content": "The perimeter of the triangle is $126\\,\\text{cm}$."
         },
         {
           "type": "newline"
@@ -779,7 +779,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -866,7 +866,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{dollars}$"
+        "suffix": "$\\text{dollars}$"
       },
       "meta": {}
     },
@@ -956,7 +956,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}^2$"
+            "suffix": "$\\text{cm}^2$"
           }
         },
         {
@@ -979,7 +979,7 @@
             },
             {
               "type": "text",
-              "content": "The volume of the cuboid is $806\\,\text{cm}^3$"
+              "content": "The volume of the cuboid is $806\\,\\text{cm}^3$"
             },
             {
               "type": "newline"
@@ -1014,7 +1014,7 @@
         },
         {
           "type": "text",
-          "content": "Work out the average speed of the train. \nGive your answer in $\text{km/h}$ correct to one decimal place."
+          "content": "Work out the average speed of the train. \nGive your answer in $\\text{km/h}$ correct to one decimal place."
         },
         {
           "type": "space"
@@ -1023,7 +1023,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{km/h}$"
+        "suffix": "$\\text{km/h}$"
       },
       "meta": {}
     },
@@ -1262,7 +1262,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Given that    $\frac{y^5 \times y^n}{y^6} = y^{13}$"
+              "content": "Given that    $\frac{y^5 \\times y^n}{y^6} = y^{13}$"
             },
             {
               "type": "newline"
@@ -1355,7 +1355,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out    $\frac{9.6 \times 10^{141}}{6.4 \times 10^{140} + 3.2 \times 10^{140}}$"
+              "content": "Work out    $\frac{9.6 \\times 10^{141}}{6.4 \\times 10^{140} + 3.2 \\times 10^{140}}$"
             },
             {
               "type": "newline"
@@ -1405,7 +1405,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{grams}$"
+        "suffix": "$\\text{grams}$"
       },
       "meta": {}
     },
@@ -1436,7 +1436,7 @@
         },
         {
           "type": "text",
-          "content": "AB = $8\\,\text{cm}$    BC = $15\\,\text{cm}$"
+          "content": "AB = $8\\,\\text{cm}$    BC = $15\\,\\text{cm}$"
         },
         {
           "type": "newline"
@@ -1459,7 +1459,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -1469,14 +1469,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "$A = 2^3 \times 3^2 \times 5^2 \times 11$"
+          "content": "$A = 2^3 \\times 3^2 \\times 5^2 \\times 11$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$B = 2^4 \times 3 \times 5^4 \times 13$"
+          "content": "$B = 2^4 \\times 3 \\times 5^4 \\times 13$"
         },
         {
           "type": "newline"

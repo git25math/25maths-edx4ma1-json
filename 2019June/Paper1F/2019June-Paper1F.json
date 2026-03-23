@@ -262,17 +262,8 @@
             }
           ],
           "answer": {
-            "type": "structured",
-            "answerBlocks": [
-              {
-                "type": "text",
-                "content": ""
-              },
-              {
-                "type": "multiline",
-                "lines": 3
-              }
-            ]
+            "type": "multiline",
+            "lines": 2
           }
         }
       ],
@@ -709,17 +700,8 @@
             }
           ],
           "answer": {
-            "type": "structured",
-            "answerBlocks": [
-              {
-                "type": "text",
-                "content": ""
-              },
-              {
-                "type": "multiline",
-                "lines": 3
-              }
-            ]
+            "type": "multiline",
+            "lines": 2
           }
         }
       ],
@@ -1194,17 +1176,8 @@
             }
           ],
           "answer": {
-            "type": "structured",
-            "answerBlocks": [
-              {
-                "type": "text",
-                "content": ""
-              },
-              {
-                "type": "multiline",
-                "lines": 3
-              }
-            ]
+            "type": "multiline",
+            "lines": 2
           }
         },
         {
@@ -1267,7 +1240,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{km/h}$"
+            "suffix": "$\\text{km/h}$"
           }
         }
       ],
@@ -1589,7 +1562,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{grams}$"
+        "suffix": "$\\text{grams}$"
       },
       "meta": {}
     },
@@ -1752,7 +1725,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     }

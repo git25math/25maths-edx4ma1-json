@@ -209,7 +209,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Given that $y^5 \times y^n = y^{12}$"
+              "content": "Given that $y^5 \\times y^n = y^{12}$"
             },
             {
               "type": "newline"

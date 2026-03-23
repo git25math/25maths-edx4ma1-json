@@ -184,7 +184,7 @@
         },
         {
           "type": "text",
-          "content": "The plane flies at an average speed of $820\text{ km/h}$."
+          "content": "The plane flies at an average speed of $820\\text{ km/h}$."
         },
         {
           "type": "newline"
@@ -197,7 +197,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{km}$"
+        "suffix": "$\\text{km}$"
       },
       "meta": {}
     },
@@ -272,7 +272,7 @@
       "parts": [],
       "answer": {
         "type": "expression",
-        "suffix": "$\text{kilometres per hour}$"
+        "suffix": "$\\text{kilometres per hour}$"
       },
       "meta": {}
     },
@@ -296,7 +296,7 @@
         },
         {
           "type": "text",
-          "content": "$AF = 21\text{ cm} \\qquad CD = 15\text{ cm} \\qquad AB = FE = 13\text{ cm}$"
+          "content": "$AF = 21\\text{ cm} \\qquad CD = 15\\text{ cm} \\qquad AB = FE = 13\\text{ cm}$"
         },
         {
           "type": "newline"
@@ -317,7 +317,7 @@
         },
         {
           "type": "text",
-          "content": "The area of the shape is $390\text{ cm}^2$"
+          "content": "The area of the shape is $390\\text{ cm}^2$"
         },
         {
           "type": "newline"
@@ -424,7 +424,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{koruna}$"
+        "suffix": "$\\text{koruna}$"
       },
       "meta": {}
     },
@@ -605,7 +605,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{km}$"
+            "suffix": "$\\text{km}$"
           }
         },
         {
@@ -986,7 +986,7 @@
         },
         {
           "type": "text",
-          "content": "The total area of the shaded regions is $80\text{ cm}^2$"
+          "content": "The total area of the shaded regions is $80\\text{ cm}^2$"
         },
         {
           "type": "newline"
@@ -1006,7 +1006,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     },

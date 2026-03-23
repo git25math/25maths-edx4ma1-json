@@ -1497,7 +1497,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^2$"
+        "suffix": "$\\text{cm}^2$"
       },
       "meta": {}
     },
@@ -1541,7 +1541,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{m}^2$"
+        "suffix": "$\\text{m}^2$"
       },
       "meta": {}
     }

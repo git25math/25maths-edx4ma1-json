@@ -259,7 +259,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}$"
+            "suffix": "$\\text{cm}$"
           }
         },
         {
@@ -277,7 +277,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{litres}$"
+            "suffix": "$\\text{litres}$"
           }
         },
         {
@@ -323,7 +323,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}$"
+            "suffix": "$\\text{cm}$"
           }
         }
       ],
@@ -577,7 +577,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}^3$"
+        "suffix": "$\\text{cm}^3$"
       },
       "meta": {}
     },
@@ -650,7 +650,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{euros}$"
+            "suffix": "$\\text{euros}$"
           }
         }
       ],
@@ -1137,7 +1137,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{euros}$"
+            "suffix": "$\\text{euros}$"
           }
         }
       ],
@@ -1176,7 +1176,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}$"
+            "suffix": "$\\text{cm}$"
           }
         },
         {
@@ -1201,7 +1201,7 @@
           ],
           "answer": {
             "type": "number",
-            "suffix": "$\text{cm}$"
+            "suffix": "$\\text{cm}$"
           }
         }
       ],
@@ -1355,7 +1355,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{dollars}$"
+        "suffix": "$\\text{dollars}$"
       },
       "meta": {}
     },
@@ -1511,7 +1511,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "suffix": "$\text{cm}$"
+        "suffix": "$\\text{cm}$"
       },
       "meta": {}
     }
