@@ -191,25 +191,20 @@
         {
           "type": "text",
           "content": "Jenine spins the spinner 150 times."
-        }
-      ],
-      "parts": [
+        },
         {
-          "label": "",
-          "marks": 4,
-          "content": [
-            {
-              "type": "text",
-              "content": "Work out an estimate for the number of times the spinner lands on yellow."
-            }
-          ],
-          "answer": {
-            "type": "number",
-            "content": ""
-          }
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the number of times the spinner lands on yellow."
         }
       ],
-      "answer": null,
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "content": ""
+      },
       "meta": {}
     },
     {

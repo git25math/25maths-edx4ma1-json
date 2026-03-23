@@ -1436,7 +1436,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Chao bought a boat for HK$160 000"
+              "content": "Chao bought a boat for HK\\$160 000"
             },
             {
               "type": "newline"
@@ -1457,7 +1457,7 @@
             },
             {
               "type": "text",
-              "content": "Give your answer correct to the nearest HK$."
+              "content": "Give your answer correct to the nearest HK\\$."
             },
             {
               "type": "space"
@@ -1481,7 +1481,7 @@
             },
             {
               "type": "text",
-              "content": "Her salary after the increase is HK$252 000"
+              "content": "Her salary after the increase is HK\\$252 000"
             },
             {
               "type": "newline"

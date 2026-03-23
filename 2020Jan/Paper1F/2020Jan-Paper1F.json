@@ -680,7 +680,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Kamal sells 240 ice creams for a total of $640"
+          "content": "Kamal sells 240 ice creams for a total of \\$640"
         },
         {
           "type": "newline"
@@ -694,7 +694,7 @@
         },
         {
           "type": "text",
-          "content": "The cost of each large ice cream he sells is $3.80"
+          "content": "The cost of each large ice cream he sells is \\$3.80"
         },
         {
           "type": "newline"

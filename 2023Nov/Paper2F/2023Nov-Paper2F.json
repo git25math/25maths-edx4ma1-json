@@ -638,11 +638,13 @@
                   "content": "Give a reason for your answer to (b) (i)"
                 },
                 {
-                  "type": "multiline",
-                  "lines": 2
+                  "type": "space"
                 }
               ],
-              "answer": null
+              "answer": {
+                "type": "multiline",
+                "lines": 2
+              }
             }
           ],
           "answer": null
@@ -1262,11 +1264,13 @@
               "content": "[Figure]"
             },
             {
-              "type": "multiline",
-              "lines": 4
+              "type": "space"
             }
           ],
-          "answer": null
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
         }
       ],
       "answer": null,
@@ -1436,7 +1440,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Hermione buys a boat for $26\\,800"
+          "content": "Hermione buys a boat for \\$26\\,800"
         },
         {
           "type": "newline"

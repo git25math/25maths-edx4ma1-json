@@ -101,8 +101,7 @@
               "content": "Describe fully the single transformation that maps triangle P onto triangle Q"
             },
             {
-              "type": "multiline",
-              "lines": 2
+              "type": "space"
             }
           ],
           "answer": {

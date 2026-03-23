@@ -623,7 +623,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Max invests $6000 in a savings account for 3 years."
+          "content": "Max invests \\$6000 in a savings account for 3 years."
         },
         {
           "type": "newline"
@@ -644,7 +644,7 @@
         },
         {
           "type": "text",
-          "content": "At the end of 3 years, there is a total of $6311.16 in the account."
+          "content": "At the end of 3 years, there is a total of \\$6311.16 in the account."
         },
         {
           "type": "newline"

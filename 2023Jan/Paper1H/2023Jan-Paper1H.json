@@ -31,25 +31,20 @@
         {
           "type": "table",
           "content": "\\begin{tabular}{|l|l|}\n\\hline\nTime (m) & Frequency \\\\\n\\hline\n$0 < m \\le 12$ & 11 \\\\\n\\hline\n$12 < m \\le 24$ & 25 \\\\\n\\hline\n$24 < m \\le 36$ & 23 \\\\\n\\hline\n$36 < m \\le 48$ & 15 \\\\\n\\hline\n$48 < m \\le 60$ & 6 \\\\\n\\hline\n\\end{tabular}"
-        }
-      ],
-      "parts": [
+        },
         {
-          "label": "",
-          "marks": 4,
-          "content": [
-            {
-              "type": "text",
-              "content": "Work out an estimate for the mean length of time the students spent dancing."
-            }
-          ],
-          "answer": {
-            "type": "number",
-            "unit": "minutes"
-          }
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the mean length of time the students spent dancing."
         }
       ],
-      "answer": null,
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "unit": "minutes"
+      },
       "meta": {}
     },
     {
@@ -223,7 +218,7 @@
         },
         {
           "type": "text",
-          "content": "The amount Shane paid for the car was $32 000"
+          "content": "The amount Shane paid for the car was \\$32 000"
         },
         {
           "type": "newline"
@@ -279,7 +274,7 @@
             },
             {
               "type": "text",
-              "content": "After 1 year, the value of the van was $39 865"
+              "content": "After 1 year, the value of the van was \\$39 865"
             },
             {
               "type": "newline"

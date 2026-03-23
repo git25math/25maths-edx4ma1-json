@@ -24,25 +24,21 @@
         {
           "type": "table",
           "content": "\\begin{tabular}{|c|c|}\n\\hline\nHeight of sunflower (h cm) & Frequency \\\\\n\\hline\n$90 < h \\le 100$ & 8 \\\\\n$100 < h \\le 110$ & 12 \\\\\n$110 < h \\le 120$ & 15 \\\\\n$120 < h \\le 130$ & 10 \\\\\n$130 < h \\le 140$ & 3 \\\\\n\\hline\n\\end{tabular}"
-        }
-      ],
-      "parts": [
+        },
         {
-          "label": "",
-          "marks": 4,
-          "content": [
-            {
-              "type": "text",
-              "content": "Work out an estimate for the mean height of the sunflowers."
-            }
-          ],
-          "answer": {
-            "type": "number",
-            "unit": "cm"
-          }
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the mean height of the sunflowers."
         }
       ],
-      "meta": {}
+      "parts": [],
+      "meta": {},
+      "answer": {
+        "type": "number",
+        "unit": "cm"
+      }
     },
     {
       "qnum": 2,
@@ -739,8 +735,8 @@
               "type": "newline"
             },
             {
-              "type": "table_input",
-              "template": "\\begin{tabular}{|l|l|}\n\\hline\nTime taken (t minutes) & Cumulative frequency \\\\\n\\hline\n$0 \\le t < 5$ & \\\\\n$0 \\le t < 10$ & \\\\\n$0 \\le t < 15$ & \\\\\n$0 \\le t < 20$ & \\\\\n$0 \\le t < 25$ & \\\\\n$0 \\le t < 30$ & \\\\\n\\hline\n\\end{tabular}"
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|}\n\\hline\nTime taken (t minutes) & Cumulative frequency \\\\\n\\hline\n$0 \\le t < 5$ & \\\\\n$0 \\le t < 10$ & \\\\\n$0 \\le t < 15$ & \\\\\n$0 \\le t < 20$ & \\\\\n$0 \\le t < 25$ & \\\\\n$0 \\le t < 30$ & \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {

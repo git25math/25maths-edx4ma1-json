@@ -27,31 +27,26 @@
         },
         {
           "type": "newline"
-        }
-      ],
-      "parts": [
+        },
         {
-          "label": "",
-          "marks": 3,
-          "content": [
-            {
-              "type": "text",
-              "content": "On the grid, draw a bar chart to show this information."
-            },
-            {
-              "type": "newline"
-            },
-            {
-              "type": "text",
-              "content": "[Figure]"
-            }
-          ],
-          "answer": {
-            "type": "none"
-          }
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On the grid, draw a bar chart to show this information."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
         }
       ],
-      "answer": null,
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
       "meta": {}
     },
     {

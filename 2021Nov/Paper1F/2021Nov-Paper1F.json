@@ -1316,14 +1316,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "Alison buys 5 apples and 3 pears for a total cost of $1.96"
+          "content": "Alison buys 5 apples and 3 pears for a total cost of \\$1.96"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Greg buys 3 apples and 2 pears for a total cost of $1.22"
+          "content": "Greg buys 3 apples and 2 pears for a total cost of \\$1.22"
         },
         {
           "type": "newline"

@@ -404,21 +404,21 @@
         },
         {
           "type": "text",
-          "content": "The notebook costs $2.35"
+          "content": "The notebook costs \\$2.35"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Each pencil costs $0.74"
+          "content": "Each pencil costs \\$0.74"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Matt has a total of $20 to spend on the notebook and the pencils."
+          "content": "Matt has a total of \\$20 to spend on the notebook and the pencils."
         },
         {
           "type": "newline"
@@ -985,7 +985,7 @@
         },
         {
           "type": "text",
-          "content": "He paid a total of $72"
+          "content": "He paid a total of \\$72"
         },
         {
           "type": "newline"
@@ -1015,7 +1015,7 @@
         },
         {
           "type": "text",
-          "content": "£1 = $1.34"
+          "content": "£1 = \\$1.34"
         },
         {
           "type": "newline"

@@ -99,14 +99,14 @@
           "content": [
             {
               "type": "text",
-              "content": "Gladys buys a table for $465 to sell in her shop."
+              "content": "Gladys buys a table for \\$465 to sell in her shop."
             },
             {
               "type": "newline"
             },
             {
               "type": "text",
-              "content": "She sells the table for $520"
+              "content": "She sells the table for \\$520"
             },
             {
               "type": "newline"
@@ -151,7 +151,7 @@
             },
             {
               "type": "text",
-              "content": "The normal price of an armchair was $550"
+              "content": "The normal price of an armchair was \\$550"
             },
             {
               "type": "newline"

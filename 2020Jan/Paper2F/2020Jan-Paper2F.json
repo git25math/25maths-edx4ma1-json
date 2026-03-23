@@ -774,14 +774,14 @@
         },
         {
           "type": "text",
-          "content": "3 bottles of juice cost $5.25"
+          "content": "3 bottles of juice cost \\$5.25"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "2 bottles of juice and 5 bars of chocolate cost $9.75"
+          "content": "2 bottles of juice and 5 bars of chocolate cost \\$9.75"
         },
         {
           "type": "newline"

@@ -581,14 +581,14 @@
         },
         {
           "type": "text",
-          "content": "5 chocolate bars cost $5.75"
+          "content": "5 chocolate bars cost \\$5.75"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "2 chocolate bars and 3 packets of sweets cost $7.85"
+          "content": "2 chocolate bars and 3 packets of sweets cost \\$7.85"
         },
         {
           "type": "newline"

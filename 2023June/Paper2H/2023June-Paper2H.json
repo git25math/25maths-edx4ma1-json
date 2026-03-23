@@ -294,7 +294,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Charlotte buys a painting for $680"
+          "content": "Charlotte buys a painting for \\$680"
         },
         {
           "type": "newline"
@@ -315,7 +315,7 @@
         },
         {
           "type": "text",
-          "content": "Give your answer correct to the nearest $"
+          "content": "Give your answer correct to the nearest \\$"
         },
         {
           "type": "space",
@@ -649,8 +649,7 @@
                   "content": "Give a reason for your answer."
                 },
                 {
-                  "type": "multiline",
-                  "lines": 2
+                  "type": "space"
                 }
               ],
               "answer": {
@@ -693,8 +692,7 @@
                   "content": "Give a reason for your answer."
                 },
                 {
-                  "type": "multiline",
-                  "lines": 2
+                  "type": "space"
                 }
               ],
               "answer": {

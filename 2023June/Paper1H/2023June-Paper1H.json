@@ -190,8 +190,7 @@
               "content": "Describe fully the single transformation that maps shape P onto shape Q"
             },
             {
-              "type": "multiline",
-              "lines": 2
+              "type": "space"
             }
           ],
           "answer": {

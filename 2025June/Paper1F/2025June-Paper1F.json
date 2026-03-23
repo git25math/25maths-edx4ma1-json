@@ -415,8 +415,7 @@
               "content": "Explain how you found your answer to part (a)"
             },
             {
-              "type": "multiline",
-              "lines": 2
+              "type": "space"
             }
           ],
           "answer": {
@@ -868,14 +867,14 @@
         },
         {
           "type": "text",
-          "content": "Adam sells each chocolate cake for $8.50"
+          "content": "Adam sells each chocolate cake for \\$8.50"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "He sells each lemon cake for $12.75"
+          "content": "He sells each lemon cake for \\$12.75"
         },
         {
           "type": "newline"

@@ -1674,7 +1674,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Charlotte buys a painting for $680"
+          "content": "Charlotte buys a painting for \\$680"
         },
         {
           "type": "newline"
@@ -1695,7 +1695,7 @@
         },
         {
           "type": "text",
-          "content": "Give your answer correct to the nearest $"
+          "content": "Give your answer correct to the nearest \\$"
         },
         {
           "type": "space"

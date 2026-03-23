@@ -439,14 +439,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "2 cupcakes and 5 doughnuts cost $4.50"
+          "content": "2 cupcakes and 5 doughnuts cost \\$4.50"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "3 cupcakes cost $2.25"
+          "content": "3 cupcakes cost \\$2.25"
         },
         {
           "type": "newline"
@@ -621,8 +621,7 @@
               "content": "Explain what Lui has done wrong in his working."
             },
             {
-              "type": "multiline",
-              "lines": 2
+              "type": "space"
             }
           ],
           "answer": {
@@ -1132,8 +1131,7 @@
               "content": "[Figure]"
             },
             {
-              "type": "multiline",
-              "lines": 2
+              "type": "space"
             }
           ],
           "answer": {
@@ -1420,8 +1418,7 @@
               "content": "Write down three inequalities that define the region R"
             },
             {
-              "type": "multiline",
-              "lines": 3
+              "type": "space"
             }
           ],
           "answer": {

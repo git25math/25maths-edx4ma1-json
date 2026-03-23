@@ -490,14 +490,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "Plates cost $14 each."
+          "content": "Plates cost \\$14 each."
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Ben has $250 to spend."
+          "content": "Ben has \\$250 to spend."
         },
         {
           "type": "newline"
@@ -511,7 +511,7 @@
         },
         {
           "type": "text",
-          "content": "How much of the $250 does he have left?"
+          "content": "How much of the \\$250 does he have left?"
         },
         {
           "type": "space",

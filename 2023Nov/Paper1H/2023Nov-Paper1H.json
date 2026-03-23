@@ -167,7 +167,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Joshua buys a car for $12 500"
+          "content": "Joshua buys a car for \\$12 500"
         },
         {
           "type": "newline"

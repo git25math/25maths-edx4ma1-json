@@ -1164,7 +1164,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Mario is going to save $50 in the year 2021"
+          "content": "Mario is going to save \\$50 in the year 2021"
         },
         {
           "type": "newline"
@@ -1178,7 +1178,7 @@
         },
         {
           "type": "text",
-          "content": "Mario will save a total of $33 125 from 2021 to 2070"
+          "content": "Mario will save a total of \\$33 125 from 2021 to 2070"
         },
         {
           "type": "newline"

@@ -953,14 +953,14 @@
         },
         {
           "type": "text",
-          "content": "1 tin for $13"
+          "content": "1 tin for \\$13"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "4 tins for $40"
+          "content": "4 tins for \\$40"
         },
         {
           "type": "newline"

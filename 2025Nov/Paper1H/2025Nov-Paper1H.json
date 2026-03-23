@@ -24,25 +24,20 @@
         {
           "type": "table",
           "content": "\\begin{tabular}{|l|l|}\n\\hline\nNumber of kilometres (K) & Frequency \\\\\n\\hline\n$0 \\le K < 5$ & 8 \\\\\n$5 \\le K < 10$ & 7 \\\\\n$10 \\le K < 15$ & 3 \\\\\n$15 \\le K < 20$ & 10 \\\\\n$20 \\le K < 25$ & 2 \\\\\n\\hline\n\\end{tabular}"
-        }
-      ],
-      "parts": [
+        },
         {
-          "label": "",
-          "marks": 4,
-          "content": [
-            {
-              "type": "text",
-              "content": "Calculate an estimate for the mean number of kilometres that Ted cycled on each day in April."
-            }
-          ],
-          "answer": {
-            "type": "number",
-            "unit": "kilometres"
-          }
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate an estimate for the mean number of kilometres that Ted cycled on each day in April."
         }
       ],
-      "answer": null,
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "unit": "kilometres"
+      },
       "meta": {}
     },
     {
@@ -211,7 +206,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Eli and Peta share $275 in the ratio 2 : 3"
+          "content": "Eli and Peta share \\$275 in the ratio 2 : 3"
         },
         {
           "type": "newline"

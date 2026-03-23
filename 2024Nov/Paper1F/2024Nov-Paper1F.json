@@ -971,21 +971,21 @@
         },
         {
           "type": "text",
-          "content": "35% of the 140 plants cost $6 each."
+          "content": "35% of the 140 plants cost \\$6 each."
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$\\frac{1}{4}$ of the 140 plants cost $8 each."
+          "content": "$\\frac{1}{4}$ of the 140 plants cost \\$8 each."
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "The rest of the 140 plants cost $10 each."
+          "content": "The rest of the 140 plants cost \\$10 each."
         },
         {
           "type": "newline"

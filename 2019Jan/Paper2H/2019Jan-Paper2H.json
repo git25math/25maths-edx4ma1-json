@@ -322,7 +322,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Jenny invests $8500 for 3 years in a savings account."
+              "content": "Jenny invests \\$8500 for 3 years in a savings account."
             },
             {
               "type": "newline"
@@ -382,7 +382,7 @@
             },
             {
               "type": "text",
-              "content": "On 1st January 2017, the value of the house was $687 700"
+              "content": "On 1st January 2017, the value of the house was \\$687 700"
             },
             {
               "type": "newline"
@@ -547,25 +547,21 @@
         },
         {
           "type": "newline"
-        }
-      ],
-      "parts": [
+        },
         {
-          "label": "",
-          "marks": 3,
-          "content": [
-            {
-              "type": "text",
-              "content": "Find an equation for L."
-            }
-          ],
-          "answer": {
-            "type": "expression",
-            "content": "y = x + 2"
-          }
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find an equation for L."
         }
       ],
-      "meta": {}
+      "parts": [],
+      "meta": {},
+      "answer": {
+        "type": "expression",
+        "content": "y = x + 2"
+      }
     },
     {
       "qnum": 11,

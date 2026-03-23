@@ -1257,7 +1257,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Lijuan’s salary is 180 000 Hong Kong Dollars (HK$)."
+              "content": "Lijuan’s salary is 180 000 Hong Kong Dollars (HK\\$)."
             },
             {
               "type": "newline"
@@ -1295,7 +1295,7 @@
             },
             {
               "type": "text",
-              "content": "The sale price of a camera is HK$6630"
+              "content": "The sale price of a camera is HK\\$6630"
             },
             {
               "type": "newline"

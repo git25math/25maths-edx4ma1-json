@@ -139,8 +139,7 @@
               "content": "[Figure]"
             },
             {
-              "type": "multiline",
-              "lines": 2
+              "type": "space"
             }
           ],
           "answer": {
@@ -301,7 +300,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Hermione buys a boat for $26 800"
+          "content": "Hermione buys a boat for \\$26 800"
         },
         {
           "type": "text",

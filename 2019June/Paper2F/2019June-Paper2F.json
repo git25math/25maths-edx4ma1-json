@@ -562,7 +562,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Nina buys 8 pencils and 13 identical rulers.\nEach pencil costs $0.58\nThe total cost is $23.62\nWork out the cost of each ruler."
+              "content": "Nina buys 8 pencils and 13 identical rulers.\nEach pencil costs \\$0.58\nThe total cost is \\$23.62\nWork out the cost of each ruler."
             }
           ],
           "answer": {
@@ -576,7 +576,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Bjorn has $15 to spend on pens.\nEach pen costs $0.62\nHe buys as many pens as he can.\nWork out how much change Bjorn should get."
+              "content": "Bjorn has \\$15 to spend on pens.\nEach pen costs \\$0.62\nHe buys as many pens as he can.\nWork out how much change Bjorn should get."
             }
           ],
           "answer": {

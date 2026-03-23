@@ -590,14 +590,14 @@
         },
         {
           "type": "text",
-          "content": "Special offer A: Normally $1.40 a tin. Special offer: Buy 1 tin, get 1 tin half price"
+          "content": "Special offer A: Normally \\$1.40 a tin. Special offer: Buy 1 tin, get 1 tin half price"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Special offer B: Normally pack of 6 tins for $7.20. Special offer: 20% off each pack of 6 tins"
+          "content": "Special offer B: Normally pack of 6 tins for \\$7.20. Special offer: 20% off each pack of 6 tins"
         },
         {
           "type": "newline"

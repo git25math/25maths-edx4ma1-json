@@ -582,7 +582,7 @@
         },
         {
           "type": "text",
-          "content": "He receives a total of $7200 from selling the tickets."
+          "content": "He receives a total of \\$7200 from selling the tickets."
         },
         {
           "type": "newline"
@@ -603,7 +603,7 @@
         },
         {
           "type": "text",
-          "content": "The cost of an adult ticket is $13.60"
+          "content": "The cost of an adult ticket is \\$13.60"
         },
         {
           "type": "newline"
@@ -1488,7 +1488,7 @@
         },
         {
           "type": "text",
-          "content": "One tin of paint costs $16.40"
+          "content": "One tin of paint costs \\$16.40"
         },
         {
           "type": "newline"
@@ -1502,7 +1502,7 @@
         },
         {
           "type": "text",
-          "content": "The stage manager has $190 to spend."
+          "content": "The stage manager has \\$190 to spend."
         },
         {
           "type": "newline"
@@ -1761,7 +1761,7 @@
         },
         {
           "type": "text",
-          "content": "The amount Shane paid for the car was $32 000"
+          "content": "The amount Shane paid for the car was \\$32 000"
         },
         {
           "type": "newline"
@@ -1814,7 +1814,7 @@
             },
             {
               "type": "text",
-              "content": "After 1 year, the value of the van was $39 865"
+              "content": "After 1 year, the value of the van was \\$39 865"
             },
             {
               "type": "text",

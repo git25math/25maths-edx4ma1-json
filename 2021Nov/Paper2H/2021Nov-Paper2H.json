@@ -279,14 +279,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "Victor buys 12 bottles of apple juice for a total cost of $21"
+          "content": "Victor buys 12 bottles of apple juice for a total cost of \\$21"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Victor sells all 12 bottles at $2.45 each bottle."
+          "content": "Victor sells all 12 bottles at \\$2.45 each bottle."
         },
         {
           "type": "newline"
