@@ -1,0 +1,1683 @@
+{
+  "v": "1.0",
+  "paper": "2023June-Paper1F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2023,
+  "session": "June",
+  "paperNum": "1F",
+  "type": "foundation-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shade $\\frac{4}{5}$ of this shape."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{27}{36}$ as a fraction in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{3}{100}$ as a decimal."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{7}{50}$ as a percentage."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Melanie finds this information about the number of people, in millions, who speak each of five languages as their first language."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|} \\hline Language & Number of people \\\\ & (in millions) \\\\ \\hline Spanish & 480 \\\\ Greek & 13 \\\\ Mandarin Chinese & 918 \\\\ Tamil & 75 \\\\ Japanese & 128 \\\\ \\hline \\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which of these languages is the first language of the greatest number of people?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "More people speak Japanese as their first language than speak Greek as their first language."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "How many more?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " million"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The number of people who speak Tamil as their first language is $\\frac{1}{4}$ of the number of people who speak Bengali as their first language."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the number of people who speak Bengali as their first language."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " million"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "It is estimated that 861 700 people can speak Welsh."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write 861 700 in words."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ivor asks 20 children in his class to name their favourite fruit."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here are his results."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "apple orange grape peach grape banana apple orange grape peach apple apple banana peach orange grape orange apple orange orange"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the frequency table to show this information."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|c|} \\hline Fruit & Tally & Frequency \\\\ \\hline apple & & \\\\ banana & & \\\\ grape & & \\\\ peach & & \\\\ orange & & \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the bar chart for the information in your table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 4.15 pm as a time using the 24-hour clock."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On Thursday, Belina drives to Theo’s house."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She leaves home at 09 15"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She arrives at Theo’s house at 14 40"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out how long the journey takes."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in hours and minutes."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "number",
+                "suffix": " hours"
+              },
+              {
+                "type": "number",
+                "suffix": " minutes"
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $p + p + p + p$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $5e + 6f + 7e – 2f$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $13 – x = 7$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ = "
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $4y + 7 = 43$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Vivienne makes bread."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The weight of yeast she uses is 1% of the weight of flour she uses."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Vivienne uses 750 g of flour."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the weight of yeast she uses."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " g"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Bernard makes currant buns."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "For every 400 g of flour he uses, he uses 125 g of currants."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Bernard uses 2000 g of flour."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the weight of currants he uses."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " g"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a rectangle measuring 10 cm by 3 cm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A shape is made by placing 3 of these rectangles together as shown in the diagram."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of the shape."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " cm"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Carla wraps some parcels with ribbon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "She wraps 2 large parcels and 3 small parcels."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "For each large parcel, Carla uses 185 centimetres of ribbon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "For each small parcel, she uses $p$ centimetres of ribbon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In total, Carla uses exactly 7 metres of ribbon to wrap the parcels."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $p$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$p$ = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a number machine."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure: input $\\rightarrow \\times 10 \\rightarrow + 6 \\rightarrow$ output]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the output when the input is 14"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a different number machine."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure: input $\\rightarrow \\times \\ldots \\rightarrow + 9 \\rightarrow$ output]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "When the input is 11 the output is 64"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write a number on the dotted line to complete the number machine."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There are 30 counters in a bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "13 of the counters are purple."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "11 of the counters are white."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The rest of the counters are red."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Suha takes at random a counter from the bag."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the probability that the counter is purple."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the probability that the counter is red."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The counter is put back into the bag."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Clive now puts 10 more counters into the bag."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "When a counter is taken at random from the bag,"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "the probability that it is white is now $\\frac{2}{5}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "How many of the 10 counters that Clive puts into the bag are white?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Pablo buys some tickets to go to the theatre."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "3 of the tickets are for adults."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The remaining tickets are for children."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each adult ticket costs 12 euros."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The children’s tickets each cost 30% less than an adult ticket."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total amount of money that Pablo pays for all the tickets is 94.80 euros."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the number of children’s tickets Pablo buys."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Pam plays netball for her school team."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here are the numbers of goals she scored in the last 8 games."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The numbers of goals are written in order of size."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "1 1 2 2 3 6 $x$ 14"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the range of the number of goals Pam scored."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median number of goals Pam scored."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The mean number of goals Pam scored in the 8 games is 5"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $x$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a rectangle and an isosceles triangle."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The perimeter of the rectangle is equal to the perimeter of the triangle."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the area of the rectangle."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " $\\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a cuboid."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The volume of the cuboid is 231 $\\text{cm}^3$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of $w$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$w$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$$\\frac{9.12 \\times 4.5}{3.28 \\times 9.64}$$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer as a decimal."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down all the figures on your calculator display."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write your answer to part (a) correct to 3 significant figures."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathcal{E} = \\{5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A = {odd numbers}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "B = {multiples of 5}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Complete the Venn diagram for this information."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Last season, the number of goals scored by Arjun, by Simon and by Kath for their football team were in the ratios $2 : 5 : 8$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Simon scored 12 more goals than Arjun."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of goals scored by Kath."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table gives information about the number of minutes that Abby spent walking each day in September."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|} \\hline Number of minutes (M) & Frequency \\\\ \\hline $0 < M \\le 30$ & 5 \\\\ $30 < M \\le 60$ & 6 \\\\ $60 < M \\le 90$ & 8 \\\\ $90 < M \\le 120$ & 9 \\\\ $120 < M \\le 150$ & 2 \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the total number of minutes that Abby spent walking in September."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " minutes"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Nanette buys 60 notebooks for a total cost of 780 dirhams."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Nanette sells 70% of the notebooks for 22 dirhams each."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "She sells the remaining notebooks for 19 dirhams each."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out Nanette’s percentage profit."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a sketch of triangle A and triangle B on a coordinate grid."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Given that triangle A has been translated to give triangle B, work out the value of d, the value of e and the value of f"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "number",
+                "prefix": "$d$ = "
+              },
+              {
+                "type": "number",
+                "prefix": "$e$ = "
+              },
+              {
+                "type": "number",
+                "prefix": "$f$ = "
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows shape P and shape Q drawn on a grid."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps shape P onto shape Q"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid above, rotate shape P 90° clockwise about (3, 5)"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Label your shape R"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shaded shape AEBCD made by removing triangle AEB from rectangle ABCD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AE = 7.2 cm BE = 5.4 cm BC = 6 cm angle AEB = 90°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of the shaded shape."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " cm"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $(2c^4d^7)^3$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $5y^0$ where $y > 0$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $16a^2b^3 + 20a^3b$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Factorise $x^2 + 9x – 22$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Hence solve $x^2 + 9x – 22 = 0$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The region R, shown shaded in the diagram, is bounded by three straight lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the inequalities that define R"
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 3
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 300 as a product of its prime factors."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A = 2 \\times 2 \\times 2 \\times 3 \\times 3 \\times 5$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$B = 2 \\times 2 \\times 3 \\times 3 \\times 3 \\times 5$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the lowest common multiple (LCM) of $5A$ and $7B$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$2x + 9y = 14.5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$7x + 3y = 8$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "$x$ = "
+          },
+          {
+            "type": "number",
+            "prefix": "$y$ = "
+          }
+        ]
+      },
+      "meta": {}
+    }
+  ]
+}

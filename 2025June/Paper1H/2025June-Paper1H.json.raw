@@ -1,0 +1,1201 @@
+{
+  "v": "1.0",
+  "paper": "2025June-Paper1H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2025,
+  "session": "June",
+  "paperNum": "1H",
+  "type": "higher-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 2,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Anna makes cups. Each cup costs 6 Swiss francs to make."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Anna puts the cups into boxes to sell. Each box contains 4 cups."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Anna sells 80 boxes of cups for a total of 2160 Swiss francs."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the percentage profit Anna makes. Show your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The height of each cup is 9 cm, correct to the nearest cm"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the lower bound of the height."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The weight of each cup is 120 g, correct to the nearest 10 g"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the upper bound of the weight."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{g}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "AB and BC are two sides of a regular polygon with n sides."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of n Show your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "n = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$x^5 \\times x^7 = x^m$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of m"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "m = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y^8 \\div y^3 = y^n$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of n"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "n = "
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully $(5a^4r^2)^3$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a sale, normal prices are reduced by 28$\\%$. The sale price of a watch is 198 euros."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the normal price of the watch."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " euros"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $x - \\frac{4}{2} = \\frac{3}{6} + x$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "x = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Factorise $y^2 - 11y + 30$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Hence solve $y^2 - 11y + 30 = 0$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Here is a solid cylinder."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The radius of the cylinder is 8 cm. The height of the cylinder is h cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The volume of the cylinder is 3892 cm$^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of h. Give your answer correct to one decimal place."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "h = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 520 million in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $8.79 \\times 10^{-5}$ as an ordinary number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $(5 \\times 10^{42}) \\times (7 \\times 10^{-180})$. Give your answer in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "ABCD is a trapezium with one line of symmetry."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "angle ADC = 60° AD = 12 cm DC = 47 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of the trapezium. Give your answer correct to 3 significant figures. Show your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = x^3 + 2x + 3$"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\nx & –3 & –2 & –1 & 0 & 1 & 2 & 3 \\\\\n\\hline\ny & –9 & & 0 & 3 & 6 & & 36 \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = x^3 + 2x + 3$ for $-3 \\le x \\le 3$"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "OABC is a sector of a circle, centre O"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "angle AOC = 140° OA = OC = 16 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the area of the sector. Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Express $\\frac{5}{x-4} - \\frac{3}{x-6}$ as a single fraction in its simplest form."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Charlotte bought an apartment for $750 000"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In the first year, the value of the apartment decreased by 4$\\%$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In the second year, the value of the apartment decreased by 6.5$\\%$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In the third year, the value of the apartment increased by x$\\%$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "At the end of the third year, the value of Charlotte’s apartment was $698 445"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "x = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ricardo is going to play one game of badminton and one game of tennis."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He can either win or lose each game."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that he will win the game of badminton is 0.7"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that he will win the game of tennis is 0.4"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the probability tree diagram."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 6
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the probability that Ricardo loses both games."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\sqrt[3]{3^5} = 3^k$ where k is an integer."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of k"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "k = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $\\frac{21}{3 - \\sqrt{2}}$ can be written in the form $c + d\\sqrt{2}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "where c and d are integers. Show each stage of your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "f (x) = $9 - \\sqrt{x}$ where $x \\ge 0$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "g (x) = $4x^2$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find f (9)"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve fg (x) < 0. Show clear algebraic working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The histogram shows information about the times, in minutes, that some people were in a shop."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the proportion of these people who were in the shop for more than 40 minutes."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y$ is inversely proportional to $x^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$y = 4$ when $x = 3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $x$ when $y = 864$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "x = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The equation of a curve is $y = \\text{f}(x)$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "There is only one minimum point on the curve. The coordinates of this minimum point are (8, –12)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write down the coordinates of the minimum point on the curve with equation"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y = \\text{f}(x) + 3$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y = \\text{f}(2x)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Work out the length of BC. Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A box contains 20 counters."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "9 of the counters are red",
+            "7 of the counters are yellow",
+            "4 of the counters are green"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Alex takes at random three counters from the box."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the probability that exactly two of the three counters are the same colour."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$x^2 + 3y + y^2 = 7$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$y = x + 2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "OAB is a triangle. P is the midpoint of OA. Q is a point on OB"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ABR and PQR are straight lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{OA} = 12\\mathbf{a}$ $\\vec{OB} = 8\\mathbf{b}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Express $\\vec{AB}$ in terms of $\\mathbf{a}$ and $\\mathbf{b}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "AB : BR = 1 : 2 $\\vec{OQ} = n\\mathbf{b}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Use a vector method to find the value of n"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "n = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "An arithmetic series has 30 terms."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The first term is a. The common difference is d"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The 20th term is 123. The sum of the 30 terms is 2880"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of a and the value of d. Show clear algebraic working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "expression",
+            "prefix": "a = "
+          },
+          {
+            "type": "expression",
+            "prefix": "d = "
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "PQRS is a square."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "PR is a diagonal of the square."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "P is the point with coordinates (4, 7). R is the point with coordinates (8, –5)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find an equation of the straight line that passes through the points Q and S. Give your answer in the form $ay = bx + c$ where a, b and c are integers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    }
+  ]
+}

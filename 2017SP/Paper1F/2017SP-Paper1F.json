@@ -1,0 +1,1484 @@
+{
+  "v": "1.0",
+  "paper": "2017SP-Paper1F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2017,
+  "session": "Specimen",
+  "paperNum": "1F",
+  "type": "foundation-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{12}{15}$ as a fraction in its simplest form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shade $\\frac{1}{6}$ of the shape below."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{1}{5}$ as a decimal."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{7}{10}$ as a percentage."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The pictogram shows information about the number of goals scored by each of five hockey teams in March."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total number of goals scored in March by the five hockey teams was 152"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How many goals did City score in March?"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify$\\quad\\quad 4x + 9x – 5x$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify$\\quad\\quad 6m \\times 4p$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve$\\quad\\quad 8t = 40$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$t$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ramla has two full 1.5 litre bottles of water."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "She wants to fill as many glasses as possible with water from the bottles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each glass can hold 180 millilitres of water."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How many glasses can Ramla completely fill?"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Hassam has a fair 6‑sided spinner."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The spinner can land on red, on green or on blue."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Hassam spins his spinner once."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "From the diagram above, write down the letter of the arrow that points to the probability that the spinner lands on"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "blue,"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "green,"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "purple."
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jake is making a different spinner."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "His spinner is a fair 8‑sided spinner."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "He uses the colours black (B), white (W), yellow (Y) and pink (P)."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "For Jake’s spinner, when he spins the spinner once"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "the probability that the spinner will land on black is equal to the probability that the spinner will land on white",
+                "the probability that the spinner will land on yellow is twice the probability that the spinner will land on pink"
+              ]
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "On the diagram below, use the letters B, W, Y and P to show how Jake should colour his spinner."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$E = \\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$A = \\{1, 2, 3, 4, 6, 12\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$B = \\{2, 3, 5, 7, 11\\}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram to show this information."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "List the members of the set"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$A \\cap B$"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$B'$"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows information about the number of eggs in each of 40 birds’ nests."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline Number of eggs & Frequency \\\\\n\\hline 0 & 5 \\\\\n\\hline 1 & 14 \\\\\n\\hline 2 & 11 \\\\\n\\hline 3 & 6 \\\\\n\\hline 4 & 3 \\\\\n\\hline 5 & 1 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mode."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the median."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the total number of eggs."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these nests is chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that there are more than 2 eggs in the nest."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a cuboid."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the volume of the cuboid."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}^3$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "How many vertices has a cuboid?"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "How many edges has a cuboid?"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$T = 3c + 7d$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $T$ when $c = 9$ and $d = –2$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$P = 3a^2 + g^3$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $P$ when $a = –4$ and $g = 2$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle ABC is drawn on a centimetre grid."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Reflect triangle ABC in the mirror line."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In triangle ABC"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$AB = 3\\text{cm}$ and angle $CAB = 45°$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Triangle ABC is enlarged by scale factor 5"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "For the enlarged triangle, write down"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the length of the side that corresponds to AB"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$\\text{cm}$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": null,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the size of the angle that corresponds to angle CAB"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$°$"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jenna travelled from London to Edinburgh by coach."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The coach left London at 21 10 on Monday."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The coach arrived in Edinburgh at 06 45 on Tuesday."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "How long did the coach take to travel from London to Edinburgh?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in hours and minutes."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "template": "........................... hours............................ minutes"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "A bus travelled a distance of 493 km from Paris to Zurich."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The bus took $11\\frac{1}{4}$ hours to travel from Paris to Zurich."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the average speed of the bus."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer, in km/h, correct to the nearest whole number."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{km/h}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On the grid, draw the graph of $y = 1 – 3x$ for values of $x$ from –2 to 3"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ABC is parallel to DEFG"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$BC = BF$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle $ABE = 39°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle $CFG = 63°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of angle $x$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give a reason for each stage in your working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Calvin has 8 identical rectangular tiles and 4 identical square tiles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He arranges the tiles to fit exactly round the edge of a rectangle, as shown in the diagram below."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of one of Calvin’s rectangular tiles."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Aiko, Max and Pau share 5400 yen in the ratios 5 : 3 : 4"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How much money does each of them get?"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "Aiko ",
+            "suffix": " yen"
+          },
+          {
+            "type": "number",
+            "prefix": "Max ",
+            "suffix": " yen"
+          },
+          {
+            "type": "number",
+            "prefix": "Pau ",
+            "suffix": " yen"
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "pressure = $\\frac{\\text{force}}{\\text{area}}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the pressure exerted by a force of 810 newtons on an area of 120 $\\text{cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in newtons/m$^2$"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{newtons/m}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the Highest Common Factor (HCF) of 140 and 245"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "A machine has a buzzer that sounds every 50 minutes."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The machine also has a bell that sounds every 80 minutes."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The buzzer and the bell sound together at 10 am."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the time at which they next sound together."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 9,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully$\\quad\\quad 6y^2 + 15y$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify$\\quad\\quad (m + 9)(m – 5)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make $t$ the subject of$\\quad\\quad s = \\frac{1}{2}at^2$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve$\\quad\\quad \\frac{x - 6}{5} = x + 1$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows three identical rectangles."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{5}{8}$ of rectangle A is shaded."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "80% of rectangle C is shaded."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "What fraction of rectangle B is shaded?"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Lijuan’s salary is 180 000 Hong Kong Dollars (HK$)."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She gets a salary increase of 3%"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out Lijuan’s salary after this increase."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "HK$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In a sale, all normal prices are reduced by 15%"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The sale price of a camera is HK$6630"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the normal price of the camera."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "HK$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ian plays 7 games of cricket."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "His mean score per game for these 7 games is 42 runs."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Ian is going to play one more game of cricket."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He wants his mean score per game for the 8 games to be exactly 50 runs."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How many runs must he score in his 8th game?"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the population, correct to two significant figures, of each of six countries in April 2016."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline Country & Population (April 2016) \\\\\n\\hline Hungary & $9.8\\times10^6$ \\\\\n\\hline Mexico & $1.3\\times10^8$ \\\\\n\\hline Thailand & $6.8\\times10^7$ \\\\\n\\hline Nigeria & $1.9\\times10^8$ \\\\\n\\hline Singapore & $5.7\\times10^6$ \\\\\n\\hline Egypt & $9.3\\times10^7$ \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $9.3\\times10^7$ as an ordinary number."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which of these countries had the least population?"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The population of China was $1.382\\times10^9$ in April 2016."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The population of India was $1.327\\times10^9$ in April 2016."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the difference between the population of China and the population of India in April 2016."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows an isosceles triangle."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of the triangle."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,1616 @@
+{
+  "v": "1.0",
+  "paper": "2021June-Paper2F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2021,
+  "session": "June",
+  "paperNum": "2F",
+  "type": "foundation-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the length, in kilometres, of the coastline of each of five oceans."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nOcean & Length (kilometres) \\\\\n\\hline\nArctic & 45\\,389 \\\\\nAtlantic & 111\\,866 \\\\\nIndian & 66\\,526 \\\\\nPacific & 135\\,663 \\\\\nSouthern & 17\\,968 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which of these oceans has the greatest length of coastline?"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number 17\\,968 in words."
+            },
+            {
+              "type": "space",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number 66\\,526 correct to the nearest thousand."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the total length of the coastlines of the Arctic Ocean and the Pacific Ocean."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " kilometres"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the order of rotational symmetry of a square."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Measure the size of the angle marked $x$."
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$°$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name of this type of angle."
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "text"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a 3-D shape."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name of this 3-D shape."
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "text"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "How many edges does this shape have?"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The pictogram gives some information about the number of parcels delivered by a delivery company on each of five days last week."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On Monday, the delivery company delivered 20 parcels."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total number of parcels delivered by the delivery company on these five days."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The points A, B and C, shown on the grid, are the vertices of triangle ABC."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of the point B."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of triangle ABC."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The coordinates of point D are $(1, -4)$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, mark with a cross ($\\times$) the position of D."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Label the point D."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the midpoint of AB."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a shape made of squares."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shade $\\frac{3}{5}$ of the shape."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which one of these fractions is not equivalent to $\\frac{4}{7}$?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$\\frac{40}{70}$ \\quad $\\frac{8}{14}$ \\quad $\\frac{400}{700}$ \\quad $\\frac{14}{17}$ \\quad $\\frac{20}{35}$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{3}{10}$ as a percentage."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{77}{9}$ as a mixed number."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{5}{6}$ of a number is 40"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "What is the number?"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The cost of a mobile phone in the UK is £350"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cost of an identical mobile phone in India is 28\\,938 rupees."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The exchange rate is £1 = 91 rupees."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cost of the mobile phone in the UK is more than the cost of the mobile phone in India."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how much more."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Hassan is going to eat at a restaurant."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here is the menu at the restaurant."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nStarter & Main course \\\\\n\\hline\nFruit (F) & Burger (B) \\\\\nPrawns (P) & Curry (C) \\\\\nSoup (S) & Lasagne (L) \\\\\n& Risotto (R) \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Hassan is going to choose one starter and one main course from the menu."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "List all the possible combinations that Hassan can choose."
+        },
+        {
+          "type": "space",
+          "lines": 3
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 3
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $w \\times w \\times w \\times w \\times w$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $5a \\times 3c$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $3e + 2f - e + 5f$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $5x - 7 = x + 12$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows information about the number of pieces of homework each student in Year 11 received last week."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nNumber of pieces of & \\\\\nhomework & Frequency \\\\\n\\hline\n3 & 4 \\\\\n4 & 8 \\\\\n5 & 10 \\\\\n6 & 12 \\\\\n7 & 4 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the range of the number of pieces of homework."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mode of the number of pieces of homework."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the mean number of pieces of homework."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to one decimal place."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABC is a triangle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = 7\\,cm and BC = 6.2\\,cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle ABC = 65$°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Draw accurately the triangle ABC."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The line AB has been drawn for you."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A circle has radius 7.5\\,cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of the circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "This formula can be used to work out the cost, in riyals, of hiring a bicycle in Qatar for a number of days."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Cost = 65 $\\times$ number of days + 44"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ghalia hired a bicycle in Qatar for 14 days."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the cost."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " riyals"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "This formula can be used to work out the cost, in riyals, of hiring a helmet in Qatar for a number of days."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Cost = 12.5 $\\times$ number of days"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Kasun wants to hire a bicycle and a helmet for the same number of days."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "He wants to hire them for as many days as he can."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "He has 750 riyals to spend."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out how much of the 750 riyals is not spent."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " riyals"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There are some counters in a bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "7 of the counters are blue."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "5 of the counters are green."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The rest of the counters are yellow."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "One counter is going to be taken at random from the bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that the counter is blue or is green is $\\frac{6}{13}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many yellow counters there are in the bag."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out 39$\\%$ of 450"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write one pair of brackets in this calculation so that the answer is correct."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "9 $\\times$ 8 $-$ 5 $-$ 2 = 25"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $\\frac{8.9 - 6.2}{3.5}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer as a decimal."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down all the figures on your calculator display."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write 600 as a product of powers of its prime factors."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $2 \\frac{4}{7} \\div 1 \\frac{1}{8} = 2 \\frac{2}{7}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bearing of Paris from London is 149$°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the bearing of London from Paris."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "E = {letters of the alphabet}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "B = {b, r, a, z, i, l}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "I = {i, r, e, l, a, n, d}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "List the members of the set"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "B $\\cup$ I"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "B $\\cap$ I$\\prime$"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "K = {k, e, n, y, a}"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Cody writes down the statement B $\\cap$ K = $\\emptyset$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Cody's statement is wrong."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Explain why."
+            },
+            {
+              "type": "space",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ABCD and FGHI are parallel straight lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "EBGJ and ECH are straight lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "BE = CE"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle BEC = 44$°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of angle JGH."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give a reason for each stage of your working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mariana sells bags of bird food."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The bags that Mariana sold last week each contained 12\\,kg of seeds."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The bags that she is going to sell next week will each contain a mixture of nuts and seeds where for each bag"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "weight of nuts : weight of seeds = 4 : 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total weight of the nuts and the seeds in each bag will be 19.35\\,kg"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The weight of seeds in each bag that Mariana sells next week will be less than the weight of seeds in each bag that Mariana sold last week."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out this decrease as a percentage of the weight of seeds in each bag that Mariana sold last week."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to one decimal place."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a right-angled triangle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $x$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to one decimal place."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$5a + 2c = 10$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$2a - 4c = 7$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space"
+        },
+        {
+          "type": "text",
+          "content": "$a$ = ......................................................."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$c$ = ......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "$a$ ="
+          },
+          {
+            "type": "number",
+            "prefix": "$c$ ="
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(i)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise $x^2 + 2x - 24$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Hence solve $x^2 + 2x - 24 = 0$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a triangular prism."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the volume of the prism."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^3$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Chengbo sold a house for 180\\,000 yuan."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The amount for which he sold the house is 24$\\%$ more than the amount he paid for the house."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out how much Chengbo paid for the house."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 3 significant figures."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " yuan"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Zhi bought a house on 1st January 2017"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "When she bought the house, its value was 120\\,000 yuan."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The value of the house increased by 1.8$\\%$ per year."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of Zhi's house on 1st January 2020"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 3 significant figures."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " yuan"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

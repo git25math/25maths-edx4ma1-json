@@ -1,0 +1,1528 @@
+{
+  "v": "1.0",
+  "paper": "2025June-Paper2F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2025,
+  "session": "June",
+  "paperNum": "2F",
+  "type": "foundation-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Cho finds this information about the areas, in square kilometres, of some South American countries."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nCountry & Area (square kilometres) \\\\\n\\hline\nParaguay & 406752 \\\\\nSuriname & 163 800 \\\\\nUruguay & 173 626 \\\\\nVenezuela & 926 690 \\\\\nChile & 756 100 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which of these countries has the largest area?"
+            }
+          ],
+          "answer": {
+            "type": "text",
+            "content": ""
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number 163800 in words."
+            }
+          ],
+          "answer": {
+            "type": "text",
+            "content": ""
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Circle the word that describes the value of the 7 in 406752"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "7 tenths 7 tens 7 hundreds 7 hundredths 7 thousandths"
+            }
+          ],
+          "answer": {
+            "type": "text",
+            "content": ""
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number 173626 correct to the nearest thousand."
+            }
+          ],
+          "answer": {
+            "type": "text",
+            "content": ""
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the difference between the area of Chile and the area of Uruguay."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "square kilometres"
+            }
+          ],
+          "answer": {
+            "type": "text",
+            "content": ""
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Zia asks 20 adults to name their favourite African animal."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here are her results."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "elephant rhinoceros elephant rhinoceros rhinoceros lion lion zebra buffalo elephant rhinoceros lion rhinoceros buffalo buffalo elephant elephant lion elephant zebra"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the frequency table to show this information."
+            }
+          ],
+          "answer": {
+            "type": "table_input",
+            "content": "\\begin{tabular}{|l|l|l|}\n\\hline\nAnimal & Tally & Frequency \\\\\n\\hline\nelephant & & \\\\\n\\hline\nlion & & \\\\\n\\hline\nbuffalo & & \\\\\n\\hline\nrhinoceros & & \\\\\n\\hline\nzebra & & \\\\\n\\hline\n\\end{tabular}"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the bar chart for the information in your table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $d + d + d + d$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $w \\times w \\times w \\times w \\times w$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $6x = 42$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $7r + 9y + 3r - 4y$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a number line."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the number marked with the arrow."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the number line below, mark with an arrow (↑) the number 265"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows three points, P, Q and R, marked on a grid."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of point P"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, mark with a cross (×) the point with coordinates (3, –1)"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Label this point T"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the midpoint of QR"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{19}{5}$ as a mixed number."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Circle the two fractions that are equivalent."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$\\frac{19}{20} \\qquad \\qquad \\qquad \\frac{4}{5} \\qquad \\qquad \\qquad \\frac{20}{24} \\qquad \\qquad \\qquad \\frac{28}{35} \\qquad \\qquad \\qquad \\frac{5}{9}$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 0.3 as a fraction."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "2 cupcakes and 5 doughnuts cost $4.50"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "3 cupcakes cost $2.25"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the cost of 1 doughnut."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ABC and EBD are straight lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Triangle BCD is isosceles with $BD = BC$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle $ABE = 104°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $x$"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Roy has 2 litres of orange juice in a jug and some empty cups."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He pours orange juice from the jug to completely fill as many cups as possible."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He pours 180 millilitres of orange juice into each cup."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how much orange juice Roy has left in the jug after he has completely filled"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "as many cups as possible."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in millilitres."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "millilitres"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Lui is asked to work out the value of $30 - 4x$ when $x = -5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here is his working and his answer."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$30 - 4x = 30 - 4 \\times -5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "= $30 - 20$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "= $10$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Lui’s answer is wrong."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain what Lui has done wrong in his working."
+            },
+            {
+              "type": "multiline",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Oni thinks of a number."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She calls the number Y"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Y is a positive, odd number and $Y \\le 9$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down all the possible values of Y"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The children at a holiday club play sport either on Monday or on Tuesday."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "They each choose one sport from tennis or athletics or cricket."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The two‑way table shows some information about their choices."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|}\n\\cline{2-5}\n\\multicolumn{1}{l|}{} & tennis & athletics & cricket & Total \\\\\n\\hline\nMonday & 29 & & 58 & 110 \\\\\nTuesday & & & & \\\\\nTotal & 62 & 105 & & 240 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the two‑way table."
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the children who plays cricket is chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the probability that this child plays cricket on Monday."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make $y$ the subject of $w = 3y - d$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Diego buys $b$ boxes of crayons and $p$ packets of crayons."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "There are 12 crayons in each box."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "There are 3 crayons in each packet."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Diego buys a total of $T$ crayons."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down a formula for $T$ in terms of $b$ and $p$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out the value of $\\frac{9.75}{1.49 - 2.63^2}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write down all the figures on your calculator display."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A company makes cars."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The company makes 125 cars each hour for 9 hours a day."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The company makes cars for 5 days each week."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "24$\\%$ of the cars the company makes are red."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of red cars that the company makes each week."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A circle has radius 16$\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the circumference of the circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the positions of two villages, A and B"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The bearing of B from A is $073°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the bearing of A from B"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of ingredients to make spaghetti carbonara for 4 people."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Spaghetti carbonara"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Ingredients for 4 people"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "100$\text{g}$ pancetta",
+            "50$\text{g}$ cheese",
+            "300$\text{g}$ spaghetti",
+            "40$\text{g}$ butter",
+            "2 eggs"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Joe is going to make spaghetti carbonara for 12 people."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out how much cheese he needs."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "g"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Ruhi makes spaghetti carbonara."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She uses 180$\text{g}$ of butter."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out how many people Ruhi makes the spaghetti carbonara for."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rio has six cards."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He writes a number on each card so that"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "the range of the numbers is 10",
+            "the median of the numbers is 7.5",
+            "the mode of the numbers is 6"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Rio arranges the cards so that the numbers are in order of size."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Three of the numbers are hidden."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Complete the cards above to show the three numbers that are hidden."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, enlarge shape A with scale factor 3 and centre (0, 1)"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle P onto triangle Q"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "multiline",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $7 \\frac{1}{3} - 3 \\frac{4}{7} = 3 \\frac{16}{21}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Using ruler and compasses only, construct the perpendicular bisector of the line AB"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show all your construction lines."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two similar quadrilaterals, ABCD and EFGH"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$AB = 5\\text{cm} \\qquad BC = 4\\text{cm} \\qquad CD = y\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$EF = x\\text{cm} \\qquad FG = 10\\text{cm} \\qquad GH = 24\\text{cm}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $x$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $y$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Pau, Sam and Tia share £240 in the ratios 3 : 4 : 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Sam and Tia each give £10 of their share to Pau."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the ratios of the amounts of money that Pau, Sam and Tia now have."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in its simplest form."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Tim buys a bracelet for 4000 Swiss francs."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The value of the bracelet increases by 7$\\%$ each year."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of the bracelet at the end of 3 years."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest Swiss franc."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "Swiss francs"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$3x + 5y = 8$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$4x + y = -3.5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "$x$ ="
+          },
+          {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 26,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality $7 - 3t < 2t + 15$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The region R, shown shaded in the diagram, is bounded by three straight lines."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down three inequalities that define the region R"
+            },
+            {
+              "type": "multiline",
+              "lines": 3
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 27,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABD and ABC are right‑angled triangles."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$AB = 16\\text{cm} \\qquad BC = 12\\text{cm} \\qquad AD = 1.5 \\times AC$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the length of CD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 28,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Khalid has a box of counters."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "17 of the counters are red",
+            "28 of the counters are blue",
+            "the rest of the counters are orange"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Khalid is going to take at random a counter from the box."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that Khalid will take an orange counter is $\\frac{4}{9}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of orange counters that are in the box."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    }
+  ]
+}

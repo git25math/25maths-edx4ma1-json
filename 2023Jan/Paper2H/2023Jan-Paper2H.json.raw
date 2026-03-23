@@ -1,0 +1,1200 @@
+{
+  "v": "1.0",
+  "paper": "2023Jan-Paper2H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2023,
+  "session": "Jan",
+  "paperNum": "2H",
+  "type": "higher-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $3\\frac{5}{7} \\div 1\\frac{5}{8} = 2\\frac{2}{7}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change a speed of 90 kilometres per hour to a speed in metres per second."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "m/s"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathcal{E} = \\{11, 12, 13, 14, 15, 16, 17, 18, 19, 20\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A = {even numbers}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$A \\cap B = \\{12, 16, 20\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$(A \\cup B)\\' = \\{17, 19\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Complete the Venn diagram for the sets $\\mathcal{E}$, A and B"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows rectangle ABCD"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of the rectangle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "cm"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The weight of a cake is 2.75$\\text{kg}$, correct to 2 decimal places."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the lower bound of the weight of the cake."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "kg"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the upper bound of the weight of the cake."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "kg"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Penny has worked out $\\frac{81.3 \\times 59.2}{1.92}$ on her calculator."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Her answer is 13$\\thin$332.299$\\thin$17"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Penny’s answer is not sensible."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "By rounding each number to one significant figure, work out a suitable estimate to show that her answer is not sensible."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The points A and B are on a coordinate grid."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The coordinates of A are (6, 4)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The coordinates of B are (17, j) where j is a constant."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The midpoint of AB has coordinates (k, 15) where k is a constant."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of j and the value of k"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "j = "
+          },
+          {
+            "type": "number",
+            "prefix": "k = "
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$5x + 4y = -2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$2x - y = 4.4$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "expression",
+            "prefix": "x = "
+          },
+          {
+            "type": "expression",
+            "prefix": "y = "
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Matteo is going to invest 5000 Swiss francs for two years."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He can invest his money in Bank G or in Bank H."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|} \\hline Bank G & Bank H \\\\ \\hline 1.6% per year \\\\ compound interest & 2.9% interest added after \\\\ two years \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total amount of interest Matteo would receive at the end of two years from Bank G is more than the amount of interest Matteo would receive at the end of two years from Bank H."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How much more?"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "Swiss francs"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the value of $(m + 2)^0$ where m is a positive integer."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $(3a^2b^4)^3$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $14x^2y^4 + 21x^3y^2$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The diagram shows a straight line drawn on a grid."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down an equation of the line."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows an isosceles triangle, with base length 24$\\text{cm}$."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The perimeter of the triangle is 54$\\text{cm}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of the triangle."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "cm$^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are six graphs."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Complete the table below with the letter of the graph that could represent each given equation."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write your answers on the dotted lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|} \\hline Equation & Graph \\\\ \\hline $y = -\\frac{2}{x}$ & ............................ \\\\ \\hline $y = 5 - x^2$ & ............................ \\\\ \\hline $y = -2x^3$ & ............................ \\\\ \\hline \\end{tabular}"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "table_input"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The cumulative frequency graph gives information about the time, in minutes, each of 60 people took to shop in a market."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the graph to find an estimate for the median time people took to shop in the market."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "minutes"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the graph to find an estimate for the number of people who took longer than 55 minutes to shop in the market."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the graph to complete the frequency table to give information about the time, in minutes, each of the 60 people took to shop in the market."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|} \\hline Time taken to shop in the market \\\\ (m minutes) & Frequency \\\\ \\hline $0 < m \\le 10$ & 3 \\\\ \\hline $10 < m \\le 20$ & 5 \\\\ \\hline $20 < m \\le 30$ & \\\\ \\hline $30 < m \\le 40$ & \\\\ \\hline $40 < m \\le 50$ & \\\\ \\hline $50 < m \\le 60$ & \\\\ \\hline $60 < m \\le 70$ & \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve $\\frac{x+3}{4} - \\frac{x-7}{5} = 4.3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "x = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A, B, C and D are points on a circle, centre O"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "EBF is the tangent to the circle at B"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the size of angle DCB"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": "$°$"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Give a reason for your answer to (a)(i)"
+                },
+                {
+                  "type": "space"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the size of angle ADO"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list giving the numbers of runs scored last week by the eleven members of cricket team A."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "2$\\thin$3$\\thin$4$\\thin$6$\\thin$21$\\thin$26$\\thin$27$\\thin$32$\\thin$34$\\thin$61$\\thin$72"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The interquartile range of the numbers of runs scored last week by the eleven members of cricket team B was 42"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Using a suitable calculation, write down one comparison between the numbers of runs scored by the members of cricket team A and the members of cricket team B."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Use algebra to show that $0.4\\dot{3}\\dot{8} = \\frac{217}{495}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Given that $\\frac{8^m \\times 49^{m+2}}{9^{m-1}} = k^m$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "where k is an integer and m is a prime number,"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "work out the value of k"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "k = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $\\frac{5}{18 - \\sqrt{2}}$ can be written in the form $a + b\\sqrt{2}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "where a and b are integers."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show each stage of your working clearly."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table gives information about the weights, in kg, of the parcels that Pedro delivers on Monday."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|} \\hline Weight (w kg) & Frequency \\\\ \\hline $0 < w \\le 2$ & 12 \\\\ \\hline $2 < w \\le 3$ & 7 \\\\ \\hline $3 < w \\le 6$ & 15 \\\\ \\hline $6 < w \\le 9$ & 12 \\\\ \\hline $9 < w \\le 14$ & 9 \\\\ \\hline \\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw a histogram for this information."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the parcels that Pedro delivered on Monday is chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Using the information in the table, find an estimate for the probability that this parcel weighs more than 7$\\text{kg}$."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A and B are two similar vases."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The vases are such that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{\\text{surface area of vase A}}{\\text{surface area of vase B}} = \\frac{25}{64}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "and that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "volume of vase A – volume of vase B = 541.8$\\text{cm}^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the volume of vase B"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "cm$^3$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$y = 7 - 2x$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$x^2 + y^2 = 34$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Given that the surface area of a sphere is $49\\pi\\text{cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "find the volume of the sphere."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest integer."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "cm$^3$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the inequality $6x^2 + 37x \\le 35$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a solid prism ABCDEFGHIJ"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The prism is such that each cross section is a pentagon where"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$AE = BC = x\\text{cm}$ $AB = 2x\\text{cm}$ $ED = CD = 8\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "angle EAB = angle CBA = 90$°$ angle AED = angle BCD = 120$°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Given that $AG = BH = EF = DJ = CI = 12\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "calculate the angle that AJ makes with the base ABHG of the prism."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The graph of $y = a\\sin x° + b$ is drawn on the grid."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of a and the value of b"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "a = "
+          },
+          {
+            "type": "number",
+            "prefix": "b = "
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The function f is such that $f(x) = 3x^2 - 12x + 7$ where $x \\le 2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Express the inverse function $f^{-1}$ in the form $f^{-1}(x) = \\dots$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "f^{-1}(x) = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 26,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the values of n such that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{10^{2n} \\times 5^{2n-1}}{20^n \\times (\\frac{1}{4})^{3n}} = 2^5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    }
+  ]
+}

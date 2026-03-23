@@ -1,0 +1,1364 @@
+{
+  "v": "1.0",
+  "paper": "2021June-Paper1H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2021,
+  "session": "June",
+  "paperNum": "1H",
+  "type": "higher-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A plane flew from Madrid to Dubai."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The distance the plane flew was 5658 km."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The flight time was 8 hours 12 minutes."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the average speed of the plane."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "km/h"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are the first 4 terms of an arithmetic sequence."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "85          79          73          67"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find an expression, in terms of n, for the nth term of the sequence."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows the shape ABCDE."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The area of the shape is 91.8 cm²"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On a farm there are chickens, ducks and pigs."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The ratio of the number of chickens to the number of ducks is 7 : 2"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The ratio of the number of ducks to the number of pigs is 5 : 9"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "There are 36 pigs on the farm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of chickens on the farm."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $3x(2x + 3) – x(3x + 5)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make t the subject of the formula $p = at – d$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Given that $w^5 \\times w^3 = w^{10n}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "work out the value of n."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Grace has a biased 5-sided spinner."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Grace is going to spin the arrow on the spinner once."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table below gives the probabilities that the spinner will land on red or on blue or on green."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline\nColour & Red & Blue & Green & Orange & Pink \\\\\n\\hline\nProbability & 0.20 & 0.12 & 0.08 & & \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that the spinner will land on orange is 3 times the probability that the spinner will land on pink."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the probability that the spinner will land on orange."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Grace spins the arrow on the spinner 150 times."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out an estimate for the number of times the spinner lands on blue."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$-4 \\le 2y < 6$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$y$ is an integer."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down all the possible values of $y$."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality $7t – 3 \\le 2t + 31$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the populations of five countries."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\n\\hline\nCountry & Population \\\\\n\\hline\nChina & $1.4 \\times 10^9$ \\\\\nGermany & $8.2 \\times 10^7$ \\\\\nSweden & $9.9 \\times 10^6$ \\\\\nFiji & $9.1 \\times 10^5$ \\\\\nMalta & $4.3 \\times 10^5$ \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the difference between the population of China and the population of Germany."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Given that $\\frac{\\text{population of Fiji}}{\\text{population of Sweden}} = \\frac{1}{k}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "work out the value of $k$."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest whole number."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $25a^4c^7d + 45a^9c^3h$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $(2x + 5)^2 = (2x + 3)(2x – 1)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jethro has sat 5 tests."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each test was marked out of 100 and Jethro’s mean mark for the 5 tests is 74"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Jethro has to sit one more test that is also to be marked out of 100"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Jethro wants his mean mark for all 6 tests to be at least 77"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the least mark that Jethro needs to get for the last test."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$2^x \\times 16 = 2^x$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $x$."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$(11^6)^5 \\div 11^4 = 11^n$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $n$."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a sector of a circle with radius 7 cm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the length of the arc of the sector."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to one decimal place."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify $4x(3x + 1)(2x – 3)$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is the number of goals that Henri’s team scored one summer in each water polo match."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "5        8        9        11        13        13        14        15        16        17        20"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the interquartile range of the numbers of goals."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "P, Q and R are points on a circle, centre O."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "TRV is the tangent to the circle at R."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Reflex angle POR = 238°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle QRV = 60°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the size of angle OPQ."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give a reason for each stage of your working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Use algebra to show that the recurring decimal $0.28\\dot{1}\\dot{3} = \\frac{557}{1980}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Using algebra, prove that, given any 3 consecutive even numbers, the difference between the square of the largest number and the square of the smallest number is always 8 times the middle number."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table and histogram give information about the distance travelled, in order to get to work, by each person working in a large store."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\n\\hline\nDistance ($d$ km) & Frequency \\\\\n\\hline\n$0 \\le d < 10$ & 40 \\\\\n$10 \\le d < 15$ & \\\\\n$15 \\le d < 20$ & \\\\\n$20 \\le d < 30$ & \\\\\n$30 \\le d < 60$ & 30 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Using the information in the table and in the histogram,"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "complete the table,"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "complete the histogram."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the people working in the store is chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out an estimate for the probability that the distance travelled by this person, in order to get to work, was greater than 25 km."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The Venn diagram shows a universal set, E  and sets A, B and C."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "12, 5, 9, 10, 6, 3, 4 and 8 represent the numbers of elements."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$n(A \\cup B)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$n(A' \\cap B')$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(iii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$n([A \\cap B] \\cup C)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P = \\frac{t}{w-y}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$t = 9.7$ correct to 1 decimal place"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$w = 5.9$ correct to 1 decimal place"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$y = 3$ correct to 1 significant figure"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the upper bound for the value of $P$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Given that $x = \\frac{y-5}{y+5}$ and that $y = 5a^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "find an expression for $x$ in terms of $a$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your expression as a single fraction in its simplest form."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a triangular prism ABCDEF with a horizontal base ABEF."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$AC = BC = FD = ED = 12\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$AB = 10\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$BE = 15\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the size of the angle between AD and the base ABEF."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The sum of the first $N$ terms of an arithmetic series, $S$, is 292"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The 2nd term of $S$ is 8.5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The 5th term of $S$ is 13"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $N$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$N$ = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The functions f and g are defined as"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$f(x) = 5x^2 - 10x + 7$ where $x \\ge 1$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = 7x - 6$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $fg(2)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Express the inverse function $f^{-1}$ in the form $f^{-1}(x) = ...$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$f^{-1}(x)$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two circles such that the region R, shown shaded in the diagram, is the region common to both circles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "One of the circles has centre O and radius 5 cm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The other circle has centre P and radius 4 cm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle AOB = 50°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the area of region R."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 26,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "OACB is a trapezium."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{OA} = 2\\mathbf{a}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{OB} = 5\\mathbf{b}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{AC} = 3\\mathbf{b}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The diagonals, OC and AB, of the trapezium intersect at the point P."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find and simplify an expression, in terms of $\\mathbf{a}$ and $\\mathbf{b}$, for $\\vec{OP}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$\\vec{OP}$ = "
+      },
+      "meta": {}
+    }
+  ]
+}

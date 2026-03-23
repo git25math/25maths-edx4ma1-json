@@ -1,0 +1,1625 @@
+{
+  "v": "1.0",
+  "paper": "2022Jan-Paper2F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2022,
+  "session": "Jan",
+  "paperNum": "2F",
+  "type": "foundation-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a square and its diagonals."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shade $\\frac{1}{4}$ of the square."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Here is a rhombus."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "What fraction of the rhombus is shaded?"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 0.9 as a fraction."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of numbers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "3          8          9          14          23          28          30"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "From the numbers in the list, write down"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a cube number"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a factor of 70"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a multiple of 6"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a prime number."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Here is a number machine."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the input when the output is 108"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a fair 8-sided spinner."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Hollie is going to spin the spinner once."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "impossible          unlikely          evens          likely          certain"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the word from the box above that best describes the likelihood that the spinner will land on"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "yellow"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "red."
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the probability scale below, mark with a cross (×) the probability that the spinner will land on blue."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table below shows the maximum recorded temperature and the minimum recorded temperature on one day in each of four countries."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|}\n\\hline\nCountry & Maximum recorded \\newline temperature & Minimum recorded \\newline temperature \\\\\n\\hline\nMorocco & $19°\\text{C}$ & $11°\\text{C}$ \\\\\n\\hline\nQatar & $21°\\text{C}$ & $18°\\text{C}$ \\\\\n\\hline\nFinland & $-19°\\text{C}$ & $-28°\\text{C}$ \\\\\n\\hline\nCanada & $8°\\text{C}$ & $-40°\\text{C}$ \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which country has the highest maximum recorded temperature?"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the difference between the maximum recorded temperature in Finland and the minimum recorded temperature in Finland."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°\\text{C}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "stem": [
+            {
+              "type": "text",
+              "content": "On the same day, the minimum recorded temperature in Japan is $15°\\text{C}$ lower than the minimum recorded temperature in Morocco."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the minimum recorded temperature in Japan."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°\\text{C}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows points A and B marked on a grid of squares."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the line with equation $y = -2$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "M is the midpoint of AB"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of M"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "stem": [
+            {
+              "type": "text",
+              "content": "D is the point with coordinates $(5, d)$ where $d > 0$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The triangle ABD is an isosceles triangle."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of d"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$d = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are nine shapes drawn on a grid of squares."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Shape D is a quadrilateral."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "What is the mathematical name of this quadrilateral?"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [
+            {
+              "type": "text",
+              "content": "One of the shapes is congruent to shape G"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the letter of this shape."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the order of rotational symmetry of shape H"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "How many lines of symmetry has shape E?"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\frac{3}{8}$ of the members of a squash club are children."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{5}{6}$ of these children are right-handed."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "What fraction of the members of the squash club are right-handed children?"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer as a fraction in its simplest form."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "By writing each value correct to one significant figure, work out an estimate for the value of"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$$\\frac{8.23 \\times 181}{0.482}$$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle ABD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ABC, BDE and ADF are straight lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "angle CBD = $132°$          angle ADB = $58°$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the value of x"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x = $"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Give a reason for your answer."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of y"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a library there are two trolleys of books."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On trolley 1 the subjects of the books are Buildings (B), Rivers (R) and Space (S)."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On trolley 2 the subjects of the books are Buildings (B), History (H) and Animals (A)."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Tomos takes one book from trolley 1 and one book from trolley 2"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write down all the possible combinations of subjects that Tomos can take."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a sequence of patterns made from counters."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the space below, draw Pattern number 4"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline\nPattern number & 1 & 2 & 3 & 4 & 5 \\\\\n\\hline\nNumber of counters & 3 & 6 & 9 & & \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the number of counters in Pattern number 10"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Sven has exactly 70 counters."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Can Sven make Pattern number 25 using his 70 counters?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Tick the appropriate box below."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Yes / No"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give a reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "text",
+                "content": "Yes / No (tick box)"
+              },
+              {
+                "type": "multiline",
+                "lines": 2
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a box B and a carton C"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The box B is in the shape of a cuboid."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each carton C is in the shape of an $8\\text{cm}$ cube."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Martha is going to put as many of the cartons as possible into the box."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "She has enough cartons to do this."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Martha will then fill the remaining space inside the box with packing material."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the volume of the space inside the box that Martha will fill with packing material."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " $\\text{cm}^3$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a conversion graph to change between Canadian dollars and pounds (£)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the graph to change"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "46 Canadian dollars to pounds (£)"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "£"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "£10 to Canadian dollars."
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "suffix": " Canadian dollars"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Alana is on holiday in London and is going to Paris."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She is going to book a hotel in Paris."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She knows that"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "1 pound (£) = 1.2 euros"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Change 528 euros to Canadian dollars."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " Canadian dollars"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Iman walked for 3 hours 15 minutes."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He walked a distance of 18.2 kilometres."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out Iman’s average speed for his walk."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in km/h"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " $\\text{km}\ /\\ \\text{h}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of the ingredients needed to make 12 chocolate brownies."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Chocolate brownies"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|}\n\\hline\nIngredients for 12 brownies \\\\\n\\hline\n$150\\text{g}$ flour \\\\\n$250\\text{g}$ chocolate spread \\\\\n3 eggs \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Thalia buys exactly enough of these ingredients to make 120 of these brownies."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$1.5\\text{kg}$ of flour costs £1.30"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$500\\text{g}$ of chocolate spread costs £2.60"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "6 eggs cost £1.10"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Thalia sells all 120 brownies at £0.40 each."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the profit that she makes."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "£"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $x(2x - 3) + 7(2x + 1) - 5$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $(y + 4)(2 - y)$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $15b^5c - 35b^3c^9$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $6\\frac{3}{4} \\div 2\\frac{4}{7} = 2\\frac{5}{8}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Diagram NOT accurately drawn"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Triangle ABC is similar to triangle PQR"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = $4\\text{cm}$          PQ = $12\\text{cm}$          RQ = $16.5\\text{cm}$          AC = $x\\text{cm}$          PR = $y\\text{cm}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the length of BC"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " $\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an expression for y in terms of x"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Each side of a regular octagon has a length of $18\\text{mm}$, correct to the nearest $0.5\\text{mm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the lower bound of the length of each side of the octagon."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " $\\text{mm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the upper bound of the length of each side of the octagon."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " $\\text{mm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale diagram shows the position on a map of a house, A"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Scale: $1\\text{cm}$ represents 200 metres"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "stem": [
+            {
+              "type": "text",
+              "content": "House C is on a bearing of $110°$ from A"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The distance from A to C is $700\\text{m}$"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Mark the position of C on the diagram with a cross (×)"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Label your cross C"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the scale of the map in the form $1 : n$"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "1 : "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains only pink sweets, white sweets, green sweets and red sweets."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table gives each of the probabilities that, when a sweet is taken at random from the bag, the sweet will be green or the sweet will be red."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nSweet & pink & white & green & red \\\\\n\\hline\nProbability & & & 0.2 & 0.35 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The ratio number of pink sweets : number of white sweets = 2 : 1"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "There are 28 red sweets in the bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of white sweets in the bag."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the lowest common multiple (LCM) of 28, 42 and 63"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table gives information about the average house price in England in 2018 and in 2019"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|}\n\\hline\nYear & 2017 & 2018 & 2019 \\\\\n\\hline\nAverage house price (£) & & 228\\,314 & 231\\,776 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the percentage increase in the average house price from 2018 to 2019"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to one decimal place."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " $\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "stem": [
+            {
+              "type": "text",
+              "content": "The average house price in 2019 was 7.7% greater than the average house price in 2017"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the average house price in 2017"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 3 significant figures."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "£ "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The frequency table gives information about the number of points scored by a player."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline\nNumber of points & 0 & 1 & 2 & 3 & 4 \\\\\n\\hline\nFrequency & 13 & 17 & 8 & x & 11 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The mean number of points scored is 2"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x = $"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$3x + 5y = 3.1$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$6x + 3y = 3.75$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "$x = $"
+          },
+          {
+            "type": "number",
+            "prefix": "$y = $"
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 26,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a regular 10-sided polygon, ABCDEFGHIJ"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show that $x = y$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,1294 @@
+{
+  "v": "1.0",
+  "paper": "2019June-Paper1H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2019,
+  "session": "June",
+  "paperNum": "1H",
+  "type": "higher-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $4 \\frac{2}{3} \\div 1 \\frac{1}{9} = 4 \\frac{1}{5}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Jalina left her home at 10 00 to cycle to a park."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On her way to the park, she stopped at a friend’s house and then continued her journey to the park."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here is the distance-time graph for her journey to the park."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On her journey to the park, did Jalina cycle at a faster speed before or after she stopped at her friend’s house?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give a reason for your answer."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jalina stayed at the park for 45 minutes."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She then cycled, without stopping, at a constant speed of 16 km/h from the park back to her home."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show all this information on the distance-time graph."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out Jalina’s average cycling speed, in kilometres per hour, for the complete journey to the park and back."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Do not include the times when she was not cycling in your calculation."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 1 decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{km/h}$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $e^9 \\div e^5$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $(e^2)^8$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $(x + 9)(x – 2)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $16c^4p^2 + 20cp^3$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = x^2 - x - 5$"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|} \\hline x & -2 & -1 & 0 & 1 & 2 & 3 & 4 \\\\ \\hline y & -1 & -3 & & & & 1 & 3 \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = x^2 - x - 5$ for all values of $x$ from $-2$ to $4$"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Becky has a biased 6-sided dice."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table gives information about the probability that, when the dice is thrown, it will land on each number."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|c|c|} \\hline Number & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline Probability & 2x & 0.18 & 2x & 3x & 0.26 & x \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Becky is going to throw the dice 200 times."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the number of times that the dice will land on an even number."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a solid cuboid made from wood."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The wood has density 0.7 g/cm$^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the mass of the cuboid."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{grams}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $5.7 \\times 10^6$ as an ordinary number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $0.004$ in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $\\frac{2 \\times 10^3 \\times 6 \\times 10^4}{4 \\times 10^{-5}}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On 1st January 2016 Li bought a boat for $170 000"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The value of the boat depreciates by 8% per year."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of the boat on 1st January 2019"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest dollar."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shape made from a right-angled triangle and a semicircle."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AC is the diameter of the semicircle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "BA = BC = 6 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle ABC = 90°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of the shape."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 1 decimal place."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A = 2^n \\times 3 \\times 5^m$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write $8A$ as a product of powers of its prime factors."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$C = b - a$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$a = 6$ correct to the nearest integer"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$b = 15$ correct to the nearest 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the upper bound for the value of $C$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise $2x^2 - x + 6$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $\\frac{4}{m+3} - \\frac{9}{m} = 1$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "m ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{\\sqrt{y}}{y^4}$ in the form $y^b$ where $b$ is a fraction."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In group C, there are 6 girls and 8 boys."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In group D, there are 3 girls and 7 boys."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A team is made by picking at random one child from group C and one child from group D."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the probability tree diagram."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "text",
+                "content": "Probabilities to be filled in the tree diagram."
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the probability that there are two boys in the team."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "After the first team has been picked, a second team is picked."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "One child is picked at random from the children left in group C and one child is picked at random from the children left in group D."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the probability that there are two boys in each of the two teams."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$E = \\{\\text{positive integers less than } 20\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$A = \\{x : x \\le 12\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$B = \\{x : 7 < x \\le 16\\}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "List the members of $A \\cap B$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$C$ is a set such that $C \\subset A$ and $n(C) = 3$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Given that all members of C are even numbers,"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "list the members of one possible set C."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Use algebra to show that the recurring decimal $0.2\\dot{5}\\dot{4} = \\frac{14}{55}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are the first five terms of an arithmetic sequence."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "7    10    13    16    19"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the sum of the first 100 terms of this sequence."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A and B are two similar vases."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Vase A has height 24 cm."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Vase B has height 36 cm."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Vase A has a surface area of 960 cm$^2$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the surface area of vase B."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Vase B has a volume of $V$ cm$^3$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find in terms of $V$, an expression for the volume, in cm$^3$, of vase A."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "suffix": "$\text{cm}^3$"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle PQR."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the length of PR."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table gives information about the heights of some trees."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|} \\hline Height (h metres) & $0 < h \\le 20$ & $20 < h \\le 35$ & $35 < h \\le 40$ & $40 < h \\le 50$ \\\\ \\hline Frequency & 15 & 48 & 21 & 16 \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On the grid, draw a histogram for this information."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A, B, C and D are points on a circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "TDV is the tangent to the circle at D."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = AD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle ADT = 71°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of angle BCD."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give a reason for each stage of your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A solid is made from a hemisphere and a cylinder."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The plane face of the hemisphere coincides with the upper plane face of the cylinder."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The hemisphere and the cylinder have the same radius."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The ratio of the radius of the cylinder to the height of the cylinder is 1 : 3"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Given that the solid has volume $792\\pi$ cm$^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "work out the height of the solid."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The graph of $y = \\sin x°$ for $0 \\le x \\le 360$ is drawn on the grid."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = 2\\sin(x + 30)°$ for $0 \\le x \\le 360$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write $x^2 - 6x + 10$ in the form $(x - a)^2 + b$ where $a$ and $b$ are integers."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Hence, describe fully the single transformation that maps the curve with equation $y = x^2$ onto the curve with equation $y = x^2 - 6x + 10$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2
+              }
+            }
+          ]
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABCD is a kite with AB = AD and CB = CD."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "B is the point with coordinates (10, 19)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "D is the point with coordinates (2, 7)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find an equation of the line AC."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in the form $py + qx = R$ where $p$, $q$ and $R$ are integers."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A particle P is moving along a straight line that passes through the fixed point O."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The displacement, $s$ metres, of P from O at time $t$ seconds is given by"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$$s = t^3 - 4t^2 + 5t - 6$$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $t$ for which the acceleration of P is 3 m/s$^2$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "t ="
+      },
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,1281 @@
+{
+  "v": "1.0",
+  "paper": "2019June-Paper2H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2019,
+  "session": "June",
+  "paperNum": "2H",
+  "type": "higher-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows information about the heights, in cm, of 48 sunflowers in a garden centre."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|}\n\\hline\nHeight of sunflower (h cm) & Frequency \\\\\n\\hline\n$90 < h \\le 100$ & 8 \\\\\n$100 < h \\le 110$ & 12 \\\\\n$110 < h \\le 120$ & 15 \\\\\n$120 < h \\le 130$ & 10 \\\\\n$130 < h \\le 140$ & 3 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out an estimate for the mean height of the sunflowers."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "unit": "cm"
+          }
+        }
+      ],
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Use ruler and compasses to construct the perpendicular bisector of the line DE."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your construction lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "E = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A = {2, 3, 5, 7}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "B = {4, 6, 8, 10}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain why A $\\cap$ B = $\\emptyset$"
+            },
+            {
+              "type": "space",
+              "height": "2.5cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$x \\in$ E and $x \\notin$ A $\\cup$ B"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the two possible values of $x$."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Set C is such that"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "A $\\cup$ B $\\cup$ C = E"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "A $\\cap$ C = {2}"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "B $\\cap$ C $\\neq \\emptyset$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "List all the members of set C."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cylinder has diameter 14 cm and height 20 cm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the volume of the cylinder."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^3$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Josh buys and sells books for a living."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He buys 120 books for £4 each."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He sells $\\frac{1}{2}$ of the books for £5 each."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He sells 40% of the books for £7 each."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He sells the rest of the books for £8 each."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate Josh’s percentage profit."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "One book that Josh owns had a value of £15 on the 1st May 2019"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The value of this book had increased by 20% in the last year."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of the book on the 1st May 2018"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "£"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABC and DEF are similar triangles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the length of DF."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the length of BC."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "30 students in a class sat a Mathematics test."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The mean mark in the test for the 30 students was 26.8"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "13 of the 30 students in the class are boys."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The mean mark in the test for the boys was 25"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the mean mark in the test for the girls."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change a speed of $x$ kilometres per hour into a speed in metres per second."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Simplify your answer."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "suffix": "$\text{m/s}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$x + 2y = 5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$3x - y = 16$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "$x$ ="
+          },
+          {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The straight line L has gradient $\\frac{1}{2}$ and passes through the point with coordinates (4, -1)"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an equation for L."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The region R, shown shaded in the diagram, is bounded by four straight lines."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the inequalities that define R."
+            },
+            {
+              "type": "space",
+              "height": "2.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table gives the average crowd attendance per match for each of five football clubs for one season."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nFootball club & Average crowd attendance \\\\\n\\hline\nMonaco & $9.5 \\times 10^3$ \\\\\nChelsea & $4.2 \\times 10^4$ \\\\\nJuventus & $3.9 \\times 10^4$ \\\\\nOxford United & $8.3 \\times 10^3$ \\\\\nBarcelona & $7.7 \\times 10^4$ \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the difference between the average crowd attendance for Barcelona and the average crowd attendance for Monaco."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Antonio says,"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "“The average crowd attendance for Chelsea is approximately 50 times that for Oxford United.”"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Is Antonio correct?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "You must give a reason for your answer."
+            },
+            {
+              "type": "space",
+              "height": "2.5cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "During last season the cost of a ticket to watch Seapron United increased by 15% and then decreased by 8%"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the overall percentage change in the cost of a ticket to watch Seapron United during last season."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABCD is a trapezium."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the perimeter of the trapezium."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table gives information about the times taken, in minutes, for 80 taxi journeys."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nTime taken (t minutes) & Frequency \\\\\n\\hline\n$0 \\le t < 5$ & 7 \\\\\n$5 \\le t < 10$ & 10 \\\\\n$10 \\le t < 15$ & 12 \\\\\n$15 \\le t < 20$ & 19 \\\\\n$20 \\le t < 25$ & 18 \\\\\n$25 \\le t < 30$ & 14 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the cumulative frequency table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table_input",
+              "template": "\\begin{tabular}{|l|l|}\n\\hline\nTime taken (t minutes) & Cumulative frequency \\\\\n\\hline\n$0 \\le t < 5$ & \\\\\n$0 \\le t < 10$ & \\\\\n$0 \\le t < 15$ & \\\\\n$0 \\le t < 20$ & \\\\\n$0 \\le t < 25$ & \\\\\n$0 \\le t < 30$ & \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid opposite, draw a cumulative frequency graph for your table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find an estimate for the median."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{minutes}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find an estimate for the interquartile range."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{minutes}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are two vectors."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\overrightarrow{AB} = \\begin{pmatrix} 6 \\\\ -9 \\end{pmatrix}$ $\\overrightarrow{CB} = \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the magnitude of $\\overrightarrow{AC}$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Make $x$ the subject of the formula $y = \\frac{3x - 2}{x + 1}$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $\\frac{4}{8 - 2\\sqrt{1}}$ can be written in the form $a + b\\sqrt{2}$, where $a$ and $b$ are integers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show each stage of your working clearly and give the value of $a$ and the value of $b$."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y$ is directly proportional to the cube of $x$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$y = 20h$ when $x = h$ ($h \\neq 0$)"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find a formula for $y$ in terms of $x$ and $h$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$y$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $x$ in terms of $h$ when $y = 67.5h$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a solid cuboid."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total surface area of the cuboid is $A$ cm$^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the maximum value of $A$."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABCD is a quadrilateral."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The area of triangle ACD is 250 cm$^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the area of the quadrilateral ABCD."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The equation of the line L is $y = 2x - 5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The equation of the curve C is $x^2 - xy + 2y^2 = 0$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "L and C intersect at two points."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of these two points."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "coordinate",
+            "fields": 2
+          },
+          {
+            "type": "coordinate",
+            "fields": 2
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows cuboid ABCDEFGH."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "For this cuboid"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "the length of AB : the length of BC : the length of CF = 4 : 2 : 3"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the size of the angle between AF and the plane ABCD."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to one decimal place."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify fully $\\frac{6x^2 + 13x - 5}{4x^2 - 25}$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Boris has a bag that only contains red sweets and green sweets."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Boris takes at random 2 sweets from the bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that Boris takes exactly 1 red sweet from the bag is $\\frac{12}{35}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Originally there were 3 red sweets in the bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many green sweets there were originally in the bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The function f is such that f($x$) = 3$x$ – 2"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find f(5)"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The function g is such that g($x$) = 2$x^2$ – 20$x$ + 9 where $x > 5$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Express the inverse function g$^{-1}$ in the form g$^{-1}$($x$) = ..."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "g$^{-1}$($x$) ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

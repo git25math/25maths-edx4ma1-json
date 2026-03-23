@@ -1,0 +1,1221 @@
+{
+  "v": "1.0",
+  "paper": "2024June-Paper2H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2024,
+  "session": "June",
+  "paperNum": "2H",
+  "type": "higher-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are eight numbers written in order of size"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "h      6      7      8      j      16      k      k"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "where h, j and k are integers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The median of the eight numbers is 10"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The mode of the eight numbers is 18"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The range of the eight numbers is 13"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of h, the value of j and the value of k"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 3,
+        "template": "h = \nj = \nk = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the straight line with equation"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 0,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = 2$"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 0,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$x = 6$"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 0,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = x + 1$"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Label each line with its equation."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show, by shading on the grid, the region that satisfies all three of the inequalities"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$y \ge 2 \qquad x \le 6 \qquad y \le x + 1$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Label the region R"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A plane takes 9 hours 36 minutes to fly from New Delhi to Perth."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The plane flies at an average speed of $820\text{ km/h}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total distance the plane flies."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{km}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that      $2 \\frac{4}{7} \\times 3 \\frac{1}{9} = 8$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle ABC"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to one decimal place."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Change a speed of w metres per second to a speed in kilometres per hour."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in terms of w in its simplest form."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "suffix": "$\text{kilometres per hour}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a 6-sided shape ABCDEF"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$AF = 21\text{ cm} \qquad CD = 15\text{ cm} \qquad AB = FE = 13\text{ cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The perpendicular height of the shape is h cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "CD is parallel to AF"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The area of the shape is $390\text{ cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of h"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$h$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ishir plants 600 bulbs in a garden."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He plants tulip bulbs, crocus bulbs and daffodil bulbs so that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "number of tulip bulbs : number of crocus bulbs : number of daffodil bulbs = 9 : 4 : 2"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "45% of the tulip bulbs are for yellow flowers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{5}{8}$   of the crocus bulbs are for yellow flowers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "All of the daffodil bulbs are for yellow flowers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of bulbs that are for yellow flowers."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Giovanni invests 4500 koruna in a savings account for 4 years."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He gets 2.4% per year compound interest."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how much money Giovanni will have in the savings account at the end of 4 years."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest koruna."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{koruna}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$6x + 4y = 1$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$3x + 5y = 8$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "template": "$x$ = \n$y$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(i)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise      $x^2 + 9x – 22$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Hence, solve      $x^2 + 9x – 22 = 0$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ali uses a fitness tracker to count the number of steps he walks each day for 7 days."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "For the first 4 days, his mean number of steps is 11 800"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "For the next 3 days, his mean number of steps is 13 207"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out his mean number of steps for the 7 days."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table gives information about the distances, in km, that 70 teachers travel to school."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nDistance (d km) & Frequency \\\\\n\\hline\n  $0 < d \\le 10$ &   7 \\\\\n$10 < d \\le 20$ & 17 \\\\\n$20 < d \\le 30$ & 18 \\\\\n$30 < d \\le 40$ & 14 \\\\\n$40 < d \\le 50$ & 10 \\\\\n$50 < d \\le 60$ &   4 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the cumulative frequency table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|}\n\\hline\nDistance (d km) & Cumulative frequency \\\\\n\\hline\n$0 < d \\le 10$ & \\\\\n$0 < d \\le 20$ & \\\\\n$0 < d \\le 30$ & \\\\\n$0 < d \\le 40$ & \\\\\n$0 < d \\le 50$ & \\\\\n$0 < d \\le 60$ & \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid opposite, draw a cumulative frequency graph for your table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find an estimate for the interquartile range of the distances."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{km}$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find an estimate for the number of teachers who travel more than 46 km."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that   $3y(2y + 5)(y + 7)$   can be written in the form   $ay^3 + by^2 + cy$   where a, b and c are integers."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve      $\\frac{2}{3x + 5} + \\frac{6}{4x - 5} = \\frac{163}{100}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make g the subject of   $e = \\frac{7g + 5}{11g + 2}$"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$g$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality   $3y^2 + 4y – 32 > 0$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "60 art students were asked if they would like to attend workshops for knitting (K),"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "for photography (P) or for embroidery (E)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Of these students"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "  9 chose knitting, photography and embroidery",
+            "17 chose knitting and photography",
+            "16 chose photography and embroidery",
+            "20 chose knitting and embroidery",
+            "28 chose photography",
+            "39 chose embroidery",
+            "  2 chose none of the workshops"
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Using this information, complete the Venn diagram to show the numbers of students in each subset."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the students is chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Given that this student chose photography,"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "find the probability that this student also chose knitting."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find      $n(P \\cap K')$"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find       $n([P \\cup E] \\cap K)$"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Q is directly proportional to the square root of d"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$Q = 4.5$ when $d = 324$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find a formula for Q in terms of d"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$Q$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The straight line P has equation $5y + 2x = 7$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the gradient of a straight line that is perpendicular to P"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$G = \\frac{c^2}{f - h^3}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$c = 8\\qquad \\text{correct to the nearest whole number}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$f\\text{ } = 6.62 \\text{ correct to 2 decimal places}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$h = 1.2\\qquad \\text{correct to 1 decimal place}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the lower bound for the value of G"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 decimal places."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Given that   $k = x – y$   and   $x = \\frac{1}{4y}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "express   $\\frac{5k}{x + 2}$   in the form   $\\frac{ay^2 + by}{c + dy}$   where a, b, c and d are integers."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a square ABCD and a circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The sides of the square are tangents to the circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total area of the shaded regions is $80\text{ cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the length of AC"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The straight line L has equation   $x + y = 5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The curve C has equation       $2x^2 + 3y^2 = 210$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of the points where L and C intersect."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "template": "($\\ldots$ , $\\ldots$) ($\\ldots$ , $\\ldots$)"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify   $\\frac{30^{2x+7}}{180^{x-4}}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in the form $5^w$ where w is an expression in terms of x"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show each stage of your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a quadrilateral OACB in which"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "    $\\vec{OA} = 4\\mathbf{a} \\qquad \\vec{OB} = 3\\mathbf{b} \\qquad \\vec{BC} = 2\\mathbf{a} + \\mathbf{b}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find  $\\vec{AC}$  in terms of a and b"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\vec{AC}$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The point P lies on AC such that AP : PC = 3 : 2"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The point Q is such that OPQ and BCQ are straight lines."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Using a vector method, find  $\\vec{OQ}$  in terms of a and b"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in its simplest form."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\vec{OQ}$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a sketch of the graph of $y = 2\\sin(x + 60)°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the point A"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the point B"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

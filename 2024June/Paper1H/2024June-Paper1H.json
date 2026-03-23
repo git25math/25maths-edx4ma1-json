@@ -1,0 +1,1382 @@
+{
+  "v": "1.0",
+  "paper": "2024June-Paper1H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2024,
+  "session": "June",
+  "paperNum": "1H",
+  "type": "higher-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are the first four terms of an arithmetic sequence."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "1      4      7      10"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of n, for the nth term of this sequence."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The nth term of a different arithmetic sequence is $5n + 17$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the 12th term of this sequence."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "450 students were asked how they travelled to school on Monday."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each student walked or travelled by bus or travelled by car or travelled by bicycle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each student used just one method of travel."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "One of these students is chosen at random."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table shows information about the probability of each method of travel."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\n\\hline\nMethod of travel & Probability \\\\\n\\hline\nwalk & 0.20 \\\\\nbus & x \\\\\ncar & 2x \\\\\nbicycle & 0.26 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many of the 450 students travelled by car."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the highest common factor (HCF) of 72 and 108"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ava records the number of kilometres she drives each month."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In April, Ava drove 943 kilometres."
+        },
+        {
+          "type": "text",
+          "content": "This is 15% more than the number of kilometres she drove in March."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of kilometres Ava drove in March."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{kilometres}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In the diagram, ABCDE is a regular pentagon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle AEF = 96°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of the obtuse angle FED"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify      $(m + 5)(m – 8)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve      $3n - 4 = \\frac{5}{6}n + 3$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathcal{E} = \\{23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$A = \\{\\text{even numbers}\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$B = \\{23, 29, 31\\}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$C = \\{\\text{multiples of } 3\\}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "List the members of the set"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$B \\cup C$"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$A' \\cap C$"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Is it true that $B \\cap C = \\emptyset$ ?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Tick () one of the boxes below."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Yes"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "No"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give a reason for your answer."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "choice",
+                "options": [
+                  "Yes",
+                  "No"
+                ]
+              },
+              {
+                "type": "multiline",
+                "lines": 2
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The set D has 4 members and is such that $D \\cap (A \\cup C) = \\emptyset$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "List the members of set D"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cylinder is placed on a table."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The volume of the cylinder is $1575\\,\\text{cm}^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The force exerted by the cylinder on the table is 84 newtons."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\text{pressure} = \\frac{\\text{force}}{\\text{area}}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the pressure on the table due to the cylinder."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{newtons/cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table gives the amount of rice produced by each of two countries in 2020"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\n\\hline\nCountry & Amount of rice (tonnes) \\\\\n\\hline\nIndonesia & $3.5\\,\\times\\,10^7$ \\\\\nArgentina & $8.2\\,\\times\\,10^5$ \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $3.5\\,\\times\\,10^7$ as an ordinary number."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2020, Japan produced 6 780 000 more tonnes of rice than Argentina."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the amount of rice Japan produced in 2020"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "suffix": "$\text{tonnes}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify      $(2p)^0$  where $p > 0$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y^9\\,\\times\\,y^{-3} = y^n$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of n"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n = $"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully      $(5a^4c^2)^3$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a roof support."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The roof support is made from four lengths of wood, AB, AC, BC and MC"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$AC = BC = 9\\,\\text{m}$    $AB = 12\\,\\text{m}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "angle AMC = 90°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Lewis is going to buy lengths of wood to make the roof support."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The wood costs 21.50 euros per metre."
+        },
+        {
+          "type": "text",
+          "content": "Each length of wood he buys has to be a whole number of metres."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total cost of the wood Lewis needs to buy."
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{euros}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully      $6y^2 – 5y – 4$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Express $\\frac{x+2}{x^2-1} - \\frac{4}{x+7}$ as a single fraction in its simplest form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Harman has two bags of beads."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In bag A, there are 3 white beads and 7 black beads."
+        },
+        {
+          "type": "text",
+          "content": "In bag B, there are 5 white beads and 4 black beads."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Harman takes at random a bead from bag A and a bead from bag B"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the probability tree diagram."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "expression"
+              },
+              {
+                "type": "expression"
+              },
+              {
+                "type": "expression"
+              },
+              {
+                "type": "expression"
+              },
+              {
+                "type": "expression"
+              },
+              {
+                "type": "expression"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the probability that Harman takes two beads of the same colour."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The combined savings of Abel and Bahira are 15 435 dinars."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The savings of Bahira are 45% more than the savings of Abel."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The savings of Bahira are $\\frac{2}{3}$ times the savings of Chanda."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the savings of Chanda."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{dinars}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The function f is defined as"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\text{f}:x \\mapsto \\frac{3x-1}{x+2}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "State the value of x that cannot be included in any domain of the function f"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Express the inverse function $\\text{f}^{-1}$ in the form $\\text{f}^{-1}(x) = ...$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\text{f}^{-1}(x) = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There are 20 sweets in a box."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "15 of the sweets are red"
+        },
+        {
+          "type": "text",
+          "content": "5 of the sweets are yellow"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Fred takes at random 3 sweets from the box."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the probability that Fred takes at least one sweet of each colour from the box."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $\\frac{1}{5 - \\sqrt{3}}$ can be written in the form $a + b\\sqrt{3}$ where a and b are integers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show each stage of your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A curve C has equation $y = x^3 - 40x + 1$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of both the points on C at which the gradient is 8"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "coordinate",
+            "fields": 2
+          },
+          {
+            "type": "coordinate",
+            "fields": 2
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is quadrilateral ABCD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x = $"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a sector OABC of a circle centre O"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle AOC = 60°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The area of the shaded segment ABC is $38\\,\\text{cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of the shaded segment ABC"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to one decimal place."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A curve has equation $y = \\text{f}(x)$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "There is one minimum point on this curve."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The coordinates of this minimum point are (5, ‒4)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write down the coordinates of the minimum point on the curve with equation"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y = \\text{f}(x + 7)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$y = \\text{f}(x) - 6$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The incomplete histogram shows some information about the distances, in kilometres, that 100 adults ran last week."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "All of the adults ran at least 5 kilometres."
+        },
+        {
+          "type": "text",
+          "content": "None of the adults ran more than 55 kilometres."
+        },
+        {
+          "type": "text",
+          "content": "14 adults ran between 15 kilometres and 20 kilometres."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Complete the histogram."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A solid shape is made by removing a hemisphere, shown shaded, from a cone as shown in the diagram."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The radius of the hemisphere is $2x\\,\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The radius of the base of the cone is $5x\\,\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The vertical height of the cone is $6x\\,\\text{cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The volume of the solid shape is $6948\\pi\\,\\text{cm}^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total surface area of the solid hemisphere that has been removed from the cone."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest integer."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A polygon has n sides, where $n > 5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The interior angles of the polygon form an arithmetic sequence."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The smallest angle of the polygon is 84°"
+        },
+        {
+          "type": "text",
+          "content": "The common difference of the sequence is 4°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the sum of the interior angles of the polygon."
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\text{f}(x) = 17 - 3x^2 + 12x$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write $\\text{f}(x)$ in the form $a - b(x - c)^2$ where a, b and c are constants."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$\\text{f}(x) = $"
+      },
+      "meta": {}
+    }
+  ]
+}

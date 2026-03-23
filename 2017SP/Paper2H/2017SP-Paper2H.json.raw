@@ -1,0 +1,1319 @@
+{
+  "v": "1.0",
+  "paper": "2017SP-Paper2H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2017,
+  "session": "Specimen",
+  "paperNum": "2H",
+  "type": "higher-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $3e^7f \\times 4e^2f$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully $(27a^{12})^{\\frac{2}{3}}$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality $2q \\ge 31 - 3q$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$-2 \\le n < 3$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$n$ is an integer"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down all the possible values of $n$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a circle and a trapezium."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The height of the trapezium is $h\,\text{cm}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The area of the circle is equal to the area of the trapezium."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $h$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 1 decimal place."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a bag there are only red bricks, blue bricks, green bricks and orange bricks."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The number of green bricks in the bag is the same as the number of orange bricks."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Jiao takes at random a brick from the bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table gives the probability that Jiao takes a red brick and the probability that he takes a blue brick."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|c|c|} \\hline Colour & red & blue & green & orange \\\\ \\hline Probability & 0.26 & 0.3 & & \\\\ \\hline \\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the probability that Jiao takes an orange brick."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Jiao puts the brick back into the bag."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "There are 91 red bricks in the bag."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Jiao is going to build a tower using all the red bricks and all the blue bricks but no other bricks."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The tower will be in the shape of a cuboid."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "There will be 4 bricks in each layer of the tower."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out how many layers the tower will have."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are the first five terms of a number sequence."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "7 11 15 19 23"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of $n$, for the $n$th term of this sequence."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $n$th term of a different number sequence is given by $80 - 2n$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the first 3 terms of this sequence."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "number"
+              },
+              {
+                "type": "number"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Yuen says there are no numbers that are in both of the sequences."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Yuen is correct."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Explain why."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Aayush invests 18 000 rupees for 3 years at a rate of 4% per year compound interest."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total amount of interest Aayush has received by the end of 3 years."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest rupee."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "rupees"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the size of angle $x$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 1 decimal place."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A and C are points on a circle, centre O."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB and CB are tangents to the circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle ABC = 52°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of angle $x$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give a reason for each stage of your working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ =",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ahmed, Behnaz and Carmen each have some money."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Ahmed has 20% more money than Behnaz."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Carmen has $\\frac{7}{8}$ of the amount of money that Behnaz has."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Carmen has 31.50 euros."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how much money Ahmed has."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "euros"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The frequency table shows information about the ages of 60 people on a train."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|} \\hline Age (a years) & Frequency \\\\ \\hline $0 < a \\le 10$ & 4 \\\\ $10 < a \\le 20$ & 14 \\\\ $20 < a \\le 30$ & 17 \\\\ $30 < a \\le 40$ & 13 \\\\ $40 < a \\le 50$ & 7 \\\\ $50 < a \\le 60$ & 3 \\\\ $60 < a \\le 70$ & 2 \\\\ \\hline \\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the cumulative frequency table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|} \\hline Age (a years) & Cumulative frequency \\\\ \\hline $0 < a \\le 10$ & \\\\ $0 < a \\le 20$ & \\\\ $0 < a \\le 30$ & \\\\ $0 < a \\le 40$ & \\\\ $0 < a \\le 50$ & \\\\ $0 < a \\le 60$ & \\\\ $0 < a \\le 70$ & \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw a cumulative frequency graph for your table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find an estimate for the interquartile range of the ages of the 60 people."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "years"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find an estimate for how many of the 60 people are more than 48 years of age."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two congruent regular pentagons drawn inside a regular octagon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "One side of each pentagon lies along a side of the octagon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB is a side of the octagon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AC is a side of one of the pentagons."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "BC is a side of the other pentagon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of angle $y$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve $\\frac{3}{2x-5} - \\frac{4}{3x-2} = 2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y = x^3 - 6x^2 - 15x$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\\frac{\\text{d}y}{\\text{d}x}$"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\frac{\\text{d}y}{\\text{d}x}$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The curve with equation $y = x^3 - 6x^2 - 15x$ has two stationary points."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the coordinates of these two stationary points."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "coordinate",
+                "fields": 2
+              },
+              {
+                "type": "coordinate",
+                "fields": 2
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a school, students must study at least one language from German, French and Spanish."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "There are 30 students in a class of this school."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Of these students"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "7 study all three of the languages",
+            "10 study both German and French",
+            "12 study both Spanish and German",
+            "9 study both French and Spanish",
+            "16 study Spanish",
+            "18 study German"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total number of the students in the class who study French."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "You may use the Venn diagram to help with your calculations."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use algebra to show that $0.3\\dot{2}\\dot{4} = \\frac{107}{330}$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rationalise the denominator of $\\frac{4}{7 - \\sqrt{5}}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show each stage of your working."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in the form $a + b\\sqrt{5}$ where $a$ and $b$ are fractions in their simplest forms."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sophie takes an examination."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "If she fails the examination, she will resit."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that Sophie passes the examination on her first attempt is 0.7"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "If she fails the examination on any attempt, the probability she passes on the next attempt is 0.9"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the probability that Sophie takes at most 2 attempts to pass the examination."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows part of a sketch of the curve $y = \\sin x°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the point P"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the point Q"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Sketch the graph of $y = \\tan x$ for $0° \\le x \\le 360°$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show the coordinates of any points of intersection with the coordinate axes."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A solid metal cube has sides of length 125 mm, correct to 3 significant figures."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cube is melted down and the metal used to make solid spheres."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The volume of each sphere is to be 140 cm³, correct to the nearest 10 cm³"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the greatest number of spheres that could be made from the metal."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows part of the curve with equation $y = \\text{f}(x)$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The coordinates of the minimum point on this curve are (3, –4)"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of the minimum point on the curve with equation"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = \\text{f}(x - 4)$"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = 3\\text{f}(x)$"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = \\text{f}(\\frac{1}{2}x)$"
+                }
+              ],
+              "answer": {
+                "type": "coordinate",
+                "fields": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The curve with equation $y = \\text{f}(x)$ is translated to give curve C."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "C has a minimum at the point with coordinates (3, 5)"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The equation of C is $y = \\text{f}(x) + k$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the value of $k$"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$k$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle ABD."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "N is the midpoint of BC."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "C is the midpoint of AD."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "M is the point on AB such that AM : MB = 3 : 1"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{AB} = \\mathbf{p}$ and $\\vec{AC} = \\mathbf{q}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Express, in terms of $\\mathbf{p}$ and $\\mathbf{q}$,"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\vec{BD}$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$\\vec{MN}$"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "State, giving reasons, two different geometric facts relating MN and BD."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cone has a volume of $562.5\\pi\,\text{cm}^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The radius of the base of the cone is equal to twice the height of the cone."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the curved surface area of the cone."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $\\left(\\frac{5x^4}{25x^2}\\right)^3 \\div \\frac{4x^2+16x}{15x+7}$ as a single fraction in its simplest form."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The 3rd term of an arithmetic series, A, is 19"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The sum of the first 10 terms of A is 290"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the 10th term of A."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    }
+  ]
+}

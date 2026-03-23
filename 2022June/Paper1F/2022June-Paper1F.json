@@ -1,0 +1,1858 @@
+{
+  "v": "1.0",
+  "paper": "2022June-Paper1F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2022,
+  "session": "June",
+  "paperNum": "1F",
+  "type": "foundation-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Nav found the following table that shows the age, in years, of each of seven cities."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nCity & Age (years) \\\\\n\\hline\nCadiz & 3124 \\\\\nSuzhou & 2534 \\\\\nJenin & 4469 \\\\\nIstanbul & 2704 \\\\\nNanjing & 2516 \\\\\nGaziantep & 5669 \\\\\nAlexandria & 2351 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the name of the city with the greatest age."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number 2534 in words."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number 2351 correct to the nearest ten."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the difference between the age of Cadiz and the age of Nanjing."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " years"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A millennium is 1000 years."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "What is the age of Jenin in whole millenniums?"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " millenniums"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $12a + 3a – 7a$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $8 \\times 3b$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $\\frac{c}{3} = 9$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$c = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a probability scale."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "In a fruit bowl, there are only"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "3 bananas",
+            "7 pears"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Shimon is going to take at random one of the fruits from the bowl."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the letter of the arrow that points to the probability that Shimon takes"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a pear,"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "text"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a grape."
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "text"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Emma has some carrots, some potatoes and some onions in a bag."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She says that the probability of taking at random a carrot from the bag is 1.4"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Emma is not correct."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Explain why."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a polygon."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of this polygon."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a scale."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "On the scale, mark with an arrow (↑) the number 360"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a clock face."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "Write down the time shown on the clock face."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the following sentence by writing a suitable metric unit on the dotted line."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The length of a pen is 16 ......................................................"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a list of numbers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "3        6        7        8        11        25        27"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "From the numbers in the list, write down"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "an even number"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a multiple of 9"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a square number"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(iv)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a prime number"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use brackets to make the statement correct."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "You may use more than one pair of brackets in the statement."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$22 + 5 \\times 2 + 32 = 99$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "ABC is a straight line."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of $x$"
+                },
+                {
+                  "type": "space",
+                  "height": "1cm"
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x = $"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Give a reason for your answer to (i)"
+                },
+                {
+                  "type": "space",
+                  "height": "2cm"
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 2
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "CDE is an equilateral triangle."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "ABCF is a quadrilateral."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "BCE and DCF are straight lines."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $y$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "You must show your working."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sandeep buys some flowers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He has 5000 rupees to spend."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He buys 6 carnations at 220 rupees each."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He also buys some roses at 295 rupees each."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Sandeep should receive 140 rupees in change from his 5000 rupees."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many roses Sandeep buys."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $12g − 8e − 5g + 6e$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A = 3b − 5c$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of $A$ when $b = 12$ and $c = 4$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$A = $"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $4p + 9 = 24$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABC is a triangle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$AB = 8\\text{cm}$, $AC = 6\\text{cm}$ and $BC = 9\\text{cm}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Use a ruler and compasses to construct the triangle ABC."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The side AB has been drawn for you."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your construction lines."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Anjali wants to go on a boat at the seaside."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "At the seaside there are 20 boats."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Of these boats"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "2 are white",
+            "5 are blue",
+            "7 are green",
+            "6 are yellow"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Anjali selects at random one of these boats."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write down the probability that she selects"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(i)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "a green boat,"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(ii)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "a white boat or a yellow boat."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Johan wants to make some small cakes."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He finds a recipe that says he needs 360 grams of flour to make 15 small cakes."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Johan has $0.85\\text{kg}$ of flour."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Johan works out how much flour he would need to make 38 small cakes, using the"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "information given in the recipe."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Does Johan have enough flour, according to the recipe, to make 38 small cakes?"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "3cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 3
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The table gives information about the number of gold stars won by each of 25 students"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "in class 7T last week."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|}\n\\hline\nNumber of gold stars & Number of students \\\\\n\\hline\n0 & 6 \\\\\n1 & 5 \\\\\n2 & 4 \\\\\n3 & 7 \\\\\n4 & 3 \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+              "type": "text",
+              "content": "Work out the mean number of gold stars won."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A student in class 8R is to be chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The probability that this student won at least one gold star last week is 0.39"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the probability that this student did not win at least one gold star last week."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On the grid, draw the graph of $y = -2x + 3$ for values of $x$ from $-1$ to $5$"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In 2001, the total number of cars produced in the world was 39.8 million."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In 2006, the total number of cars produced in the world was 10.1 million greater than"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "the total number produced in 2001"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Express 10.1 million as a percentage of 39.8 million."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to one decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2011, the total number of cars produced in the world was 59.9 million."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "In 2016, the total number of cars produced in the world was 21% greater than the total"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "number produced in 2011"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "In 2016, the total number of cars produced in the world was N million."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of N."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest whole number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$N = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shape ABCDEFG made from a square ABDF and three identical"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "isosceles triangles BCD, DEF and FGA."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The perimeter of the square ABDF is $48\\text{cm}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The perimeter of each isosceles triangle is $30\\text{cm}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of the shape ABCDEFG."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are the first five terms of an arithmetic sequence."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "1        5        9        13        17"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of $n$, for the $n$th term of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The $n$th term of another arithmetic sequence is $3n + 5$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of $m$, for the $(2m)$th term of this sequence."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a biased 4-sided spinner."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The table gives the probabilities that, when the spinner is spun once, it will land on 1 or"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "it will land on 3"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|l|l|l|}\n\\hline\nNumber & 1 & 2 & 3 & 4 \\\\\n\\hline\nProbability & 0.26 &  & 0.18 &  \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "text",
+          "content": "The probability that the spinner will land on 2 is equal to the probability that the spinner"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "will land on 4"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Ravina is going to spin the spinner a number of times."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Ravina works out that an estimate for the number of times the spinner will land on 3 is 45"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the number of times the spinner will land on 4"
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the highest common factor (HCF) of 56 and 84"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the lowest common multiple (LCM) of 60 and 72"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows parts of three regular polygons, A, B and C, meeting at a point."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Polygon B has $n$ sides."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $n$."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$n = $"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $(n − 6)(n + 4)$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $2x - 3 = \\frac{3}{5}(4x - 1)$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Asha bought an apartment."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table gives information about the value of apartments, in euros, and the annual"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "service charge band."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nValue (x euros) & Service charge band \\\\\n\\hline\n$x \\ge 700\\,000$ & A \\\\\n$600\\,000 \\le x < 700\\,000$ & B \\\\\n$500\\,000 \\le x < 600\\,000$ & C \\\\\n$400\\,000 \\le x < 500\\,000$ & D \\\\\n$0 < x < 400\\,000$ & E \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2021, the value of Asha’s apartment was 634 400 euros."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The value of Asha’s apartment had increased by 4% from its value in 2020"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Has the annual service charge band changed for Asha’s apartment?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "3cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Pam bought a boat."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "In each year after Pam bought the boat, the value of the boat depreciated by 15%"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the total percentage by which the value of the boat had depreciated by the"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "end of the second year after Pam bought the boat."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A cylinder is placed on the ground."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The height of the cylinder is $18\\text{cm}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The force exerted by the cylinder on the ground is 72 newtons."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The pressure on the ground due to the cylinder is $1.4\\text{ newtons}/\\text{cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "pressure = $\\frac{\\text{force}}{\\text{area}}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the volume of the cylinder."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\text{cm}^3$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $0.000\\,089$ in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $8.34 \\times 10^4$ as an ordinary number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $8 \\times (4t)^0$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$x^6 \\div x^{-5} = x^p$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the value of $p$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p = $"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully $(2k^2m^4)^3$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Two circles, $C_1$ and $C_2$, are drawn on a centimetre grid, with a scale of $1\\text{cm}$ for 1 unit"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "on each axis."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The centre of circle $C_1$ is at the point with coordinates $(-1, 3)$ and the radius of $C_1$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "is $13\\text{cm}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The centre of circle $C_2$ is at the point with coordinates $(7, 18)$ and the radius of $C_2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "is $6\\text{cm}$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the distance between the centre of $C_1$ and the centre of $C_2$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\text{cm}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain why circle $C_1$ intersects circle $C_2$"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

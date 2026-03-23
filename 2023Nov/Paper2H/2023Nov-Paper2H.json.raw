@@ -1,0 +1,1039 @@
+{
+  "v": "1.0",
+  "paper": "2023Nov-Paper2H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2023,
+  "session": "Nov",
+  "paperNum": "2H",
+  "type": "higher-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows triangle ABC and triangle ECD"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ACD and EBC are straight lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = 10 cm    AC = 8 cm    EB = 5 cm    CD = 14 cm    ED = w cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of w"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to one decimal place."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "w = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Reflect shape T in the line $y = x$"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle A onto triangle B"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "multiline",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $2(x-5) = 6(2x+5)$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "x = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $h^{15} \div h^3$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully $(2g^3k^5)^4$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Given that $y^5 \times y^n = y^{12}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "work out the value of n"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "n = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Avril bakes a cake."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "She uses flour, butter and sugar such that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "weight of flour : weight of butter = 6 : 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "weight of butter : weight of sugar = 3 : 2"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Avril uses 120 grams of sugar."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the weight of flour Avril uses."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " grams"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $3\frac{3}{7} \div 2\frac{2}{3} = 1\frac{2}{7}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Hermione buys a boat for $26 800"
+        },
+        {
+          "type": "text",
+          "content": "The value of the boat depreciates by 8% each year."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of the boat at the end of 3 years."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest dollar."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The mean number of goals scored by a hockey team in 8 matches is 6"
+        },
+        {
+          "type": "text",
+          "content": "The team plays 2 more matches and scores k goals in each match."
+        },
+        {
+          "type": "text",
+          "content": "The mean number of goals scored by the hockey team in the 10 matches is 7"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of k"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "k = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A straight line passes through the points with coordinates (0, –3) and (2, 0)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find an equation of the line."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a hexagon ABCDEF"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = 25 cm    BC = $(x + 2)$ cm    CD = 8 cm    EF = 7 cm    AF = $(x + 6)$ cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The area of hexagon ABCDEF is $258 \\text{ cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "x = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sid has 2 boxes of crayons, box X and box Y"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "5 of the 16 crayons in box X are red."
+        },
+        {
+          "type": "text",
+          "content": "7 of the 20 crayons in box Y are red."
+        },
+        {
+          "type": "text",
+          "content": "Sid takes at random one crayon from box X and one crayon from box Y"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the probability tree diagram."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "text",
+                "content": "Fill in the tree diagram"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the probability that Sid takes two crayons that are red or two crayons that are not red."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$4^x = \\frac{1}{2^7}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Calculate the value of x"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "x = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully $(125p^6y^{24})^{\\frac{2}{3}}$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Robert asked 11 people how many meetings they attended last week."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here are the results in numerical order."
+        },
+        {
+          "type": "text",
+          "content": "1    2    4    6    6    8    11    12    13    14    17"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the interquartile range of the number of meetings."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is the graph of the equation $y = \\frac{2}{x} - 1$ drawn on a grid."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "By drawing another straight line on the grid, solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$y = \\frac{2}{x} - 1$"
+        },
+        {
+          "type": "text",
+          "content": "$y = x - 2$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "expression",
+            "prefix": "x = "
+          },
+          {
+            "type": "expression",
+            "prefix": "y = "
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use algebra to show that $0.372 = \\frac{41}{110}$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Express $\\frac{80}{\\sqrt{125}} + \\sqrt{245}$ in the form $n\\sqrt{5}$ where n is an integer."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify $(2x + 3)(x – 5)(x + 4)$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P = \\frac{a-c}{y}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$a = 8.3$ correct to 2 significant figures"
+        },
+        {
+          "type": "text",
+          "content": "$c = 2$ correct to 1 significant figure"
+        },
+        {
+          "type": "text",
+          "content": "$y = 15$ correct to the nearest 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the upper bound for the value of P"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A particle is moving along a straight line that passes through the fixed point O"
+        },
+        {
+          "type": "text",
+          "content": "The displacement, s metres, of the particle from O at time t seconds is given by"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$s = 2t^3 - 5t^2 + 6t + 5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of t when the acceleration of the particle is $5 \\text{ m/s}^2$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "t = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The functions f and g are such that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "f : $x \\mapsto 5x - 7$"
+        },
+        {
+          "type": "text",
+          "content": "g : $x \\mapsto \\frac{x}{x-9}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "State which value of x cannot be included in any domain of g"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find fg(4)"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The function h is such that"
+            },
+            {
+              "type": "text",
+              "content": "h:$x \\mapsto \\frac{3x-12}{x-8}$  where $x > 2$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Express the inverse function $h^{-1}$ in the form $h^{-1}: x \\mapsto \\dots$"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "h^{-1}:x \\mapsto "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows equilateral triangle ABC with sides of length 10 cm."
+        },
+        {
+          "type": "text",
+          "content": "A circle is drawn inside the triangle."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "D, E and F are points on the circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ADB, BEC and CFA are tangents to the circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the total area of the regions shown shaded in the diagram."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " $\\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The line with equation $x - y = 5$ intersects the curve with equation $x^2 + y^2 = 13$ at the points A and B"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of A and the coordinates of B"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "coordinate",
+            "fields": 2
+          },
+          {
+            "type": "coordinate",
+            "fields": 2
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "OACB is a quadrilateral."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{OA} = 3\\mathbf{a}$   "
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{OB} = 4\\mathbf{b}$   "
+        },
+        {
+          "type": "text",
+          "content": "$\\vec{AC} = 2\\mathbf{a} - 2\\mathbf{b}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the vector $\\vec{OC}$ in terms of $\\mathbf{a}$ and $\\mathbf{b}$"
+                },
+                {
+                  "type": "text",
+                  "content": "Simplify your answer."
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\vec{OC}$ = "
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Find the vector $\\vec{AB}$ in terms of $\\mathbf{a}$ and $\\mathbf{b}$"
+                }
+              ],
+              "answer": {
+                "type": "expression",
+                "prefix": "$\\vec{AB}$ = "
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The point P lies on AB and on OC"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Using a vector method, find the ratio AP : PB"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a frustum of a cone."
+        },
+        {
+          "type": "text",
+          "content": "The frustum is made by removing a small cone from a similar large cone."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The height of the large cone is 15 cm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The radius of the base of the large cone is 6 cm."
+        },
+        {
+          "type": "text",
+          "content": "The radius of the base of the small cone is x cm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Given that the volume of the frustum is $\\frac{4212}{25}\\pi \\text{ cm}^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "work out the value of x"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "x = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve $\\frac{4x-3}{4} - \\frac{x-1}{3} = \\frac{x^2+5}{8}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "x = "
+      },
+      "meta": {}
+    }
+  ]
+}

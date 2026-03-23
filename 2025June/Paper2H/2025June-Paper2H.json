@@ -1,0 +1,1183 @@
+{
+  "v": "1.0",
+  "paper": "2025June-Paper2H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2025,
+  "session": "June",
+  "paperNum": "2H",
+  "type": "higher-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Rio has six cards."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He writes a number on each card so that"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "the range of the numbers is 10",
+            "the median of the numbers is 7.5",
+            "the mode of the numbers is 6"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Rio arranges the cards so that the numbers are in order of size."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure of cards with 6, 10, 14 visible, three hidden]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Three of the numbers are hidden."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Complete the cards above to show the three numbers that are hidden."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, enlarge shape A with scale factor 3 and centre (0, 1)"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle P onto triangle Q"
+            },
+            {
+              "type": "multiline",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $7 \frac{1}{3} \\div 3 \frac{4}{7} = \frac{316}{21}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Using ruler and compasses only, construct the perpendicular bisector of the line AB"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show all your construction lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure of line AB]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two similar quadrilaterals, ABCD and EFGH"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = 5 cm      BC = 4 cm      CD = y cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "EF = x cm      FG = 10 cm      GH = 24 cm"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of x"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of y"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Pau, Sam and Tia share £240 in the ratios 3 : 4 : 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Sam and Tia each give £10 of their share to Pau."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the ratios of the amounts of money that Pau, Sam and Tia now have."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in its simplest form."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Tim buys a bracelet for 4000 Swiss francs."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The value of the bracelet increases by 7% each year."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of the bracelet at the end of 3 years."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to the nearest Swiss franc."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " Swiss francs"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$3x + 5y = 8$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$4x + y = –3.5$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "text",
+            "content": "$x$ = "
+          },
+          {
+            "type": "number"
+          },
+          {
+            "type": "newline"
+          },
+          {
+            "type": "text",
+            "content": "$y$ = "
+          },
+          {
+            "type": "number"
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality $7 – 3t < 2t + 15$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The region R, shown shaded in the diagram, is bounded by three straight lines."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down three inequalities that define the region R"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABD and ABC are right‑angled triangles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = 16 cm      BC = 12 cm      AD = 1.5 × AC"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the length of CD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Khalid has a box of counters."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "17 of the counters are red",
+            "28 of the counters are blue",
+            "the rest of the counters are orange"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Khalid is going to take at random a counter from the box."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that Khalid will take an orange counter is $\frac{4}{9}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the number of orange counters that are in the box."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Expand and simplify $(3x - 5)(7x + 4)$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The frequency table gives information about the times, in minutes, that 60 people took to complete a puzzle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|}\n\\hline\nTime\n(t minutes) & Frequency \\\\\n\\hline\n$0 < t \\le 10$ & 8 \\\\\n$10 < t \\le 20$ & 13 \\\\\n$20 < t \\le 30$ & 12 \\\\\n$30 < t \\le 40$ & 17 \\\\\n$40 < t \\le 50$ & 7 \\\\\n$50 < t \\le 60$ & 3 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the cumulative frequency table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|}\n\\hline\nTime\n(t minutes) & Cumulative frequency \\\\\n\\hline\n$0 < t \\le 10$ & \\\\\n$0 < t \\le 20$ & \\\\\n$0 < t \\le 30$ & \\\\\n$0 < t \\le 40$ & \\\\\n$0 < t \\le 50$ & \\\\\n$0 < t \\le 60$ & \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid opposite, draw a cumulative frequency graph for your table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find an estimate for the median time."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " minutes"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use your graph to find an estimate for the number of these people who took more than 45 minutes to complete the puzzle."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are five graphs."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the letter of the graph that could have the equation $y = \frac{5}{x^2}$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the letter of the graph that could have the equation $y = 2^x$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify fully $\frac{a^{10} \times a^3}{a^7 \times a^2}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Make $t$ the subject of the formula $c = \frac{2t - 3}{7t + 8}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$y = 4x^3 - 5x^2 + 2x - 3$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $\frac{\text{d}y}{\text{d}x}$"
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "$\\frac{\\text{d}y}{\\text{d}x}$ = "
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the coordinates of the turning points on the graph with"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "equation $y = 4x^3 - 5x^2 + 2x - 3$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Use algebra to show that $0.\\dot{7}0\\dot{2} = \frac{26}{37}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the inequality $4x^2 - 4x - 15 \\ge 0$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "120 gardeners were asked if they grow carrots (C) or potatoes (P) or tomatoes (T)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Of these gardeners"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "43 grow carrots",
+            "12 grow carrots and potatoes and tomatoes",
+            "18 grow carrots and potatoes",
+            "27 grow carrots and tomatoes",
+            "32 grow potatoes and tomatoes",
+            "29 do not grow carrots or potatoes or tomatoes"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The number of these gardeners who grow only potatoes is equal to the number"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "of these gardeners who grow only tomatoes."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the Venn diagram to show this information."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find $n(T \\cap C')$"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the gardeners who grows carrots is chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Calculate the probability that this gardener also grows potatoes."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a cuboid."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cuboid measures $3x$ cm by $2x$ cm by $y$ cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The volume of the cuboid is $1014\text{cm}^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total surface area of the cuboid is $A\text{cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show that $A = 12x^2 + \frac{1690}{x}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "You must show all the stages of your working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a square inside rectangle ABCD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total area of the region shown shaded in the diagram is $X\text{cm}^2$"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "AB = 11.5 cm correct to the nearest 0.5 cm",
+            "BC = 9.2 cm correct to 2 significant figures",
+            "side of square = 4.1 cm correct to 2 significant figures"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "By considering bounds, work out the value of X to a suitable degree of accuracy."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$X$ = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$4^{2x} \times 5^{120} = 10^{60} \times 5^{180} \times 2^{px}$ where $p$ is an integer."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $p$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$p$ = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a square-based pyramid ABCDE"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$EA = EB = EC = ED$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "M is the centre of the horizontal square base ABCD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Q is the midpoint of AB"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle EQM = $80^\\circ$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$EA : AB = n : 1$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of n"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$n$ = "
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $2x^2 - 24x + 28$ in the form $a(x-b)^2 + c$ where a, b and c are integers."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the axes below, sketch the graph of $y = 2x^2 - 24x + 28$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clearly the coordinates of the turning point and the coordinates of the point of"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "intersection of the graph with the y-axis."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 26,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A and B are two similar solids."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The height of solid A is 31 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The height of solid B is 18.6 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Given that"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "volume of solid A – volume of solid B = $735\text{cm}^3$"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "find the volume of solid A"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^3$"
+      },
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,1508 @@
+{
+  "v": "1.0",
+  "paper": "2020Jan-Paper1F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2020,
+  "session": "Jan",
+  "paperNum": "1F",
+  "type": "foundation-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the land area, in $\\text{km}^2$, of each of six African countries."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nCountry & Land area (km2) \\\\\n\\hline\nBotswana & 566\\,730 \\\\\nKenya & 569\\,140 \\\\\nNamibia & 823\\,290 \\\\\nSomalia & 627\\,340 \\\\\nTanzania & 885\\,800 \\\\\nZambia & 743\\,390 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the name of the country with the greatest land area."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 823\\,290 correct to the nearest thousand."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the difference between the land area of Botswana and the land area of Kenya."
+            },
+            {
+              "type": "space",
+              "suffix": "$\text{km}^2$"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{km}^2$"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The land area of the Gambia is 10\\,120\\,km$^2$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write the number 10\\,120 in words."
+            },
+            {
+              "type": "space",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bar chart shows information about the weight, in millions of tonnes, of bananas produced by each of four countries in 2016"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "In 2016, China produced 13 million tonnes of bananas."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a bar on the bar chart to show this information."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these countries produced 6.8 million tonnes of bananas in 2016"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Which country?"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In 2016, a total of 113 million tonnes of bananas was produced worldwide."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "What fraction of the 113 million tonnes of bananas was produced in India in 2016?"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the following sentences by writing a sensible metric unit on each of the dotted lines."
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The distance from Cairo to Nairobi is 5211 ......................................................."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The weight of an egg is 20 ......................................................."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "The area of the floor of a classroom is 260 ......................................................."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Cara has a bottle of juice."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "There is 1 litre of juice in the bottle."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Cara makes some drinks."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She uses exactly 30 millilitres of this juice to make each drink."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Cara makes as many drinks as possible."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "How many drinks does Cara make?"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a sequence of patterns made from square tiles."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the space below, draw Pattern number 4"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline\nPattern number & 1 & 2 & 3 & 4 & 5 \\\\\n\\hline\nNumber of tiles & 4 & 6 & 8 & & \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the number of tiles in Pattern number 30"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Liz says that in Pattern number n, the number of tiles is $2n$."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Is Liz correct?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "You must give a reason for your answer."
+            },
+            {
+              "type": "space",
+              "lines": 2
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Paul is buying a sandwich and a drink in a meal deal."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He can have a cheese sandwich (C) or an egg sandwich (E) or a tomato sandwich (T)."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He can have orange juice (O) or milk (M) or water (W) to drink."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write down all the possible combinations Paul can buy."
+        },
+        {
+          "type": "space",
+          "lines": 3
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 3
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{1}{4}$ as a decimal."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{34}{10}$ as a mixed number in its simplest form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $\\frac{3}{4} \\div \\frac{15}{16} = \\frac{4}{5}$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ABDE is a quadrilateral."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ABC is a triangle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "DCB is a straight line."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Work out the value of x."
+                },
+                {
+                  "type": "space",
+                  "prefix": "$x$ ="
+                }
+              ],
+              "answer": {
+                "type": "number",
+                "prefix": "$x$ ="
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Give a reason for your answer."
+                },
+                {
+                  "type": "space",
+                  "lines": 1
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of y."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give a reason for each stage of your working."
+            },
+            {
+              "type": "space",
+              "prefix": "$y$ ="
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$y$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $6m - 2k + 5m - k$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "P $= 2a + 3b$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of P when $a = 5$ and $b = 8$"
+            },
+            {
+              "type": "space",
+              "prefix": "P ="
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "P ="
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "P $= 2a + 3b$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of a when $P = 16$ and $b = 20$"
+            },
+            {
+              "type": "space",
+              "prefix": "$a$ ="
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$a$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Kamal sells 240 ice creams for a total of $640"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{1}{3}$ of the ice creams he sells are large."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cost of each large ice cream he sells is $3.80"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "All the other ice creams he sells are small."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He sells each small ice cream for the same cost."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the cost of each small ice cream."
+        },
+        {
+          "type": "space",
+          "prefix": "$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the ratio 32 : 80 in its simplest form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "There are only red counters and blue counters in a bag."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "In the bag"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "the number of red counters : the number of blue counters = 5 : 7"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "What fraction of the counters in the bag are red?"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Kwo asked 40 people where they went on holiday last year."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He is going to draw a pie chart for his results."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "16 of the 40 people said they went to Egypt."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the size of the angle in the pie chart for Egypt."
+            },
+            {
+              "type": "space",
+              "suffix": "$°$"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Tiffany asked some people what type of holiday they each like the best."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She used her results to draw this pie chart."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "48 of the people that Tiffany asked said they like beach holidays the best."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out how many of the people Tiffany asked said they like walking holidays the best."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sam takes an English exam."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "There are two papers in the exam."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each paper has a maximum mark of 80"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "To pass the exam, Sam needs to get at least 60% of the total marks."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Sam gets 55% of the 80 marks in paper 1"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the least number of marks that Sam must get in paper 2 to pass the English exam."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The scale drawing shows the positions of a ship, S, and a port, P."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Scale: 1\\,cm represents 20\\,km"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the bearing of S from P."
+            },
+            {
+              "type": "space",
+              "suffix": "$°$"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "The ship S now sails directly towards port P."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The ship sails at an average speed of 24\\,km/h."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out how long it takes the ship to get to P."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to the nearest hour."
+            },
+            {
+              "type": "space",
+              "suffix": "hours"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "hours"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The point A has coordinates $(5, -4)$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The point B has coordinates $(13, 1)$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the coordinates of the midpoint of AB."
+            },
+            {
+              "type": "space",
+              "template": "(............................ , ............................)"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Line L has equation $y = 2 - 3x$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the gradient of line L."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Line L has equation $y = 2 - 3x$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Does the point with coordinates $(100, -302)$ lie on line L?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "You must give a reason for your answer."
+            },
+            {
+              "type": "space",
+              "lines": 3
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the highest common factor (HCF) of 28 and 70"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the lowest common multiple (LCM) of 28 and 105"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shape."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The shape has area 129\\,cm$^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x."
+        },
+        {
+          "type": "space",
+          "prefix": "$x$ ="
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows information about the weights, in kilograms, of 40 babies."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\n\\hline\nWeight (w\\,kg) & Frequency \\\\\n\\hline\n$2 < w \\le 3$ & 12 \\\\\n$3 < w \\le 4$ & 16 \\\\\n$4 < w \\le 5$ & 9 \\\\\n$5 < w \\le 6$ & 2 \\\\\n$6 < w \\le 7$ & 1 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the modal class."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out an estimate for the mean weight of the 40 babies."
+            },
+            {
+              "type": "space",
+              "suffix": "$\text{kg}$"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{kg}$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the 40 babies is going to be chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that this baby has a weight of more than 5\\,kg."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "120 children go on an activity holiday."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The ratio of the number of girls to the number of boys is 3 : 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On Sunday, all the children either go sailing or go climbing."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{16}{25}$ of the boys go climbing."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Twice as many girls go sailing as go climbing."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many children go sailing on Sunday."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On the grid, enlarge the shaded shape with scale factor $\\frac{1}{2}$ and centre (1, 2)"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $7.8 \\times 10^{-4}$ as an ordinary number."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $\\frac{5.6 \\times 10^7}{2.8 \\times 10^3}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 9,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $(m - 8)(m + 5)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $5y + 20y^2$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $(p^2 + 3)^0$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $3(2x - 5) = 9 - x$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "space",
+              "prefix": "$x$ ="
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a right-angled triangle."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the length of PQ."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "suffix": "$\text{cm}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    }
+  ]
+}

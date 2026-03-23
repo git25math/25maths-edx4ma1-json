@@ -1,0 +1,1617 @@
+{
+  "v": "1.0",
+  "paper": "2025Nov-Paper2F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2025,
+  "session": "Nov",
+  "paperNum": "2F",
+  "type": "foundation-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows the distances, in kilometres, travelled by six birds."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nBird & Distance (km) \\\\\n\\hline\nNorthern wheatear & 28 349 \\\\\nArctic tern & 95 786 \\\\\nPectoral sandpiper & 27 948 \\\\\nSooty shearwater & 64 321 \\\\\nPied wheatear & 17 582 \\\\\nBar-tailed godwit & 13 496 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the name of the bird that travelled the greatest distance."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write the number 64 321 correct to the nearest thousand."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the difference between the distance travelled by the Northern wheatear and the distance travelled by the Pied wheatear."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "suffix": "km"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the dotted line, write down a number from the table to make this calculation correct."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": ".................................................................................. $\\div$ 3 = 9316"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bar chart shows information about the weight of wheat, in millions of tonnes, produced by each of five countries in 2021"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The UK produced 14 million tonnes of wheat."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a bar on the bar chart to show this information."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the weight of wheat produced by Turkey."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "suffix": "million tonnes"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these countries produced 7.5 million tonnes of wheat."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Which country?"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these countries produced three times as many million tonnes of wheat as Sweden."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Which country?"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of point J"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of point L"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, mark with a cross (×) the point M so that JKLM is a parallelogram. Label this point M"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a regular hexagon."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the order of rotational symmetry of a regular hexagon."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a quadrilateral with 4 sides of equal length."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the mathematical name of this quadrilateral."
+                }
+              ],
+              "answer": {
+                "type": "multiline",
+                "lines": 1
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Draw all the lines of symmetry on the quadrilateral."
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here are some triangles drawn on a grid."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Two of these triangles are congruent."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the letters of these two triangles."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write these decimals in order of size. Start with the smallest decimal."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "0.67\t0.078\t0.7\t0.76\t0.706"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 0.62 as a percentage."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here are some fractions."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$\\frac{1}{3}$\t$\\frac{2}{7}$\t$\\frac{4}{9}$\t$\\frac{3}{5}$\t$\\frac{10}{3}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "One of these fractions can be written as a terminating decimal."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down this fraction."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 2,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a number machine."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "input $\\rightarrow \\times 3 \\rightarrow - 9 \\rightarrow$ output"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the output when the input is 8"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a different number machine."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "input $\\rightarrow + 12 \\rightarrow$ [box] $\\rightarrow$ output"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "When the input is 8 the output is 4"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Complete the box to give a possible number machine."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Tara buys"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "two magazines for 3.25 dirhams each",
+            "one bag of sweets for 2.60 dirhams",
+            "three bars of chocolate for 1.75 dirhams each"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Tara pays with a 20 dirham note."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How much change should she get?"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "suffix": "dirhams"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$T = 5n - 3p$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of T when $n = 8$ and $p = 4.5$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "prefix": "$T = $"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $5h + 8 = 30$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "prefix": "$h = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is an accurate scale drawing of a patio."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Scale: 1 cm represents 150 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of the patio. Give your answer in metres."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "suffix": "metres"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $4^3$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the cube root of 9261"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $28 - 5 \\times 4$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $3^3 + 6^2 \\div 2$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The pie chart gives information about the types of vehicles parked in a car park."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which type of vehicle is the mode?"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "5 of the vehicles are motorcycles."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the number of buses."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Kim selects at random one of the vehicles in the car park."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "What is the probability that she selects a motorcycle?"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $d^2 - 3$ when $d = -5$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make $r$ the subject of the formula $m = 4r - h$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Rachel is an electrician."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The amount Rachel charges, in pounds (£), can be worked out using this rule."
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "multiply the number of hours worked by 27",
+                "then add 40"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "Rachel works $n$ hours."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She charges £P"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down a formula for P in terms of n"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Johan changes 290 euros to Hong Kong dollars."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The exchange rate is 1 euro = 8.23 Hong Kong dollars."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Johan gets as many 50 Hong Kong dollar notes as possible."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How many 50 Hong Kong dollar notes does Johan get?"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A car travels for 3 hours."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The car travels at an average speed of 78 km/h"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total distance the car travels."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "suffix": "km"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a trapezium."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Diagram NOT accurately drawn"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of the trapezium."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the lowest common multiple (LCM) of 24 and 56"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ella has two fair spinners."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Spinner A is labelled 0, 1 and 2"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Spinner B is labelled 2, 3, 4 and 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Ella is going to spin each spinner once."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each spinner will land on a number."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Ella will get her score by multiplying these two numbers together."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            }
+          ],
+          "answer": {
+            "type": "table_input",
+            "template": "\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n\\textbf{Spinner B} & \\textbf{$\\times$} & \\textbf{2} & \\textbf{3} & \\textbf{4} & \\textbf{5} \\\\\n\\hline\n\\textbf{Spinner A} & \\textbf{0} & 0 & 0 & 0 & \\_ \\\\\n\\cline{2-6}\n& \\textbf{1} & 2 & 3 & 4 & \\_ \\\\\n\\cline{2-6}\n& \\textbf{2} & 4 & 6 & \\_ & \\_ \\\\\n\\hline\n\\end{tabular}"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the probability that Ella’s score is less than 5"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The point P has coordinates (3, 4)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The point Q has coordinates (9, 16)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "M is the midpoint of the line PQ"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the coordinates of M"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "coordinate",
+        "fields": 2
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$5x + y = 11$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$3x - y = 9$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "multiline",
+            "lines": 1,
+            "prefix": "$x = $"
+          },
+          {
+            "type": "multiline",
+            "lines": 1,
+            "prefix": "$y = $"
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A box contains only"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "9 red bricks",
+            "43 blue bricks",
+            "and some yellow bricks"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{7}{20}$ of the bricks are yellow bricks."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each brick weighs 35 grams."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total weight of the yellow bricks."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "suffix": "grams"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are three similar quadrilaterals."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Diagram NOT accurately drawn"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the length of JK"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "suffix": "cm"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Otis sells ice creams."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On Friday, Otis sells 75 ice creams."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "On Saturday, Otis sells 87 ice creams."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the percentage increase in the number of ice creams Otis sells from Friday to Saturday."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Claudia buys an ice cream machine for 960 Swiss francs."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The value of the ice cream machine depreciates by 20% each year."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of the ice cream machine at the end of 3 years."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "suffix": "Swiss francs"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A large circle with centre O contains 3 identical small circles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each circle touches two other circles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Diagram NOT accurately drawn"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A, O and B are the centres of the small circles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AOB is a straight line."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The circumference of the large circle is 160 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the area of one small circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(i)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise $x^2 + 2x - 48$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(ii)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Hence, solve $x^2 + 2x - 48 = 0$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $5.76 \\times 10^4$ as an ordinary number."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $\\frac{5 \\times 10^3}{2 \\times 10^8}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 26,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Mark has three bags, bag A, bag B and bag C"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Bag A contains 120 counters."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability of taking at random a red counter from bag A is 0.45"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Bag B contains 80 counters."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability of taking at random a red counter from bag B is 0.3"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Bag C is empty."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Mark puts all the counters from bag A and bag B into bag C"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Mark takes at random a counter from bag C"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the probability that he takes a red counter."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 27,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the number line, represent the inequality $w < 1$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The region R, shown shaded in the diagram, is bounded by three straight lines."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the three inequalities that define the region R"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "multiline",
+                "lines": 1
+              },
+              {
+                "type": "multiline",
+                "lines": 1
+              },
+              {
+                "type": "multiline",
+                "lines": 1
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 28,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a right-angled triangle ABC"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Diagram NOT accurately drawn"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Area of triangle ABC = 240 cm$^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of triangle ABC"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "suffix": "cm"
+      },
+      "meta": {}
+    }
+  ]
+}

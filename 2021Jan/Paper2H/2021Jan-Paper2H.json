@@ -1,0 +1,1359 @@
+{
+  "v": "1.0",
+  "paper": "2021Jan-Paper2H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2021,
+  "session": "Jan",
+  "paperNum": "2H",
+  "type": "higher-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A train takes 6 hours 39 minutes to travel from New Delhi to Kanpur."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The train travels a distance of 429 km."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the average speed of the train."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in km/h correct to one decimal place."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{km/h}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ava writes down five whole numbers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "For these five numbers"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "the median is 7",
+            "the mode is 8",
+            "the range is 5"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Find a possible value for each of the five numbers that Ava writes down."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Gladys buys a table for $465 to sell in her shop."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She sells the table for $520"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the percentage profit that Gladys makes from the sale of the table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 3 significant figures."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Gladys has a sale in her shop."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She decreases all the normal prices by 12%"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The normal price of an armchair was $550"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the sale price of the armchair."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw and label the straight line with equation"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$x = 1.5$"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$y = x$"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(iii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "$x + y = 6$"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show, by shading on the grid, the region that satisfies all three of the inequalities"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$x \\ge 1.5 \\quad y \\ge x \\quad x + y \\le 6$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Label the region R."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $4x(2x + 5) – 3x(2x – 3)$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Given that $y^n \times y^5 \times y^6 = y^{13}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "work out the value of n."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$n = $"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 2,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Solve the inequality $7t – 8 < 2t + 7$"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the number line below, represent the solution set of the inequality solved in part (c)(i)"
+                },
+                {
+                  "type": "newline"
+                },
+                {
+                  "type": "text",
+                  "content": "[Figure]"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the value of  $y^0$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $9.6 \times 10^{141} + 6.4 \times 10^{140} + 3.2 \times 10^{139}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There are 5 cocoa pods in a bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The mean weight of the 5 cocoa pods is 398 grams."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A sixth cocoa pod is put into the bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The mean weight of the 6 cocoa pods is 401 grams."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the weight of the sixth cocoa pod that is put into the bag."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{grams}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A, B and C are points on a circle with centre O."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AOC is a diameter of the circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = 8 cm    BC = 15 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle ABC = 90°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total area of the regions shown shaded in the diagram."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A = 2^3 \times 3^2 \times 5^2 \times 11$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$B = 2^4 \times 3 \times 5^4 \times 13$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the lowest common multiple (LCM) of A and B."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer as a product of powers of prime numbers."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The people working for a company work in Team A or in Team B."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "number of people in Team A : number of people in Team B = 3 : 4"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\frac{4}{5}$ of Team A work full time."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "24% of Team B work full time."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out what fraction of the people working for the company work full time."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your fraction in its simplest form."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Simplify fully $\\left(\frac{9t^4w^9}{18t^6w^{10}}\right)^{-2}$"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "15 people were asked how long, in minutes, they had been waiting for a bus."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here are the results."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "2        3        3        4        5        6        6        8        9        10        11        13        14        15        18"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the interquartile range of these times."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{minutes}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "P, Q, R, S and T are points on a circle with centre O."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "QOS is a diameter of the circle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "angle POS = 124°          angle PRS = m°          angle PTS = n°"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "m"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "n"
+                },
+                {
+                  "type": "space"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the size of angle QPO."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 7,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $\\frac{9a-7}{5} - \\frac{3a-7}{4} = 4.55$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$a = $"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make c the subject of the formula $p = \\frac{ac+8}{c+3}$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A postman records the weight of each parcel that he delivers."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The histogram shows information about the weights of all the parcels that the postman delivered last Monday.  No parcels weighed more than 6 kg."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "63 of the parcels that the postman delivered last Monday each had a weight between 0.5 kg and 2 kg."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the total number of parcels the postman delivered last Monday."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The postman picks at random two of the records of the parcels he delivered last Monday."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out an estimate for the probability that each parcel weighed more than 2.25 kg."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Some students were asked the following question."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "“Which of the subjects Russian (R), French (F) and German (G) do you study?”"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Of these students"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "  4 study all three of Russian, French and German",
+            "10 study Russian and French",
+            "13 study French and German",
+            "  6 study Russian and German",
+            "24 study German",
+            "11 study none of the three subjects",
+            "the number who study Russian only is twice the number who study French only."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Let x be the number of students who study French only."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show all this information on the Venn diagram, giving the number of students in each appropriate subset, in terms of x where necessary."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Given that the number of students who were asked the question was 80"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "work out the number of these students that study Russian."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a solid prism ABCDEFGH."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The trapezium ABCD, in which AD is parallel to BC, is a cross section of the prism."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The base ADEH of the prism is a horizontal plane."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ADEH and BCFG are rectangles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The midpoint of BC is vertically above the midpoint of AD so that BA = CD."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AD = 37 cm            GF = 28 cm            DE = 24 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The perpendicular distance between edges AD and BC is 20 cm."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the total surface area of the prism."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the size of the angle between AF and the plane ADEH."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to one decimal place."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A rectangle ABCD is to be drawn on a centimetre grid such that"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "A has coordinates (–4, –2)",
+            "B has coordinates (1, 10)",
+            "C has coordinates (19, a)",
+            "D has coordinates (b, c)"
+          ]
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of a, the value of b and the value of c."
+            },
+            {
+              "type": "space"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "number",
+                "prefix": "$a = $"
+              },
+              {
+                "type": "number",
+                "prefix": "$b = $"
+              },
+              {
+                "type": "number",
+                "prefix": "$c = $"
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calculate the perimeter, in centimetres, of rectangle ABCD."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\text{cm}$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A particle P is moving along a straight line."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The fixed point O lies on this line."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "At time t seconds where $t \\ge 0$, the displacement, s metres, of P from O is given by"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$s = t^3 + 5t^2 – 8t + 10$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the displacement of P from O when P is instantaneously at rest."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in the form $\\frac{a}{b}$ where a and b are integers."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "suffix": "$\text{metres}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a shaded region T formed by removing an equilateral triangle PQR from a regular hexagon ABCDEF."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The points P and Q lie on AB such that AB = $1.5 \times$ PQ"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Given that the area of region T is $72\\sqrt{3}\text{ cm}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "work out the length of PQ."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Write $\\frac{x^2-25}{x^2-64} \\times \\frac{x^2-5x-8x+15}{x^2+5x+8x-7}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "as a single fraction in its simplest form."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a sector OBC of a circle with centre O and radius $(6 + x)\text{ cm}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A is the point on OB and D is the point on OC such that OA = OD = 6 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle BOC = 50°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Given that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "the perimeter of sector OBC = $2 \times$ the perimeter of triangle OAD"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "find the value of x."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x = $"
+      },
+      "meta": {}
+    }
+  ]
+}

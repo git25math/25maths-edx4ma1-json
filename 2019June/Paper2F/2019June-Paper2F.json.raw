@@ -1,0 +1,1067 @@
+{
+  "v": "1.0",
+  "paper": "2019June-Paper2F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2019,
+  "session": "June",
+  "paperNum": "2F",
+  "type": "foundation-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write these numbers in order.\nStart with the smallest number."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write these numbers in order of size.\nStart with the smallest number."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the value of $\\sqrt{196}$"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "the cube root of 6859"
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The bar chart gives information about the population, in millions, of each of five cities."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "figure",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Cairo has a population of 12 million."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw a bar on the bar chart to show this information."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "The populations of two cities are equal.\nWrite down the names of these two cities."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1,
+            "suffix": "and"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the name of the city with a population of 15 million."
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the difference in population between Jakarta and Phoenix."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "million"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "In Manila, there are 90 badminton clubs and 60 football clubs.\nFind the ratio of the number of badminton clubs to the number of football clubs.\nGive your ratio in its simplest form."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A, B and C are points on a circle, centre O.\nAOC is a straight line."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "figure",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for the line AC."
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name for the line AB."
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram, shade a sector of the circle."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are five road signs."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "figure",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these five road signs has one line of symmetry.\nWrite down the letter of this road sign."
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of these five road signs has an order of rotational symmetry greater than 1"
+            }
+          ],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the letter of this road sign."
+                }
+              ],
+              "answer": {
+                "type": "text"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Write down the order of rotational symmetry of this road sign."
+                }
+              ],
+              "answer": {
+                "type": "number"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Road sign E is in the shape of a polygon with 8 sides.\nWrite down the name of a polygon with 8 sides."
+            }
+          ],
+          "answer": {
+            "type": "text"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Which one of these fractions is equivalent to $\\frac{4}{5}$?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$\\frac{20}{24}\\quad\\frac{8}{12}\\quad\\frac{1}{2}\\quad\\frac{16}{20}\\quad\\frac{6}{10}$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here is a shape made of squares."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "figure",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "Shade $\\frac{4}{5}$ of the shape."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{4}{5}$ as a percentage."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "%"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "$\\frac{4}{5}$ of a number is 48\nWhat is the number?"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a sequence of patterns made from sticks."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "figure",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the space below, draw Pattern number 4"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "How many sticks are needed to make Pattern number 7?"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the Pattern number of the pattern made from exactly 62 sticks."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Pedro says,\n\"There will be a pattern in the sequence with exactly 123 sticks.”\nIs Pedro correct?\nYou must give a reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a game, a fair 3-sided spinner is spun once and a fair dice is rolled once."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "figure",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The spinner can land on 1, 2 or 3\nThe dice can land on 1, 2, 3, 4, 5 or 6\nIn the game, the score is found by multiplying the number the spinner lands on by the\nnumber the dice lands on."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table to show all possible scores.\nEleven of the scores have been done for you."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\cline{2-7}\n\\multicolumn{1}{c|}{} & \\multicolumn{6}{c|}{\\textbf{Dice}} \\\\\n\\cline{2-7}\n\\multicolumn{1}{c|}{} & \\textbf{1} & \\textbf{2} & \\textbf{3} & \\textbf{4} & \\textbf{5} & \\textbf{6} \\\\\n\\hline\n\\textbf{1} & 1 & 2 & 3 & 4 & & \\\\\n\\cline{2-7}\n\\textbf{Spinner} & \\textbf{2} & & 4 & & 8 & 10 \\\\\n\\cline{2-7}\n\\multicolumn{1}{c|}{} & \\textbf{3} & 3 & 6 & & 12 & \\\\\n\\hline\n\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Steven plays the game once.\nWork out the probability that his score is greater than 10"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Adam plays the game and Carmen plays the game.\nAdam gets a prize if his score is 5 or less.\nCarmen gets a prize if her score is a multiple of 6\nCarmen says the game is unfair because Adam is more likely to get a prize.\nIs the game unfair?\nYou must give a reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Nina buys 8 pencils and 13 identical rulers.\nEach pencil costs $0.58\nThe total cost is $23.62\nWork out the cost of each ruler."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Bjorn has $15 to spend on pens.\nEach pen costs $0.62\nHe buys as many pens as he can.\nWork out how much change Bjorn should get."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simon has $x$ sweets.\nYuen has 2 more sweets than Simon.\nGiulia has 3 times as many sweets as Yuen.\nSimon, Yuen and Giulia have a total of $T$ sweets.\nWrite down a formula for $T$ in terms of $x$.\nGive your formula in its simplest form."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make $g$ the subject of the formula $r = 4g + 7$"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $6y - 3 = 2y + 8$\nShow clear algebraic working."
+            }
+          ],
+          "answer": {
+            "type": "expression",
+            "prefix": "y ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "ABC is an isosceles triangle.\nAB = 6 cm.\nAC = BC = 7 cm.\nUse ruler and compasses to construct triangle ABC.\nYou must show all your construction lines.\nThe line AB has been drawn for you."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "figure",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use ruler and compasses to construct the perpendicular bisector of the line DE.\nYou must show all your construction lines."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "figure",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Calvin and Jenny are planning a holiday together.\nThe total cost of the flights is £1190\nCalvin and Jenny share the cost of the flights so that\nthe money that Calvin pays : the money that Jenny pays = 2:5\nHow much more money does Jenny pay than Calvin?"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "£"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The cost of the villa for their holiday is £3500\nThey have to pay a deposit of 12% of this cost.\nThe rest of the cost of the villa is to be paid in monthly instalments of £220\nHow many monthly instalments must be paid?"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 3,
+      "stem": [],
+      "parts": [],
+      "content": [
+        {
+          "type": "text",
+          "content": "On the grid, draw the graph of $y = 3x - 1$ for values of $x$ from -2 to 3"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "figure",
+          "content": "[Figure]"
+        }
+      ],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [],
+      "parts": [],
+      "content": [
+        {
+          "type": "text",
+          "content": "The table shows information about the heights, in cm, of 48 sunflowers in a garden centre."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|c|c|}\n\\hline\n\\textbf{Height of sunflower (h cm)} & \\textbf{Frequency} \\\\\n\\hline\n$90 < h \\le 100$ & 8 \\\\\n\\hline\n$100 < h \\le 110$ & 12 \\\\\n\\hline\n$110 < h \\le 120$ & 15 \\\\\n\\hline\n$120 < h \\le 130$ & 10 \\\\\n\\hline\n$130 < h \\le 140$ & 3 \\\\\n\\hline\n\\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the mean height of the sunflowers."
+        }
+      ],
+      "answer": {
+        "type": "number",
+        "suffix": "cm"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$\\mathscr{E} = \\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\\}$\nA = \\{2, 3, 5, 7\\}\nB = \\{4, 6, 8, 10\\}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Explain why $A \\cap B = \\emptyset$"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 1
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$x \\in \\mathscr{E}$ and $x \\notin A \\cup B$\nWrite down the two possible values of $x$."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Set C is such that\n$A \\cup B \\cup C = \\mathscr{E}$\n$A \\cap C = \\{2\\}$\n$B \\cap C' = \\{4, 6, 10\\}$\nList all the members of set C."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 2,
+      "stem": [],
+      "parts": [],
+      "content": [
+        {
+          "type": "text",
+          "content": "A cylinder has diameter 14 cm and height 20 cm.\nWork out the volume of the cylinder.\nGive your answer correct to 3 significant figures."
+        }
+      ],
+      "answer": {
+        "type": "number",
+        "suffix": "cm³"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 8,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "Josh buys and sells books for a living.\nHe buys 120 books for £4 each.\nHe sells $\\frac{1}{2}$ of the books for £5 each.\nHe sells 40% of the books for £7 each.\nHe sells the rest of the books for £8 each.\nCalculate Josh's percentage profit."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "%"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "One book that Josh owns had a value of £15 on the 1st May 2019\nThe value of this book had increased by 20% in the last year.\nFind the value of the book on the 1st May 2018"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "£"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "ABC and DEF are similar triangles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "figure",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the length of DF."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "cm"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the length of BC."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "cm"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 3,
+      "stem": [],
+      "parts": [],
+      "content": [
+        {
+          "type": "text",
+          "content": "30 students in a class sat a Mathematics test.\nThe mean mark in the test for the 30 students was 26.8\n13 of the 30 students in the class are boys.\nThe mean mark in the test for the boys was 25\nFind the mean mark in the test for the girls.\nGive your answer correct to 3 significant figures."
+        }
+      ],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [],
+      "parts": [],
+      "content": [
+        {
+          "type": "text",
+          "content": "Change a speed of $x$ kilometres per hour into a speed in metres per second.\nSimplify your answer."
+        }
+      ],
+      "answer": {
+        "type": "expression",
+        "suffix": "m/s"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [],
+      "parts": [],
+      "content": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations\n$x + 2y = -0.5$\n$3x - y = 16$\nShow clear algebraic working."
+        }
+      ],
+      "answer": {
+        "type": "multiline",
+        "lines": 2,
+        "prefix": [
+          "x =",
+          "y ="
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the positions of three ships A, B and C."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "figure",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "B is 234 km due north of A.\nC is 356 km due east of A."
+        }
+      ],
+      "parts": [],
+      "content": [
+        {
+          "type": "text",
+          "content": "Work out the bearing of B from C.\nGive your answer correct to the nearest degree."
+        }
+      ],
+      "answer": {
+        "type": "number",
+        "suffix": "°"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The straight line L has gradient 5 and passes through the point with coordinates (0, -3)\nWrite down an equation for L."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The region R, shown shaded in the diagram, is bounded by four straight lines.\nWrite down the inequalities that define R."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "figure",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 4
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

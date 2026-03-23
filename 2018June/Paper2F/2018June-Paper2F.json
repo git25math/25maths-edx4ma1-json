@@ -1,0 +1,1528 @@
+{
+  "v": "1.0",
+  "paper": "2018June-Paper2F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2018,
+  "session": "June",
+  "paperNum": "2F",
+  "type": "foundation-calc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 0.63 as a fraction."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 46 821 correct to the nearest 100"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 73.654 correct to 1 decimal place."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 0.09 as a percentage."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Daniel has five bags of coloured sweets."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He picks at random a sweet from each bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table shows the probability that the sweet he picks from each bag is red."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|}\\hline Bag & Probability of red \\\\ \\hline A & 0.7 \\\\ B & 0.9 \\\\ C & 0.5 \\\\ D & 1 \\\\ E & 0.2 \\\\ \\hline\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "From which bag is Daniel least likely to pick a red sweet?"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Which bag contains only red sweets?"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "From which bag is Daniel equally likely to pick a red sweet as a sweet of another colour?"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Joseph buys some heating oil."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He puts it in his oil tank."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The scales show the numbers of litres of oil in the tank immediately before and immediately after Joseph puts the oil in the tank."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The oil Joseph buys costs 0.40 euros per litre."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total cost of the oil that Joseph buys."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "suffix": " euros"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows points A, B and C on a square grid."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the coordinates of C."
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Measure the length of BC."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in centimetres."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "suffix": " cm"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, mark with a cross (X) the point D so that ABCD is a parallelogram."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Label this point D."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down a multiple of 8 that is between 20 and 50"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [
+            {
+              "type": "text",
+              "content": "There is only one prime number that is an even number."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down this number."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Shreya says that 57 is a prime number."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Is Shreya correct?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give a reason for your answer."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a sequence of patterns made from dots."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Draw Pattern number 4 in the space above."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|}\\hline Pattern number & 1 & 2 & 3 & 4 & 5 \\\\ \\hline Number of dots & 4 & 8 & 12 & & \\\\ \\hline\\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the number of dots in Pattern number 13"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an expression, in terms of n, for the number of dots in Pattern number n."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "There are fewer than 90 dots in Pattern number k."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "What is the largest possible value of k?"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $7 \\times 7 \\times 7 \\times 7 \\times 7$ as a power of 7"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that 64 is both a square number and a cube number."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $11^3$"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $\\sqrt{98.01}$."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of $25 - 4g$ when $g = -3$"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $x(2x + 1) + 3(x - 2) + 7$"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "R and S are points on a circle with centre O."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "On the diagram above, shade a segment of the circle."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the mathematical name of the straight line RS."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "stem": [
+            {
+              "type": "text",
+              "content": "In the diagram below, P and Q are points on a circle with centre O."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "QT is a tangent to the circle."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Angle OPQ = $18°$"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the size of angle PQT."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give a reason for each stage of your working."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Last Thursday, 135 students each bought one item of fruit."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table shows information about the 135 items of fruit they bought."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\\hline Fruit & Number of students \\\\ \\hline apple & 36 \\\\ pear & 15 \\\\ orange & 27 \\\\ banana & 33 \\\\ peach & 24 \\\\ \\hline\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "One of the 135 students is chosen at random."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the probability that this student bought an apple or a banana."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "A pie chart is drawn for the information in the table."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the size of the angle in the pie chart for oranges."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "suffix": "$°$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $\\frac{10.4 - 5.1}{2.7 + 6.8 - 3.2 - 9.5}$."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer as a decimal."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down all the figures on your calculator display."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Give your answer to part (a) correct to 3 significant figures."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a quadrilateral ABCD on a centimetre grid."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the area of triangle ABC."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "You must include the units with your answer."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Give a reason why angle ACD is equal to angle CAB."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 2
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down an equation for the straight line that passes through D and C."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Tenzin walks in the mountains."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "She has a rule to estimate the temperature at different heights on a mountain."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Temperature decreases by $2°\\text{C}$ for every increase of 300 metres in height."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The temperature at a height of 800 metres on a mountain is $6°\\text{C}$."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Use Tenzin’s rule to work out an estimate of the temperature at a height of 2000 metres on the mountain."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "suffix": "$°\\text{C}$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Tenzin also has a rule to estimate the time it will take her to complete a walk in the mountains."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "She uses"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "an average speed of 5 km / h for the distance she will walk",
+                "and then adds on 1 minute for every increase of 10 metres in height."
+              ]
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Tenzin plans to walk 12 km in the mountains with an increase of 800 metres in height."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Use Tenzin’s rule to work out an estimate for the time it will take her to complete this walk."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in hours and minutes."
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "text",
+                "content": " hours "
+              },
+              {
+                "type": "number"
+              },
+              {
+                "type": "text",
+                "content": " minutes"
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Javier has two sets of cards."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Each set contains 4 cards, one marked A, one marked B, one marked C and one marked D."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Javier is going to take at random one card from each set."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table shows all possible pairs of cards that Javier could take."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|l|l|l|}\\cline{2-5} \\multicolumn{1}{c|}{} & \\multicolumn{4}{c|}{Set 2} \\\\ \\cline{2-5} \\multicolumn{1}{c|}{} & A & B & C & D \\\\ \\hline Set 1 & & & & \\\\ \\hline A & AA & AB & AC & AD \\\\ B & BA & BB & BC & BD \\\\ C & CA & CB & CC & CD \\\\ D & DA & DB & DC & DD \\\\ \\hline\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the probability that Javier will take at least one card marked C."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Javier is going to take at random one card from each set, note the letter on each card and replace the cards."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "He is going to do this a total of 80 times."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out an estimate for the number of times that Javier will take at least one card marked C."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "BCDE is a rectangle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "ABE is an isosceles triangle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB = AE"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle BAE = $80°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of angle x."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Work out the difference between the largest share and the smallest share when 3450 yen is divided in the ratios 2 : 6 : 7"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "suffix": " yen"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Gopal is paid 20 000 rupees each month."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Jamuna is paid 19 200 rupees each month."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Gopal and Jamuna are both given an increase in their monthly pay."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "After the increase, they are both paid the same amount each month."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Gopal was given an increase of 8%"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the percentage increase that Jamuna was given."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "suffix": "$\\%$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Make a the subject of the formula $M = ac - bd$"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality $5x - 4 \\le 39$"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $18e^2 f^3 - 12e^3 f$"
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows two cylinders, A and B."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Cylinder A has height 1.6 m and radius 0.56 m."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the curved surface area of cylinder A."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in m$^2$ correct to 3 significant figures."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "suffix": " m$^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "Cylinder B is mathematically similar to cylinder A."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The height of cylinder B is 0.6 m."
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the radius of cylinder B."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "suffix": " m"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Show that $\\frac{3}{4} - \\frac{7}{15} = \\frac{153}{56}$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The students in Class A and in Class B take the same examination."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "There are 28 students in Class A and 32 students in Class B."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The mean score for all the students in both classes is 72.6"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The mean score for the students in Class A is 75"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "stem": [],
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the mean score for the students in Class B."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "stem": [
+            {
+              "type": "text",
+              "content": "The lowest score in Class A is 39"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The range of scores for Class A is 57"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The lowest score in Class B is 33"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The range of scores for Class B is 60"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the range of scores for all the students in both classes."
+            }
+          ],
+          "answer": {
+            "type": "multiline"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve the simultaneous equations"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$x + y = 15$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$7x - 5y = 3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "text",
+            "content": "x = "
+          },
+          {
+            "type": "number"
+          },
+          {
+            "type": "newline"
+          },
+          {
+            "type": "text",
+            "content": "y = "
+          },
+          {
+            "type": "number"
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "$8^{27} = 2^n$"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of n."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "prefix": "$n$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "stem": [
+            {
+              "type": "text",
+              "content": "$(13^{-6})^4 \\times 13^5 = 13^k$"
+            }
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the value of k."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "prefix": "$k$ ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

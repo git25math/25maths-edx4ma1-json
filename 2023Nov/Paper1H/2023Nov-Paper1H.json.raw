@@ -1,0 +1,1258 @@
+{
+  "v": "1.0",
+  "paper": "2023Nov-Paper1H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2023,
+  "session": "Nov",
+  "paperNum": "1H",
+  "type": "higher-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a Venn diagram."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "List the members of the set"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "A"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$A \cap B$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "$(A \cup B)'$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $12pq - 18p$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "There are 56 metal bars in a box."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Each metal bar is gold or silver or zinc."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$y$ metal bars are gold."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$(3y + 7)$ metal bars are silver."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$(2y - 5)$ metal bars are zinc."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the number of metal bars that are zinc. Show clear algebraic working."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Joshua buys a car for $12 500"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He sells the car to Nina."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Nina pays"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "a deposit of $1500",
+            "followed by 36 monthly payments of $450"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out Joshua’s percentage profit."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\\%$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A biased spinner has three sections each of a different colour."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table shows the probability that, when the spinner is spun once, it will land on blue or on orange or on white."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{lccc} \\hline Colour & blue & orange & white \\\\ Probability & 0.58 & 2x & x \\\\ \\hline \\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $x$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$x$ ="
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The spinner is spun 250 times."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out an estimate for the number of times the spinner will land on blue."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shaded shape made from three identical semicircles, X, Y and Z"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "ABCDE is a straight line."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AC is the diameter of semicircle X and B is the centre of semicircle X"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "BD is the diameter of semicircle Y and C is the centre of semicircle Y"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "CE is the diameter of semicircle Z and D is the centre of semicircle Z"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AC = BD = CE = 20 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of the shaded shape. Give your answer correct to the nearest whole number."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Juan wants to buy a ticket to fly from Madrid to Berlin."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He finds two different types of ticket he can buy in a sale, ticket A and ticket B"
+        },
+        {
+          "type": "text",
+          "content": "ticket A"
+        },
+        {
+          "type": "text",
+          "content": "$\frac{1}{6}$ off normal price"
+        },
+        {
+          "type": "text",
+          "content": "ticket B"
+        },
+        {
+          "type": "text",
+          "content": "20% off normal price"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The sale price of ticket A is 140 euros. The sale price of ticket B is 136 euros."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the difference between the normal price of ticket A and the normal price of ticket B"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "euros"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$A = 2^3 \times 5^3 \times 7^6 \times 11^3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "and $B = 2^4 \times 5^2 \times 7^6 \times 11^4$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the highest common factor (HCF) of A and B. Give your answer as a product of powers of its prime factors."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality $8x - 4 \ge 3x + 10$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "The region R, shown shaded in the diagram, is bounded by three straight lines."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "Write down the three inequalities that define the region R"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": ""
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $5.87 \times 10^4$ as an ordinary number."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $84 000 000$ in standard form."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The number of neurons in a human brain is $8.5 \times 10^{10}$."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The number of neurons in a monkey brain is $1.47 \times 10^9$."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "The number of neurons in a human brain is K $\times$ the number of neurons in a monkey brain."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of K. Give your answer correct to one decimal place."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "K ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is triangle ABC"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $x$. Give your answer correct to one decimal place. Show your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Express $\\frac{3}{x+4} - \\frac{5}{x-6}$ as a single fraction in its simplest terms."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table of values for $y = x^3 - 3x + 1$"
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|} \\hline x & -2 & -1 & 0 & 1 & 2 \\\\ \\hline y & -1 & & & & \\\\ \\hline \\end{tabular}"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "On the grid, draw the graph of $y = x^3 - 3x + 1$ for values of $x$ from $-2$ to $2$"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Here are four graphs."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "Write down the letter of the graph that could have the equation $y = \\frac{1}{x^2}$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The cumulative frequency graph gives information about the times, in seconds, that 80 adults took to log in to an online bank."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find an estimate for the median time."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "seconds"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the percentage of these adults that took longer than 50 seconds to log in. Show your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "A, B and C are points on a circle, centre O"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle OAC = 52°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the size of angle ABC. Give reasons for your working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Make $n$ the subject of the formula $\\frac{x}{p} = \\frac{3}{n} - \\frac{3}{4}$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A curve has equation $y = \\frac{4}{x^3} - \\frac{8}{x^5}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the $x$ coordinates of the two points on the curve where the gradient is $\\frac{1}{3}$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The histogram gives information about the weights, in grams, of some oranges in a box."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "24 of these oranges weigh less than 20 grams."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Medium oranges weigh between 35 grams and 55 grams."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the number of medium oranges in the box."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows the positions of three villages, A, B and C"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "The bearing of B from A is 054°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The bearing of C from B is 132°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Melur walks from A to B"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "She then walks from B to C and from C to A"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Melur walks at an average speed of 6 km/h"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the total time Melur takes. Give your answer in hours and minutes."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "suffix": "hours"
+          },
+          {
+            "type": "number",
+            "suffix": "minutes"
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here are the first 4 terms in an arithmetic sequence."
+        },
+        {
+          "type": "text",
+          "content": "3    7    11    15"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The last term of the sequence is $x$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The sum of the terms of the sequence is 7260"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of $x$. Show clear algebraic working."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x$ ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A bag contains only 10 cent coins and 20 cent coins."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Josip takes at random a coin from the bag, records its value and replaces it in the bag. He then takes at random a second coin from the bag, records its value and replaces it in the bag."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Josip finds the mean value of the two coins."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The probability that the two coins have a mean value of 10 cents is $\\frac{49}{121}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the probability that the two coins have a mean value of 15 cents."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a triangular prism ABCDEF"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "AD = 53 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "DF = 28 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle FDE = 30°"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the volume of the triangular prism. Give your answer correct to the nearest whole number."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}^3$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[In this question $1 \\text{ cm} = 1 \\text{ unit}$ on the $x$-axis and $1 \\text{ cm} = 1 \\text{ unit}$ on the $y$-axis]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "P is a point on a circle with centre (0, 0)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The coordinates of P are (8, -10)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The line L is the tangent to the circle at the point P"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "L crosses the $x$-axis at the point Q and crosses the $y$-axis at the point R"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the length of RQ. Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solid A is similar to solid B"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here is some information about solid A and solid B"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|c|} \\hline & solid A & solid B \\\\ \\hline Height (cm) & 3x & \\\\ Area (cm$^2$) & 7776 & 486 \\\\ Volume (cm$^3$) & 8x & 2x+4 \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the height of solid B. Give your answer as a decimal."
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The curve with equation $f(x) = \\frac{5}{x^2+9x+2}$ is transformed to the curve with equation"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$g(x) = \\frac{5}{(x-4)^2+9(x-4)+8}$ by the translation $\\begin{pmatrix} a \\\\ b \\end{pmatrix}$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the value of $a$ and the value of $b$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "number",
+                "prefix": "$a$ ="
+              },
+              {
+                "type": "number",
+                "prefix": "$b$ ="
+              }
+            ]
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "The graph of $y = p \\cos(x-q)^\\circ$ for $0 \\le x \\le 360$ is drawn on the grid below."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "Given that $p > 0$ and $0 < q < 360$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "find the value of $p$ and the value of $q$"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "structured",
+            "answerBlocks": [
+              {
+                "type": "number",
+                "prefix": "$p$ ="
+              },
+              {
+                "type": "number",
+                "prefix": "$q$ ="
+              }
+            ]
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

@@ -1,0 +1,2063 @@
+{
+  "v": "1.0",
+  "paper": "2023Jan-Paper1F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2023,
+  "session": "Jan",
+  "paperNum": "1F",
+  "type": "foundation-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Luca has $5\\text{ kg}$ of chopped tomatoes."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He also has some empty tins."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "When full, each tin holds $350\\text{ g}$ of chopped tomatoes."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Luca fills as many tins as possible with the chopped tomatoes."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the weight of the chopped tomatoes remaining after Luca has filled as many tins as possible."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give the units of your answer."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 1,
+        "template": ".......................................................  ..........................."
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A sequence of patterns is made from squares."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Pattern number 1"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Pattern number 2"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Pattern number 3"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "In the space below, draw Pattern number 4"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Pattern number 4"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|c|c|c|c|c|} \\hline Pattern number & 1 & 2 & 3 & 4 & 5 \\\\ \\hline Number of squares & 1 & 4 & 7 & & \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the number of squares in Pattern number 8"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Angus says"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "“there are 42 squares in Pattern number 15”"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Angus is incorrect."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Explain why."
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "..................................................................................................................................................................................................................................\n..................................................................................................................................................................................................................................\n.................................................................................................................................................................................................................................."
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 0.8 as a percentage."
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the value of the 3 in the number 4.7634"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write these decimals in order of size."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Start with the smallest decimal."
+            },
+            {
+              "type": "text",
+              "content": "0.204\u2002 \u2002 \u2002 \u2002 \u2002 \u2002 0.24\u2002 \u2002 \u2002 \u2002 \u2002 \u2002 0.04\u2002 \u2002 \u2002 \u2002 \u2002 \u2002 0.2\u2002 \u2002 \u2002 \u2002 \u2002 \u2002 0.042"
+            },
+            {
+              "type": "space",
+              "height": "1cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write 25.786\u200921 correct to 2 decimal places."
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(e)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the square root of 1296"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Adam has 8 packets of noodles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Here is the flavour of noodles in each packet."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Hot and Spicy",
+            "Curry",
+            "Vegetarian",
+            "Hot and Spicy",
+            "Curry",
+            "Hot and Spicy",
+            "Curry",
+            "Hot and Spicy"
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Adam takes at random a packet of noodles."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": null,
+          "content": [],
+          "subparts": [
+            {
+              "label": "(i)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "On the probability scale, mark with a cross (×) the probability that Adam takes a packet of Hot and Spicy noodles."
+                },
+                {
+                  "type": "text",
+                  "content": "[Figure]"
+                },
+                {
+                  "type": "text",
+                  "content": "0.5"
+                },
+                {
+                  "type": "text",
+                  "content": "1"
+                },
+                {
+                  "type": "text",
+                  "content": "0"
+                },
+                {
+                  "type": "space",
+                  "height": "0.5cm"
+                }
+              ],
+              "answer": {
+                "type": "none"
+              }
+            },
+            {
+              "label": "(ii)",
+              "marks": 1,
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Circle the word that best describes the likelihood that Adam takes a packet of Vegetarian\u2009noodles."
+                },
+                {
+                  "type": "text",
+                  "content": "impossible\u2002 \u2002 \u2002 \u2002 \u2002 \u2002 unlikely\u2002 \u2002 \u2002 \u2002 \u2002 \u2002 even\u2002 \u2002 \u2002 \u2002 \u2002 \u2002 likely\u2002 \u2002 \u2002 \u2002 \u2002 \u2002 certain"
+                },
+                {
+                  "type": "space",
+                  "height": "0.5cm"
+                }
+              ],
+              "answer": {
+                "type": "expression"
+              }
+            }
+          ],
+          "answer": null
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Belinda asks 20 people to name the type of rice that they each like the best."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Here are her results."
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                "arborio",
+                "jasmine",
+                "basmati",
+                "jasmine",
+                "basmati",
+                "basmati",
+                "arborio",
+                "wild",
+                "jasmine",
+                "jasmine",
+                "jasmine",
+                "jasmine",
+                "arborio",
+                "basmati",
+                "basmati",
+                "wild",
+                "basmati",
+                "jasmine",
+                "wild",
+                "arborio"
+              ]
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Complete the frequency table for Belinda’s results."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|l|l|c|} \\hline Type of rice & Tally & Frequency \\\\ \\hline arborio & & \\\\ \\hline basmati & & \\\\ \\hline jasmine & & \\\\ \\hline wild & & \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Sandeep sells 600 tickets for an event."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "He receives a total of $7200 from selling the tickets."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{1}{4}$ of the tickets sold are child tickets."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The rest of the tickets sold are adult tickets."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cost of an adult ticket is $13.60"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the cost of a child ticket."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $5p \\times 9k$"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $3e + 2f + 8e – 7f$"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $2d + 7 = 16$"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$d = $"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a scale drawing showing the positions of Paris and Bordeaux."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Paris"
+        },
+        {
+          "type": "text",
+          "content": "Bordeaux"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Scale: $1\\text{ cm}$ represents $80\\text{ km}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Alain drives from Paris to Bordeaux."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The distance that he drives is $590\\text{ km}$."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "This distance is greater than the actual straight line distance between Paris\u2009and\u2009Bordeaux."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How much greater?"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{ km}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Avner has two fair spinners."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Spinner A"
+        },
+        {
+          "type": "text",
+          "content": "Spinner B"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Spinner A can land on 1, 2 or 3"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Spinner B can land on 1, 2, 3 or 4"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Avner multiplies the number on which spinner A lands by the number on which spinner\u2009B lands to find his score."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Complete the table to show all possible scores."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Seven of the scores have been completed for you."
+            },
+            {
+              "type": "table",
+              "content": "\\begin{tabular}{|c|c|c|c|c|} \\cline{2-5} \\multicolumn{1}{c|}{} & \\multicolumn{4}{c|}{\\textbf{Spinner B}} \\\\ \\hline \\textbf{Spinner A} & \\textbf{1} & \\textbf{2} & \\textbf{3} & \\textbf{4} \\\\ \\hline \\textbf{1} & 1 & 2 & 3 & 4 \\\\ \\hline \\textbf{2} & 2 & 4 & 6 & 8 \\\\ \\hline \\textbf{3} & 3 & 6 & 9 & 12 \\\\ \\hline \\end{tabular}"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "table_input"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Avner spins spinner A once and spinner B once."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that his score is an odd number."
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Orange squash is made from orange juice and water."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Sean has two different cartons of orange squash, carton P and carton Q."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table gives information about the two cartons."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|l|} \\hline \\textbf{Carton P} & \\textbf{Carton Q} \\\\ \\hline Total volume of orange squash is & Total volume of orange squash is \\\\ $250\\text{ millilitres}$ & $250\\text{ millilitres}$ \\\\ \\textbf{and} & \\textbf{and} \\\\ $30\\%$ of the total volume is orange juice & $160\\text{ millilitres}$ of the total volume is water \\\\ and & and \\\\ the remainder is water & the remainder is orange juice \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the difference in the volume of orange juice in carton P and the volume of orange juice in carton Q."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{ millilitres}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "On the grid below, draw the graph of $y = 1 – 2x$ for values of $x$ from –2 to 3"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "y"
+        },
+        {
+          "type": "text",
+          "content": "x"
+        },
+        {
+          "type": "text",
+          "content": "8"
+        },
+        {
+          "type": "text",
+          "content": "7"
+        },
+        {
+          "type": "text",
+          "content": "6"
+        },
+        {
+          "type": "text",
+          "content": "5"
+        },
+        {
+          "type": "text",
+          "content": "4"
+        },
+        {
+          "type": "text",
+          "content": "3"
+        },
+        {
+          "type": "text",
+          "content": "2"
+        },
+        {
+          "type": "text",
+          "content": "1"
+        },
+        {
+          "type": "text",
+          "content": "–5"
+        },
+        {
+          "type": "text",
+          "content": "–6"
+        },
+        {
+          "type": "text",
+          "content": "–4"
+        },
+        {
+          "type": "text",
+          "content": "–3"
+        },
+        {
+          "type": "text",
+          "content": "–2"
+        },
+        {
+          "type": "text",
+          "content": "–1"
+        },
+        {
+          "type": "text",
+          "content": "–2"
+        },
+        {
+          "type": "text",
+          "content": "–1"
+        },
+        {
+          "type": "text",
+          "content": "3"
+        },
+        {
+          "type": "text",
+          "content": "2"
+        },
+        {
+          "type": "text",
+          "content": "1"
+        },
+        {
+          "type": "text",
+          "content": "O"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $\\frac{7}{8} – \\frac{5}{12} = \\frac{11}{24}$"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the highest common factor (HCF) of 130 and 208"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$p = t – ac$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$t = 18$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$a = –3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$c = 5$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the value of $p$"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$p = $"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Make $x$ the subject of the formula $d = 3x + 10$"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "y"
+            },
+            {
+              "type": "text",
+              "content": "x"
+            },
+            {
+              "type": "text",
+              "content": "6"
+            },
+            {
+              "type": "text",
+              "content": "5"
+            },
+            {
+              "type": "text",
+              "content": "4"
+            },
+            {
+              "type": "text",
+              "content": "3"
+            },
+            {
+              "type": "text",
+              "content": "2"
+            },
+            {
+              "type": "text",
+              "content": "1"
+            },
+            {
+              "type": "text",
+              "content": "–5"
+            },
+            {
+              "type": "text",
+              "content": "–6"
+            },
+            {
+              "type": "text",
+              "content": "–4"
+            },
+            {
+              "type": "text",
+              "content": "–3"
+            },
+            {
+              "type": "text",
+              "content": "–2"
+            },
+            {
+              "type": "text",
+              "content": "–1"
+            },
+            {
+              "type": "text",
+              "content": "–2"
+            },
+            {
+              "type": "text",
+              "content": "–3"
+            },
+            {
+              "type": "text",
+              "content": "–4"
+            },
+            {
+              "type": "text",
+              "content": "–5"
+            },
+            {
+              "type": "text",
+              "content": "–6"
+            },
+            {
+              "type": "text",
+              "content": "–1"
+            },
+            {
+              "type": "text",
+              "content": "3"
+            },
+            {
+              "type": "text",
+              "content": "4"
+            },
+            {
+              "type": "text",
+              "content": "5"
+            },
+            {
+              "type": "text",
+              "content": "6"
+            },
+            {
+              "type": "text",
+              "content": "2"
+            },
+            {
+              "type": "text",
+              "content": "1"
+            },
+            {
+              "type": "text",
+              "content": "O"
+            },
+            {
+              "type": "text",
+              "content": "A"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "On the grid, rotate triangle A $90°$ anticlockwise about centre O"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "y"
+            },
+            {
+              "type": "text",
+              "content": "x"
+            },
+            {
+              "type": "text",
+              "content": "6"
+            },
+            {
+              "type": "text",
+              "content": "7"
+            },
+            {
+              "type": "text",
+              "content": "8"
+            },
+            {
+              "type": "text",
+              "content": "9"
+            },
+            {
+              "type": "text",
+              "content": "10"
+            },
+            {
+              "type": "text",
+              "content": "5"
+            },
+            {
+              "type": "text",
+              "content": "4"
+            },
+            {
+              "type": "text",
+              "content": "3"
+            },
+            {
+              "type": "text",
+              "content": "2"
+            },
+            {
+              "type": "text",
+              "content": "1"
+            },
+            {
+              "type": "text",
+              "content": "–2"
+            },
+            {
+              "type": "text",
+              "content": "–1"
+            },
+            {
+              "type": "text",
+              "content": "–2"
+            },
+            {
+              "type": "text",
+              "content": "–1"
+            },
+            {
+              "type": "text",
+              "content": "3"
+            },
+            {
+              "type": "text",
+              "content": "4"
+            },
+            {
+              "type": "text",
+              "content": "5"
+            },
+            {
+              "type": "text",
+              "content": "6"
+            },
+            {
+              "type": "text",
+              "content": "7"
+            },
+            {
+              "type": "text",
+              "content": "8"
+            },
+            {
+              "type": "text",
+              "content": "9"
+            },
+            {
+              "type": "text",
+              "content": "10"
+            },
+            {
+              "type": "text",
+              "content": "2"
+            },
+            {
+              "type": "text",
+              "content": "1"
+            },
+            {
+              "type": "text",
+              "content": "O"
+            },
+            {
+              "type": "text",
+              "content": "B"
+            },
+            {
+              "type": "text",
+              "content": "C"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Describe fully the single transformation that maps triangle B onto triangle C"
+            },
+            {
+              "type": "space",
+              "height": "2cm"
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3,
+            "template": "..................................................................................................................................................................................................................................\n..................................................................................................................................................................................................................................\n.................................................................................................................................................................................................................................."
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a floor plan of a stage."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The plan is formed from a triangle and a rectangle."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "Diagram NOT"
+        },
+        {
+          "type": "text",
+          "content": "accurately drawn"
+        },
+        {
+          "type": "text",
+          "content": "$2.5\\text{ m}$"
+        },
+        {
+          "type": "text",
+          "content": "$4.8\\text{ m}$"
+        },
+        {
+          "type": "text",
+          "content": "$3\\text{ m}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The stage manager is going to paint the floor."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "One tin of paint covers an area of $1.8\\text{ m}^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "One tin of paint costs $16.40"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Paint can only be bought in full tins."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The stage manager has $190 to spend."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Does the stage manager have enough money to buy enough tins to paint all of the floor?"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "space",
+          "height": "2cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": []
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "80 students entered a dancing competition."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The table gives information about the length of time, in minutes, for which each student spent dancing."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|} \\hline Time (m) & Frequency \\\\ \\hline $0 < m \\le 12$ & 11 \\\\ \\hline $12 < m \\le 24$ & 25 \\\\ \\hline $24 < m \\le 36$ & 23 \\\\ \\hline $36 < m \\le 48$ & 15 \\\\ \\hline $48 < m \\le 60$ & 6 \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out an estimate for the mean length of time the students spent dancing."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{ minutes}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Solve $3(2 – 4x) = 5 – 8x$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show clear algebraic working."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x = $"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Use ruler and compasses only to construct the perpendicular bisector of line AB"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "You must show all your construction lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "A"
+        },
+        {
+          "type": "text",
+          "content": "B"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a pentagon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "$x°$"
+        },
+        {
+          "type": "text",
+          "content": "$119°$"
+        },
+        {
+          "type": "text",
+          "content": "$67°$"
+        },
+        {
+          "type": "text",
+          "content": "$135°$"
+        },
+        {
+          "type": "text",
+          "content": "Diagram NOT"
+        },
+        {
+          "type": "text",
+          "content": "accurately drawn"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of $x$"
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "$x = $"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "In a box, there are only green sweets, orange sweets and yellow sweets."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "There are 280 sweets in the box so that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "the number of green sweets\u2009:\u2009the number of orange sweets = 2\u2009:\u20093"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "and"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "the number of orange sweets\u2009:\u2009the number of yellow sweets = 1\u2009:\u20095"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many green sweets there are in the box."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Shane bought a car."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The amount Shane paid for the car was $32\u2009000"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Theresa also bought a car."
+        },
+        {
+          "type": "text",
+          "content": "To pay for this car, Theresa paid a deposit of $18\u2009000 together with 14 monthly payments of $1160"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Theresa paid more for her car than Shane paid for his car."
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out how much more Theresa paid as a percentage of the amount Shane paid."
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Kylie bought a van."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "After 1 year, the value of the van was $39\u2009865"
+            },
+            {
+              "type": "text",
+              "content": "During this year, the value of the van decreased by $15\\%$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out the value of the van when Kylie bought it."
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Some members of a library were asked to name the type of book that they each liked to read the best."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "One of the members is chosen at random."
+        },
+        {
+          "type": "text",
+          "content": "The table shows information about the probability of the type of book that this member\u2009answered."
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|} \\hline Type of book & Probability \\\\ \\hline comedy & 0.24 \\\\ \\hline romance & 0.40 \\\\ \\hline mystery & 3x \\\\ \\hline thriller & x \\\\ \\hline \\end{tabular}"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "48 members answered comedy books."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many of the members answered mystery books."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 23,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a triangle ABC inside a semicircle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "text",
+          "content": "A"
+        },
+        {
+          "type": "text",
+          "content": "B"
+        },
+        {
+          "type": "text",
+          "content": "C"
+        },
+        {
+          "type": "text",
+          "content": "$50°$"
+        },
+        {
+          "type": "text",
+          "content": "$18\\text{ cm}$"
+        },
+        {
+          "type": "text",
+          "content": "Diagram NOT"
+        },
+        {
+          "type": "text",
+          "content": "accurately drawn"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "A, B and C are points on the semicircle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AB is the diameter of the semicircle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle ACB = $90°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle BAC = $50°$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "AC = $18\\text{ cm}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the perimeter of the semicircle."
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 2 significant figures."
+        },
+        {
+          "type": "space",
+          "height": "0.5cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$\text{ cm}$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 24,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $6.25 \\times 10^{-4}$ as an ordinary number."
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $(2.4 \\times 10^{12}) \\div (9.6 \\times 10^4)$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 25,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise $y^2 – 2y – 48$"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the inequality shown on the number line"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            },
+            {
+              "type": "text",
+              "content": "–2"
+            },
+            {
+              "type": "text",
+              "content": "–1"
+            },
+            {
+              "type": "text",
+              "content": "0"
+            },
+            {
+              "type": "text",
+              "content": "1"
+            },
+            {
+              "type": "text",
+              "content": "2"
+            },
+            {
+              "type": "text",
+              "content": "3"
+            },
+            {
+              "type": "text",
+              "content": "4"
+            },
+            {
+              "type": "text",
+              "content": "5"
+            },
+            {
+              "type": "text",
+              "content": "x"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve the inequality $7w + 6 > 12w + 14$"
+            },
+            {
+              "type": "space",
+              "height": "0.5cm"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    }
+  ]
+}

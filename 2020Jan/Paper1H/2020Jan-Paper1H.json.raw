@@ -1,0 +1,1397 @@
+{
+  "v": "1.0",
+  "paper": "2020Jan-Paper1H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2020,
+  "session": "Jan",
+  "paperNum": "1H",
+  "type": "higher-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The point A has coordinates (5, −4)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The point B has coordinates (13, 1)"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the coordinates of the midpoint of AB."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "(............................ , ............................)"
+            }
+          ],
+          "answer": {
+            "type": "coordinate",
+            "fields": 2
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Line L has equation $y = 2 - 3x$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Write down the gradient of line L."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "......................................................."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Line L has equation $y = 2 - 3x$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Does the point with coordinates (100, −302) lie on line L?"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "You must give a reason for your answer."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": ".................................................................................................................................................................................................................................................."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": ".................................................................................................................................................................................................................................................."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": ".................................................................................................................................................................................................................................................."
+            }
+          ],
+          "answer": {
+            "type": "multiline",
+            "lines": 3
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Find the lowest common multiple (LCM) of 28 and 105"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a shape."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The shape has area 129 cm$^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the value of x."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "x = ......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "prefix": "x ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 7,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The table shows information about the weights, in kilograms, of 40 babies."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "table",
+          "content": "\\begin{tabular}{|l|c|}\n\\hline\nWeight (w kg) & Frequency \\\\\n\\hline\n$2 < w \\le 3$ & 12 \\\\\n$3 < w \\le 4$ & 16 \\\\\n$4 < w \\le 5$ & 9 \\\\\n$5 < w \\le 6$ & 2 \\\\\n$6 < w \\le 7$ & 1 \\\\\n\\hline\n\\end{tabular}"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write down the modal class."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "......................................................."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out an estimate for the mean weight of the 40 babies."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "....................................................... kg"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " kg"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the 40 babies is going to be chosen at random."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find the probability that this baby has a weight of more than 5 kg."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "......................................................."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 5,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "120 children go on an activity holiday."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The ratio of the number of girls to the number of boys is 3 : 5"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On Sunday, all the children either go sailing or go climbing."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$\\frac{16}{25}$ of the boys go climbing."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Twice as many girls go sailing as go climbing."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out how many children go sailing on Sunday."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 6,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $7.8 \\times 10^{-4}$ as an ordinary number."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": ".................................................................................."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out $\\frac{5.6 \\times 10^7}{1.4 \\times 10^3} + \\frac{7.2 \\times 10^4}{3 \\times 10^{-2}}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer in standard form."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": ".................................................................................."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 7,
+      "marks": 9,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Expand and simplify $(m - 8)(m + 5)$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "......................................................."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Factorise fully $5y + 20y^2$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "......................................................."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify $(p^2 + 3)^0$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "......................................................."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 4,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve $3(2x - 5) = \\frac{9 - x}{2}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show clear algebraic working."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "x = ......................................................."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "x ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 8,
+      "marks": 2,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On the grid, enlarge the shaded shape with scale factor $\\frac{1}{2}$ and centre (1, 2)"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 9,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Here is a right-angled triangle."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Calculate the length of PQ."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "....................................................... cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " cm"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 10,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The shaded region in the diagram is bounded by three lines."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The equation of one of the lines is given."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Write down the three inequalities that define the shaded region."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "......................................................."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "......................................................."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "multiline",
+        "lines": 3
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 11,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Max invests $6000 in a savings account for 3 years."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The account pays compound interest at a rate of 1.5% per year for the first 2 years."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The compound interest rate changes for the third year."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "At the end of 3 years, there is a total of $6311.16 in the account."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the compound interest rate for the third year."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 1 decimal place."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "....................................................... %"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " %"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 12,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "A total of 80 men and women took part in a race."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cumulative frequency graph gives information about the times, in minutes, they took for the race."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Use the graph to find an estimate for the interquartile range."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "....................................................... minutes"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " minutes"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "60% of the men took 50 minutes or less for the race."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "No women took 50 minutes or less for the race."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Work out an estimate for the number of men who took part in the race."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "......................................................."
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 13,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a solid cube."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cube is placed on a table so that the whole of one face of the cube is in contact with the table."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The cube exerts a force of 56 newtons on the table."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The pressure on the table due to the cube is 0.14 newtons/cm$^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "pressure = $\\frac{\\text{force}}{\\text{area}}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the volume of the cube."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "....................................................... cm$^3$"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " cm$^3$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 14,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows parallelogram EFGH."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "EF = 9.3 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "FG = 14.7 cm"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Angle EFG = 106°"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the area of the parallelogram."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 3 significant figures."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "....................................................... cm$^2$"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " cm$^2$"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Work out the length of the diagonal EG of the parallelogram."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 3 significant figures."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "....................................................... cm"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": " cm"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 15,
+      "marks": 8,
+      "stem": [
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The diagram shows a cuboid of volume V cm$^3$"
+        }
+      ],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $V = 15 + 16x - x^2 - 2x^3$"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 5,
+          "content": [
+            {
+              "type": "text",
+              "content": "There is a value of x for which the volume of the cuboid is a maximum."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Find this value of x."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show your working clearly."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Give your answer correct to 3 significant figures."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "x = ......................................................."
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "x ="
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 16,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$P = \\frac{2a}{c - d}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$a = 58.4$ correct to 3 significant figures."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$c = 20$ correct to 2 significant figures."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$d = 3.6$ correct to 2 significant figures."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the upper bound for the value of P."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Show your working clearly."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 2 decimal places."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 17,
+      "marks": 6,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Show that $\\frac{6}{2 + \\sqrt{12}} = 12 - 7\\sqrt{3}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "Show each stage of your working."
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 3,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify fully $\\left(\\frac{27a^{12}}{t^{15}}\\right)^{\\frac{2}{3}}$"
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "......................................................."
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 18,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "There are 16 sweets in a bowl."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "4 of the sweets are blackcurrant."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "5 of the sweets are lemon."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "7 of the sweets are orange."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Anna, Ravi and Sam each take at random one sweet from the bowl."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the probability that the 5 lemon sweets are still in the bowl."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 19,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The diagram shows a cuboid ABCDEFGH."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "EH = 9 cm, HG = 5 cm and GB = 6 cm."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Work out the size of the angle between AH and the plane EFGH."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer correct to 3 significant figures."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": ".......................................................°"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": "$°$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 20,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The curve C has equation $y = 4(x - 1)^2 - a$ where $a > 4$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Using the axes below, sketch the curve C."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "On your sketch show clearly, in terms of a,"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "(i) the coordinates of any points of intersection of C with the coordinate axes,"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "(ii) the coordinates of the turning point."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "none"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 21,
+      "marks": 5,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The functions f and g are such that"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "$f(x) = x^2 - 2x$ $g(x) = x + 3$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The function h is such that $h(x) = fg(x)$ for $x \\ge -2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Express the inverse function $h^{-1}(x)$ in the form $h^{-1}(x) = \\dots$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "h$^{-1}$(x) = ......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "expression",
+        "prefix": "h$^{-1}$(x) ="
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 22,
+      "marks": 6,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Triangle HJK is isosceles with HJ = HK and JK = $\\sqrt{80}$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "H is the point with coordinates (−4, 1)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "J is the point with coordinates (j, 15) where $j < 0$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "K is the point with coordinates (6, k)"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "M is the midpoint of JK."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The gradient of HM is 2"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the value of j and the value of k."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "j = ......................................................."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "k = ......................................................."
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "j ="
+          },
+          {
+            "type": "number",
+            "prefix": "k ="
+          }
+        ]
+      },
+      "meta": {}
+    }
+  ]
+}
