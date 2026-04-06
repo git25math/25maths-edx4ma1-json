@@ -812,7 +812,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Work out the value of $\\frac{9.75}{1.49 - 2.63^2}$"
+          "content": "Work out the value of $\\frac{9.75 - 1.4^2}{9.2 + \\sqrt{6.3}}$"
         },
         {
           "type": "newline"

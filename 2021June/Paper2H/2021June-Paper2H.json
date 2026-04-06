@@ -832,7 +832,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Simplify fully $\\left(\\frac{9}{16} x^4 y^{10}\\right)^{-\\frac{1}{2}}$"
+          "content": "Simplify fully $\\left(\\frac{9x^4}{16y^{10}}\\right)^{-\\frac{1}{2}}$"
         },
         {
           "type": "space",
@@ -856,14 +856,14 @@
           "content": [
             {
               "type": "text",
-              "content": "Complete the table of values for $y = \\frac{1}{x} + \\frac{4}{x^2}$"
+              "content": "Complete the table of values for $y = \\frac{1}{x}(x^2 + 4)$"
             },
             {
               "type": "newline"
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n$x$ & 0.25 & 0.5 & 1 & 2 & 4 & 8 \\\\\n\\hline\n$y$ & 16.25 & 8.5 &  &  &  &  \\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n$x$ & 0.25 & 0.5 & 1 & 2 & 4 & 8 \\\\\n\\hline\n$y$ & 16.25 &  &  &  &  & 8.5 \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {
@@ -876,7 +876,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the grid, draw the graph of $y = \\frac{1}{x} + \\frac{4}{x^2}$ for $0.25 \\le x \\le 8$"
+              "content": "On the grid, draw the graph of $y = \\frac{1}{x}(x^2 + 4)$ for $0.25 \\le x \\le 8$"
             },
             {
               "type": "newline"
@@ -1154,7 +1154,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The point A is the only stationary point on the curve with equation $y = \\frac{k}{x} + \\frac{x^2}{16}$ where k is a constant."
+          "content": "The point A is the only stationary point on the curve with equation $y = kx^2 + \\frac{16}{x}$ where k is a constant."
         },
         {
           "type": "newline"

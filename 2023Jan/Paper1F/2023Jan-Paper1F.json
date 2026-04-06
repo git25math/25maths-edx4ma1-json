@@ -825,7 +825,7 @@
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|} \\cline{2-5} \\multicolumn{1}{c|}{} & \\multicolumn{4}{c|}{\\textbf{Spinner B}} \\\\ \\hline \\textbf{Spinner A} & \\textbf{1} & \\textbf{2} & \\textbf{3} & \\textbf{4} \\\\ \\hline \\textbf{1} & 1 & 2 & 3 & 4 \\\\ \\hline \\textbf{2} & 2 & 4 & 6 & 8 \\\\ \\hline \\textbf{3} & 3 & 6 & 9 & 12 \\\\ \\hline \\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|} \\cline{2-4} \\multicolumn{1}{c|}{} & \\multicolumn{3}{c|}{\\textbf{Spinner A}} \\\\ \\hline \\multicolumn{1}{|c|}{} & \\textbf{1} & \\textbf{2} & \\textbf{3} \\\\ \\hline \\textbf{1} & 1 & 2 & 3 \\\\ \\hline \\textbf{2} & 2 & 4 & \\\\ \\hline \\textbf{Spinner B} \\quad \\textbf{3} & 3 & & \\\\ \\hline \\textbf{4} & 4 & & \\\\ \\hline \\end{tabular}"
             },
             {
               "type": "space",
@@ -1772,7 +1772,7 @@
         },
         {
           "type": "text",
-          "content": "To pay for this car, Theresa paid a deposit of $18 000 together with 14 monthly payments of $1160"
+          "content": "To pay for this car, Theresa paid a deposit of \\$18 000 together with 14 monthly payments of \\$1160"
         },
         {
           "type": "newline"
@@ -1862,7 +1862,7 @@
         },
         {
           "type": "table",
-          "content": "\\begin{tabular}{|l|c|} \\hline Type of book & Probability \\\\ \\hline comedy & 0.24 \\\\ \\hline romance & 0.40 \\\\ \\hline mystery & 3x \\\\ \\hline thriller & x \\\\ \\hline \\end{tabular}"
+          "content": "\\begin{tabular}{|l|c|c|c|c|} \\hline \\textbf{Type of book} & comedy & romance & mystery & thriller \\\\ \\hline \\textbf{Probability} & 0.24 & 0.40 & $3x$ & $x$ \\\\ \\hline \\end{tabular}"
         },
         {
           "type": "newline"
@@ -2018,7 +2018,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $(2.4 \\times 10^{12}) \\div (9.6 \\times 10^4)$"
+              "content": "Work out $(2.4 \\times 10^{12}) \\div (9.6 \\times 10^5)$"
             },
             {
               "type": "newline"
@@ -2128,7 +2128,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve the inequality $7w + 6 > 12w + 14$"
+              "content": "Solve the inequality $7w + 6 \\geqslant 12w + 14$"
             },
             {
               "type": "space",

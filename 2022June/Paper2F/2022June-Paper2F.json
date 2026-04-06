@@ -521,7 +521,7 @@
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|c|}\n\\cline{2-6}\n\\multicolumn{1}{c|}{} & \\multicolumn{5}{c|}{\\textbf{Spinner B}} \\\\\n\\cline{2-6}\n\\multicolumn{1}{c|}{} & \\textbf{2} & \\textbf{4} & \\textbf{6} & \\textbf{8} & \\textbf{10} \\\\\n\\hline\n\\textbf{1} & 3 & & & & \\\\\n\\textbf{2} & 4 & & & 10 & \\\\\n\\textbf{3} & & 7 & & & 12 \\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{c|c|c|c|}\n\\multicolumn{1}{c}{} & \\multicolumn{3}{c}{\\textbf{Spinner A}} \\\\\n\\cline{2-4}\n\\multicolumn{1}{c|}{} & \\textbf{1} & \\textbf{2} & \\textbf{3} \\\\\n\\hline\n\\textbf{2} & 3 & & \\\\\n\\hline\n\\textbf{4} & & & 7 \\\\\n\\hline\n\\textbf{Spinner B} \\quad \\textbf{6} & 7 & & \\\\\n\\hline\n\\textbf{8} & & 10 & \\\\\n\\hline\n\\textbf{10} & & 12 & \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {
@@ -1083,7 +1083,7 @@
         },
         {
           "type": "text",
-          "content": "$\\frac{5.21 + 6.37}{9.8} + 8.32$"
+          "content": "$\\frac{5.21 + 6.37}{9.8} + 8.3^2$"
         },
         {
           "type": "newline"
@@ -1284,7 +1284,7 @@
             },
             {
               "type": "text",
-              "content": "$y \\ge 1\\quad x \\ge 2\\quad x + y \\le 7$"
+              "content": "$y \\geqslant 1\\quad x \\geqslant 2\\quad x + y < 7$"
             },
             {
               "type": "newline"
@@ -1490,7 +1490,7 @@
         },
         {
           "type": "text",
-          "content": "36% of the anniversary cards have numbers on them."
+          "content": "30% of the anniversary cards have numbers on them."
         },
         {
           "type": "newline"

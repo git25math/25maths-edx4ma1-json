@@ -857,7 +857,7 @@
               "content": [
                 {
                   "type": "text",
-                  "content": "Work out the value of $\\frac{2.9 \\times 3.76}{4.2 - 0.63}$."
+                  "content": "Work out the value of $\\frac{\\sqrt{2.9} \\times 3.76}{4.2 - 0.63}$."
                 },
                 {
                   "type": "newline"
@@ -1023,7 +1023,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $2x - 3 = 18$"
+              "content": "Solve $2t - 3 = 18$"
             },
             {
               "type": "space",
@@ -1032,7 +1032,7 @@
           ],
           "answer": {
             "type": "number",
-            "prefix": "$x = $"
+            "prefix": "$t = $"
           }
         },
         {
@@ -1041,7 +1041,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify fully $4y + 12 - 2y + 4$"
+              "content": "Simplify fully $4y + 12 - 2t + 4$"
             },
             {
               "type": "space",
@@ -1058,7 +1058,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $(t^5)^3$"
+              "content": "Simplify $(t^7)^3$"
             },
             {
               "type": "space",

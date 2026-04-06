@@ -83,7 +83,7 @@
         },
         {
           "type": "text",
-          "content": "AB = 10 cm    AC = 8 cm    EB = 5 cm    CD = 14 cm    ED = w cm"
+          "content": "AB = 10 cm    AC = 8 cm    EB = 5 cm    CD = 14 cm    ED = w cm"
         },
         {
           "type": "newline"
@@ -162,7 +162,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $2(x-5) = 6(2x+5)$"
+              "content": "Solve $\\frac{2x+5}{6} = 2x - 5$"
             },
             {
               "type": "newline"
@@ -183,7 +183,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $h^{15} \\div h^3$"
+              "content": "Simplify $h^{11} \\div h^3$"
             }
           ],
           "answer": {
@@ -196,7 +196,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify fully $(2g^3k^5)^4$"
+              "content": "Simplify fully $(2g^4k^5)^4$"
             }
           ],
           "answer": {
@@ -209,7 +209,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Given that $y^5 \\times y^n = y^{12}$"
+              "content": "Given that $\\frac{y^5 \\times y^n}{y} = y^{12}$"
             },
             {
               "type": "newline"
@@ -285,7 +285,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $3\frac{3}{7} \\div 2\frac{2}{3} = 1\frac{2}{7}$"
+          "content": "Show that $3\\frac{3}{7} \\div 2\\frac{2}{3} = 1\\frac{2}{7}$"
         }
       ],
       "parts": [],
@@ -395,7 +395,7 @@
         },
         {
           "type": "text",
-          "content": "AB = 25 cm    BC = $(x + 2)$ cm    CD = 8 cm    EF = 7 cm    AF = $(x + 6)$ cm"
+          "content": "AB = 25 cm    BC = $(x + 2)$ cm    CD = 8 cm    EF = 7 cm    AF = $(x + 6)$ cm"
         },
         {
           "type": "newline"
@@ -487,19 +487,17 @@
     {
       "qnum": 12,
       "marks": 4,
-      "stem": [],
+      "stem": [
+        {
+          "type": "text",
+          "content": "$2^x \\times 4^x = 4^7$"
+        }
+      ],
       "parts": [
         {
           "label": "(a)",
           "marks": 2,
           "content": [
-            {
-              "type": "text",
-              "content": "$4^x = \\frac{1}{2^7}$"
-            },
-            {
-              "type": "newline"
-            },
             {
               "type": "text",
               "content": "Calculate the value of x"
@@ -516,7 +514,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify fully $(125p^6y^{24})^{\\frac{2}{3}}$"
+              "content": "Simplify fully $(125p^6y^{18})^{\\frac{2}{3}}$"
             }
           ],
           "answer": {
@@ -544,7 +542,7 @@
         },
         {
           "type": "text",
-          "content": "1    2    4    6    6    8    11    12    13    14    17"
+          "content": "1    2    4    6    6    8    11    12    13    14    17"
         },
         {
           "type": "newline"
@@ -566,7 +564,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Here is the graph of the equation $y = \\frac{2}{x} - 1$ drawn on a grid."
+          "content": "Here is the graph of the equation $2y + x = 1$ drawn on a grid."
         },
         {
           "type": "text",
@@ -584,11 +582,11 @@
         },
         {
           "type": "text",
-          "content": "$y = \\frac{2}{x} - 1$"
+          "content": "$y - x - 2 = 0$"
         },
         {
           "type": "text",
-          "content": "$y = x - 2$"
+          "content": "$2y + x = 1$"
         }
       ],
       "parts": [],
@@ -618,7 +616,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Use algebra to show that $0.372 = \\frac{41}{110}$"
+              "content": "Use algebra to show that $0.3\\dot{7}\\dot{2} = \\frac{41}{110}$"
             }
           ],
           "answer": {
@@ -631,7 +629,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Express $\\frac{80}{\\sqrt{125}} + \\sqrt{245}$ in the form $n\\sqrt{5}$ where n is an integer."
+              "content": "Express $\\frac{\\sqrt{125} + \\sqrt{80}}{\\sqrt{5}}$ in the form $n\\sqrt{5}$ where n is an integer."
             },
             {
               "type": "newline"
@@ -655,7 +653,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Expand and simplify $(2x + 3)(x – 5)(x + 4)$"
+          "content": "Expand and simplify $(2x + 3)(x - 5)(x + 4)$"
         }
       ],
       "parts": [],
@@ -670,7 +668,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$P = \\frac{a-c}{y}$"
+          "content": "$P = a(c + y)$"
         },
         {
           "type": "newline"
@@ -722,7 +720,7 @@
         },
         {
           "type": "text",
-          "content": "$s = 2t^3 - 5t^2 + 6t + 5$"
+          "content": "$s = 2t^3 - 5t^2 + 6t - 5$"
         },
         {
           "type": "newline"
@@ -752,11 +750,11 @@
         },
         {
           "type": "text",
-          "content": "f : $x \\mapsto 5x - 7$"
+          "content": "f : $x \\mapsto 5x + 7$"
         },
         {
           "type": "text",
-          "content": "g : $x \\mapsto \\frac{x}{x-9}$"
+          "content": "g : $x \\mapsto \\frac{5}{2x - 9}$"
         }
       ],
       "parts": [
@@ -796,7 +794,7 @@
             },
             {
               "type": "text",
-              "content": "h:$x \\mapsto \\frac{3x-12}{x-8}$  where $x > 2$"
+              "content": "h : $x \\mapsto 3x^2 - 12x + 8$  where $x > 2$"
             },
             {
               "type": "newline"
@@ -870,7 +868,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The line with equation $x - y = 5$ intersects the curve with equation $x^2 + y^2 = 13$ at the points A and B"
+          "content": "The line with equation $x + 2y = 5$ intersects the curve with equation $x^2 + 3y^2 = 13$ at the points A and B"
         },
         {
           "type": "newline"
@@ -920,15 +918,15 @@
         },
         {
           "type": "text",
-          "content": "$\\vec{OA} = 3\\mathbf{a}$   "
+          "content": "$\\vec{OA} = 3\\mathbf{a}$   "
         },
         {
           "type": "text",
-          "content": "$\\vec{OB} = 4\\mathbf{b}$   "
+          "content": "$\\vec{OB} = 4\\mathbf{b}$   "
         },
         {
           "type": "text",
-          "content": "$\\vec{AC} = 2\\mathbf{a} - 2\\mathbf{b}$"
+          "content": "$\\vec{BC} = 2\\mathbf{a} - 2\\mathbf{b}$"
         }
       ],
       "parts": [
@@ -1066,7 +1064,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Solve $\\frac{4x-3}{4} - \\frac{x-1}{3} = \\frac{x^2+5}{8}$"
+          "content": "Solve $\\frac{45x^2 - 90x}{3x^2 + x - 4} \\times \\left(\\frac{1}{3x - 4} + \\frac{1}{x}\\right) = \\frac{4(x + 2)}{5x - 8}$"
         },
         {
           "type": "newline"

@@ -543,7 +543,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $5m + 7k - m + k$"
+              "content": "Simplify $5m + 7k - 2m + k$"
             },
             {
               "type": "space",
@@ -1009,7 +1009,7 @@
             },
             {
               "type": "text",
-              "content": "$$\\frac{24.3 - 16.8}{0.18 + 6.74}$$"
+              "content": "$$\\frac{24.3 - 16.8}{0.18} + \\sqrt{67.4}$$"
             },
             {
               "type": "newline"
@@ -1611,7 +1611,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $$\\frac{2 \\times 10^4 + 3 \\times 10^6}{5 \\times 10^{-2}}$$."
+              "content": "Work out $$\\frac{2 \\times 10^4 + 3 \\times 10^6}{6.4 \\times 10^{-2}}$$."
             },
             {
               "type": "space",

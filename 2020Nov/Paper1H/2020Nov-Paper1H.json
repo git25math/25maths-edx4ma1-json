@@ -265,7 +265,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $\\frac{3 \\times 10^2 \\times 7 \\times 10^6}{10^5 \\times 4 \\times 10^{-2}}$."
+              "content": "Work out $\\frac{3 \\times 10^5 - 2.7 \\times 10^4}{6 \\times 10^{-2}}$"
             },
             {
               "type": "space",
@@ -476,14 +476,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "$A = 2 \\times 343$"
+          "content": "$A = 2 \\times 3^4$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$B = 16 \\times 337$"
+          "content": "$B = 16 \\times 3^7$"
         }
       ],
       "parts": [
@@ -1044,7 +1044,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Without using a calculator, rationalise the denominator of $\\frac{6}{\\sqrt{3} - \\sqrt{7}}$"
+          "content": "Without using a calculator, rationalise the denominator of $\\frac{6}{3 - \\sqrt{7}}$"
         },
         {
           "type": "newline"
@@ -1125,7 +1125,7 @@
         },
         {
           "type": "text",
-          "content": "$\\frac{x-1}{x-3} \\times \\frac{x^2-9}{x^2-4x-21} - \\frac{1}{2}$"
+          "content": "$\\frac{1}{3x - 2} \\times \\frac{9x^2 - 4}{3x^2 - 13x - 10} - \\frac{7}{x - 1}$"
         },
         {
           "type": "newline"

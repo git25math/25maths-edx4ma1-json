@@ -270,7 +270,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $4 – 3x = \\frac{5}{8} - \\frac{x}{4}$"
+              "content": "Solve $4 - 3x = \\frac{5 - 8x}{4}$"
             },
             {
               "type": "newline"
@@ -644,7 +644,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Express $\\frac{4}{x-3} - \\frac{2}{x+1}$ as a single fraction."
+              "content": "Express $\\frac{4}{x - 2} - \\frac{3}{x + 1}$ as a single fraction."
             },
             {
               "type": "newline"

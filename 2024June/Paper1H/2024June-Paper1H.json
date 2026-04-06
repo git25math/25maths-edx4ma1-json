@@ -263,7 +263,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve      $3n - 4 = \\frac{5}{6}n + 3$"
+              "content": "Solve      $3n - 4 = \\frac{5n + 6}{3}$"
             },
             {
               "type": "newline"
@@ -718,7 +718,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Express $\\frac{x+2}{x^2-1} - \\frac{4}{x+7}$ as a single fraction in its simplest form."
+              "content": "Express $\\frac{2x+1}{4x} - \\frac{7-5x}{3x}$ as a single fraction in its simplest form."
             },
             {
               "type": "space"
@@ -830,7 +830,7 @@
         },
         {
           "type": "text",
-          "content": "The savings of Bahira are 45% more than the savings of Abel."
+          "content": "The savings of Bahira are $\\frac{3}{2}$ times the savings of Chanda."
         },
         {
           "type": "newline"
@@ -866,7 +866,8 @@
           "content": "The function f is defined as"
         },
         {
-          "type": "newline"
+          "type": "newline",
+          "content": "$\\text{f}:x \\mapsto \\frac{3x+1}{x-2}$"
         },
         {
           "type": "text",
@@ -960,7 +961,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $\\frac{1}{5 - \\sqrt{3}}$ can be written in the form $a + b\\sqrt{3}$ where a and b are integers."
+          "content": "Show that $\\frac{1 + \\sqrt{5}}{3 - \\sqrt{5}}$ can be written in the form $a + \\sqrt{b}$ where a and b are integers."
         },
         {
           "type": "newline"

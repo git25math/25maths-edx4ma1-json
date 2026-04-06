@@ -1413,7 +1413,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $\\frac{5 \\times 10^3}{2 \\times 10^8}$"
+              "content": "Work out $\\frac{5 \\times 10^3 + 8 \\times 10^5}{4 \\times 10^{-2}}$"
             },
             {
               "type": "newline"

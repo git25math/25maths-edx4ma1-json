@@ -739,7 +739,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$2^8 \\div 16^2 = 2^n$"
+              "content": "$\\frac{\\sqrt{2} \\times 8^{\\frac{2}{3}}}{16^2} = 2^n$"
             },
             {
               "type": "newline"
@@ -771,7 +771,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Find 4% of $4.5 \\times 10^{157}$"
+              "content": "Find 4% of $4.5 \\times 10^{97}$"
             },
             {
               "type": "newline"

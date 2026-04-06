@@ -892,7 +892,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Use your calculator to work out the value of $\\frac{6.78 + 4.6}{5.62}$"
+              "content": "Use your calculator to work out the value of $\\frac{67.8 + 4.6^2}{\\sqrt{56}}$"
             },
             {
               "type": "newline"
@@ -1342,7 +1342,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $\\frac{3 \\times 10^2}{7 \\times 10^{-6} \\times 5 \\times 10^4}$"
+              "content": "Work out $\\frac{3 \\times 10^2 - 2.7 \\times 10^3}{6 \\times 10^{-5}}$"
             },
             {
               "type": "space",
@@ -1427,7 +1427,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Factorise fully $16m^3g^3 + 24m^2g^5$"
+              "content": "Factorise fully $16m^3g^3 + 24m^2g^4$"
             },
             {
               "type": "space",
@@ -1562,14 +1562,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "$A = 2 \\times 343$"
+          "content": "$A = 2 \\times 3^4$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$B = 16 \\times 337$"
+          "content": "$B = 16 \\times 3^7$"
         }
       ],
       "parts": [

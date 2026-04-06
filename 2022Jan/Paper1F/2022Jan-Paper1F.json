@@ -723,7 +723,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Use your calculator to work out the value of $\\frac{7.45 - 4.3}{2.9^2}$"
+              "content": "Use your calculator to work out the value of $\\frac{7.45}{4.3^2 - 2.9}$"
             },
             {
               "type": "newline"
@@ -944,7 +944,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $a^7 \\times a^4$"
+              "content": "Simplify $a^3 \\times a^4$"
             },
             {
               "type": "space",
@@ -995,7 +995,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Make $t$ the subject of $c = t^3 - 8v$"
+              "content": "Make $t$ the subject of $c = t^2 - 8v$"
             },
             {
               "type": "space",
@@ -1241,7 +1241,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve the inequality $5x - 7 \\le 2$"
+              "content": "Solve the inequality $5x - 7 < 2$"
             },
             {
               "type": "space",
@@ -1354,7 +1354,7 @@
         },
         {
           "type": "text",
-          "content": "$b = 3 \\times 10^{145}$"
+          "content": "$b = 3 \\times 10^{14}$"
         },
         {
           "type": "newline"

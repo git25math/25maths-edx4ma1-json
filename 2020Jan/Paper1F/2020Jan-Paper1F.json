@@ -468,7 +468,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write $\\frac{34}{10}$ as a mixed number in its simplest form."
+              "content": "Write $\\frac{24}{10}$ as a mixed number in its simplest form."
             },
             {
               "type": "space"
@@ -1363,7 +1363,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $\\frac{5.6 \\times 10^7}{2.8 \\times 10^3}$"
+              "content": "Work out $\\frac{5.6 \\times 10^4 + 7 \\times 10^3}{2.8 \\times 10^3}$"
             },
             {
               "type": "newline"
@@ -1443,7 +1443,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $3(2x - 5) = 9 - x$"
+              "content": "Solve $3(2x - 5) = \\frac{9 - x}{2}$"
             },
             {
               "type": "newline"

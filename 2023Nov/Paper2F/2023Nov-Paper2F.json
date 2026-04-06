@@ -1005,7 +1005,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Work out the value of $\\frac{5.2 + 8.7}{14.5}$"
+          "content": "Work out the value of $\\frac{5.2^2 + 8.7}{\\sqrt{14.5}}$"
         },
         {
           "type": "newline"
@@ -1287,7 +1287,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $2x - 5 = 6x + 2$"
+              "content": "Solve $\\frac{2x + 5}{6} = 2x - 5$"
             },
             {
               "type": "newline"
@@ -1311,7 +1311,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $h^{15} \\div h^3$"
+              "content": "Simplify $h^{17} \\div h^3$"
             },
             {
               "type": "space"
@@ -1327,7 +1327,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify fully $2g^3k^5 \\times 4g^2k$"
+              "content": "Simplify fully $(2g^3k^4)^3$"
             },
             {
               "type": "space"
@@ -1343,7 +1343,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Given that $y^5 \\times y^n = y^{12}$"
+              "content": "Given that $\\frac{y^5 \\times y^n}{y^3} = y^{12}$"
             },
             {
               "type": "newline"

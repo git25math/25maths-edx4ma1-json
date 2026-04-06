@@ -906,7 +906,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Use your calculator to work out the value of    $\\frac{2.14 - 3.76}{1.24}$"
+              "content": "Use your calculator to work out the value of    $\\frac{2.14^2 - 3.76}{\\sqrt{1.24}}$"
             },
             {
               "type": "newline"

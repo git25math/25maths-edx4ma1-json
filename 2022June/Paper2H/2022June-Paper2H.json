@@ -694,7 +694,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Make c the subject of $g = \\frac{c+3}{c+4} - 7$"
+              "content": "Make c the subject of $g = \\frac{c+3}{4+c} - 7$"
             },
             {
               "type": "space"
@@ -719,7 +719,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $\\frac{4}{2x-3} - \\frac{5}{3x+2} = 1$"
+              "content": "Solve $\\frac{4x+5}{3} - \\frac{3-2x}{2} = 13$"
             },
             {
               "type": "newline"
@@ -938,7 +938,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$X = \\frac{2a}{b-f}$"
+          "content": "$X = \\frac{2a-b}{f}$"
         },
         {
           "type": "newline"
@@ -1229,7 +1229,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$\\frac{18^n \\times 27^{n+6}}{9^{3n+4} \\times 6^2} = 3^x$"
+          "content": "$\\frac{18^n \\times (\\sqrt{27})^{4n+6}}{6 \\times 9^{3n+4}} = 3^x$"
         },
         {
           "type": "newline"

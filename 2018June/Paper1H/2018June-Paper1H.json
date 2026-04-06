@@ -622,7 +622,7 @@
             },
             {
               "type": "text",
-              "content": "C = $2^p \\times 5^q \\times 7^U$"
+              "content": "C = $2^p \\times 5^q \\times 7^r$"
             },
             {
               "type": "newline"
@@ -644,7 +644,7 @@
             },
             {
               "type": "text",
-              "content": "find the value of p, the value of q and the value of U."
+              "content": "find the value of p, the value of q and the value of r."
             },
             {
               "type": "space",
@@ -664,7 +664,7 @@
               },
               {
                 "type": "number",
-                "prefix": "U ="
+                "prefix": "r ="
               }
             ]
           }
@@ -1244,7 +1244,7 @@
         },
         {
           "type": "text",
-          "content": "The large cone has base radius U cm and height h cm."
+          "content": "The large cone has base radius r cm and height h cm."
         },
         {
           "type": "newline"
@@ -1571,7 +1571,7 @@
         },
         {
           "type": "text",
-          "content": "Give your answer in the form px + qy = U where p, q and U are integers."
+          "content": "Give your answer in the form px + qy = r where p, q and r are integers."
         },
         {
           "type": "newline"

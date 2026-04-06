@@ -55,7 +55,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $\\frac{y}{2} = \\frac{y+1}{5}$"
+              "content": "Solve $\\frac{y}{2} = \\frac{2y+1}{5}$"
             },
             {
               "type": "newline"
@@ -112,7 +112,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the grid, translate triangle A by the vector $\\begin{pmatrix} -2 \\\\ 5 \\end{pmatrix}$"
+              "content": "On the grid, translate triangle A by the vector $\\begin{pmatrix} 2 \\\\ -5 \\end{pmatrix}$"
             },
             {
               "type": "newline"
@@ -638,7 +638,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Express $\\frac{5}{x+2} - \\frac{3}{x-2}$ as a single fraction in its simplest terms."
+          "content": "Express $\\frac{5}{3} - \\frac{x+2}{2x}$ as a single fraction in its simplest terms."
         },
         {
           "type": "space",
@@ -933,7 +933,7 @@
             },
             {
               "type": "text",
-              "content": "$\\left(\\frac{y}{x}\\right)^{-5} = \\frac{x^m}{y^m}$ where $x \\ne y$"
+              "content": "$\\left(\\frac{\\sqrt{x}}{y}\\right)^{-5} = \\frac{x^m}{y^m}$ where $x \\ne y$"
             },
             {
               "type": "newline"

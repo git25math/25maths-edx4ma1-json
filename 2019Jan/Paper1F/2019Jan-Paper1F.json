@@ -726,7 +726,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Find the value of $3^6$"
+              "content": "Find the value of $3^4$"
             },
             {
               "type": "space",
@@ -765,7 +765,7 @@
               "content": [
                 {
                   "type": "text",
-                  "content": "Work out the value of $\\frac{8.4+9.1}{4.1 \\times 0.62}$"
+                  "content": "Work out the value of $\\frac{\\sqrt{8.4 + 9.1^3}}{4.1 \\times 0.6}$"
                 },
                 {
                   "type": "newline"
@@ -1113,7 +1113,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $\\frac{y}{2} = \\frac{y+1}{5}$"
+              "content": "Solve $y = \\frac{2y + 1}{5}$"
             },
             {
               "type": "newline"
@@ -1384,7 +1384,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the grid, translate triangle A by the vector $\\begin{pmatrix} -2 \\ 5 \\ \\end{pmatrix}$"
+              "content": "On the grid, translate triangle A by the vector $\\begin{pmatrix} 2 \\\\ -5 \\end{pmatrix}$"
             },
             {
               "type": "newline"

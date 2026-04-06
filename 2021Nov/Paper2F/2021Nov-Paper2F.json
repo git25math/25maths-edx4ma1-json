@@ -929,7 +929,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Ravina leaves her home at 1 35 pm in her car."
+          "content": "Ravina leaves her home at 1.35 pm in her car."
         },
         {
           "type": "newline"
@@ -1010,7 +1010,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Find the value of p, given that $\\frac{7^8}{7^2} = 7^p$"
+              "content": "Find the value of p, given that $\\frac{7^5 \\times 7^3}{7^2} = 7^p$"
             },
             {
               "type": "space",

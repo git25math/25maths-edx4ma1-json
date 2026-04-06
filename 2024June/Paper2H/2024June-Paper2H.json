@@ -649,7 +649,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve      $\\frac{2}{3x + 5} + \\frac{6}{4x - 5} = \\frac{163}{100}$"
+              "content": "Solve      $\\frac{2x + 3}{5} + \\frac{6x - 5}{4} = \\frac{163}{100}$"
             },
             {
               "type": "newline"
@@ -679,7 +679,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Make g the subject of   $e = \\frac{7g + 5}{11g + 2}$"
+              "content": "Make g the subject of   $e = \\sqrt{\\frac{7g + 5}{11g + 2}}$"
             }
           ],
           "answer": {
@@ -886,7 +886,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$G = \\frac{c^2}{f - h^3}$"
+          "content": "$G = \\frac{c^2}{2f - 3h}$"
         },
         {
           "type": "newline"
@@ -950,7 +950,7 @@
         },
         {
           "type": "text",
-          "content": "express   $\\frac{5k}{x + 2}$   in the form   $\\frac{ay^2 + by}{c + dy}$   where a, b, c and d are integers."
+          "content": "express   $\\frac{5k}{x + 2}$   in the form   $\\frac{a - by^2}{c + dy}$   where a, b, c and d are integers."
         }
       ],
       "parts": [],
@@ -1054,7 +1054,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Simplify   $\\frac{30^{2x+7}}{180^{x-4}}$"
+          "content": "Simplify   $\\frac{30 \\times 25^{2x+7}}{\\sqrt{180} \\times (\\sqrt{5})^{x-4}}$"
         },
         {
           "type": "newline"

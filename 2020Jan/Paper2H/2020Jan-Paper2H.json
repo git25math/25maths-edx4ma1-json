@@ -21,7 +21,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $x^9 / x^2$"
+              "content": "Simplify $\\frac{x^9}{x^7}$"
             },
             {
               "type": "space"
@@ -37,7 +37,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write $7^8 \\times 7^4 / 7^3$ as a single power of 7"
+              "content": "Write $\\frac{7^8 \\times 7^4}{7^3}$ as a single power of 7"
             },
             {
               "type": "space"
@@ -542,7 +542,7 @@
         },
         {
           "type": "text",
-          "content": "Angle CBD = 28°"
+          "content": "Angle CBO = 28°"
         },
         {
           "type": "newline"
@@ -678,7 +678,7 @@
         },
         {
           "type": "table",
-          "content": "\\begin{tabular}{|l|l|}\n\\hline\nEquation & Graph \\\\\n\\hline\n$y = x^2$ & ............................ \\\\\n\\hline\n$y = -\\frac{1}{2} x^3$ & ............................ \\\\\n\\hline\n$y = -\\frac{5}{x}$ & ............................ \\\\\n\\hline\n\\end{tabular}"
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nEquation & Graph \\\\\n\\hline\n$y = \\frac{2}{x^2}$ & ............................ \\\\\n\\hline\n$y = -\\frac{1}{2} x^3$ & ............................ \\\\\n\\hline\n$y = -\\frac{5}{x}$ & ............................ \\\\\n\\hline\n\\end{tabular}"
         }
       ],
       "parts": [],
@@ -704,7 +704,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Make x the subject of $y = \\frac{x+1}{x-4}$"
+          "content": "Make x the subject of $y = \\sqrt{\\frac{x+1}{x-4}}$"
         },
         {
           "type": "space"
@@ -1139,7 +1139,7 @@
         },
         {
           "type": "text",
-          "content": "$$\\frac{4}{x^2 - 2x - 3} - \\frac{5}{x^2 + 4x - 21} \\div \\frac{9}{x^2 + 6x - 7}$$"
+          "content": "$$\\left(\\frac{4}{2x - 5} - \\frac{3}{2x - 3}\\right) \\times \\frac{9x - 4x^2}{6x^2 - 17x + 5}$$"
         },
         {
           "type": "newline"

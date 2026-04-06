@@ -986,7 +986,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "prefix": "£"
+        "prefix": "$"
       },
       "meta": {}
     },
@@ -1001,7 +1001,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Factorise $25f – 10$"
+              "content": "Factorise $25f - 10$"
             },
             {
               "type": "space"
@@ -1017,7 +1017,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Make $y$ the subject of the formula $c = 5y – h$"
+              "content": "Make $y$ the subject of the formula $c = 5y - h$"
             },
             {
               "type": "space"

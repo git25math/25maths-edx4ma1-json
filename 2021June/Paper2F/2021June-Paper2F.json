@@ -1006,7 +1006,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out the value of $\\frac{8.9 - 6.2}{3.5}$"
+              "content": "Work out the value of $\\frac{8.9}{6.2 - 3.5}$"
             },
             {
               "type": "newline"

@@ -619,7 +619,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $g^7 h^3 g^4 h^5$"
+              "content": "Simplify $7g \\times 3h + 4g - 5h$"
             },
             {
               "type": "space",
@@ -671,7 +671,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Expand $3(5k - 7)$"
+              "content": "Expand $5(7k + 3)$"
             },
             {
               "type": "space",
@@ -958,7 +958,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Use your calculator to work out the value of $\\frac{7.93 - 2.34}{0.14^2}$"
+              "content": "Use your calculator to work out the value of $\\frac{7.93 - 2.34^2}{0.14}$"
             },
             {
               "type": "newline"
@@ -1126,7 +1126,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $1\\frac{5}{7} \\div 2\\frac{3}{16} = \\frac{32}{33}$"
+          "content": "Show that $1\\frac{5}{7} \\times 2\\frac{3}{16} = 3\\frac{3}{4}$"
         }
       ],
       "parts": [],

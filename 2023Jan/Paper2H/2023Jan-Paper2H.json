@@ -182,7 +182,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Penny has worked out $\\frac{81.3 \\times 59.2}{1.92}$ on her calculator."
+              "content": "Penny has worked out $\\frac{81.3 \\times 59.2}{1.9^2}$ on her calculator."
             },
             {
               "type": "newline"
@@ -196,7 +196,7 @@
             },
             {
               "type": "text",
-              "content": "Penny’s answer is not sensible."
+              "content": "Penny's answer is not sensible."
             },
             {
               "type": "newline"
@@ -602,7 +602,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Solve $\\frac{x+3}{4} - \\frac{x-7}{5} = 4.3$"
+          "content": "Solve $\\frac{x+3}{4} - \\frac{7-x}{5} = 4.3$"
         },
         {
           "type": "newline"
@@ -777,7 +777,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Given that $\\frac{8^m \\times 49^{m+2}}{9^{m-1}} = k^m$"
+          "content": "Given that $8\\sqrt{m} + \\sqrt{49m} - \\sqrt{9m} = k\\sqrt{m}$"
         },
         {
           "type": "newline"
@@ -811,7 +811,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Show that $\\frac{5}{18 - \\sqrt{2}}$ can be written in the form $a + b\\sqrt{2}$"
+              "content": "Show that $\\frac{5 - \\sqrt{18}}{1 - \\sqrt{2}}$ can be written in the form $a + b\\sqrt{2}$"
             },
             {
               "type": "newline"
@@ -921,7 +921,7 @@
         },
         {
           "type": "text",
-          "content": "$\\frac{\\text{surface area of vase A}}{\\text{surface area of vase B}} = \\frac{25}{64}$"
+          "content": "surface area of vase B $= \\frac{25}{64} \\times$ surface area of vase A"
         },
         {
           "type": "newline"
@@ -935,7 +935,7 @@
         },
         {
           "type": "text",
-          "content": "volume of vase A – volume of vase B = 541.8$\\text{cm}^3$"
+          "content": "volume of vase A $-$ volume of vase B $= 541.8\\text{cm}^3$"
         },
         {
           "type": "newline"
@@ -1177,7 +1177,7 @@
         },
         {
           "type": "text",
-          "content": "$\\frac{10^{2n} \\times 5^{2n-1}}{20^n \\times (\\frac{1}{4})^{3n}} = 2^5$"
+          "content": "$\\frac{10^{2n} \\times 2^{n^2-3n} \\times 5^{n^2+3n}}{20^n} = 1$"
         },
         {
           "type": "newline"

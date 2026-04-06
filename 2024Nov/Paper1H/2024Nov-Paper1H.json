@@ -99,7 +99,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $p^3 \\times p^5$"
+              "content": "Simplify $(p^3)^5$"
             },
             {
               "type": "space",
@@ -116,7 +116,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Expand and simplify $(n+2)(n-4)$"
+              "content": "Expand and simplify $2n(4n+3) + n(n-4)$"
             },
             {
               "type": "space",
@@ -133,7 +133,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $\\frac{x}{5} = \\frac{x+3}{4}$"
+              "content": "Solve $\\frac{2x+5}{3} = 4 - x$"
             },
             {
               "type": "newline"
@@ -287,21 +287,21 @@
       "stem": [
         {
           "type": "text",
-          "content": "$A = 2^5 \\times 7^{11} \\times 3^4$"
+          "content": "$A = 2^3 \\times 5^4 \\times 7 \\times 11$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$B = 2^5 \\times 7^2 \\times 2^2$"
+          "content": "$B = 2^2 \\times 5^3 \\times 7^2$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$C = 2^5 \\times 7^2 \\times 3^4$"
+          "content": "$C = 2^2 \\times 5^5 \\times 7^4$"
         },
         {
           "type": "newline"
@@ -471,7 +471,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve the inequality $3y - 5 > 7 - 10y$"
+              "content": "Solve the inequality $3y + 5 > 7y - 10$"
             },
             {
               "type": "newline"
@@ -520,7 +520,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $(6.5 \\times 10^8) \\div (4.0 \\times 10^{-18})$"
+              "content": "Work out $(6.5 \\times 10^{-46}) \\div (8 \\times 10^{-51})$"
             },
             {
               "type": "newline"
@@ -593,14 +593,14 @@
           "content": [
             {
               "type": "text",
-              "content": "Complete the table of values for $y = x^2 - \\frac{1}{x}$"
+              "content": "Complete the table of values for $y = 2\\left(x + \\frac{1}{x}\\right)$"
             },
             {
               "type": "newline"
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|} \\hline x & 0.5 & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline y & & 5 & 6.7 & & & 12.3 & \\\\ \\hline \\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|} \\hline x & 0.5 & 1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline y & & & 5 & 6.7 & & & 12.3 \\\\ \\hline \\end{tabular}"
             }
           ],
           "answer": {
@@ -613,7 +613,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the grid, draw the graph of $y = x^2 - \\frac{1}{x}$ for $0.5 \\le x \\le 6$"
+              "content": "On the grid, draw the graph of $y = 2\\left(x + \\frac{1}{x}\\right)$ for $0.5 \\le x \\le 6$"
             },
             {
               "type": "newline"
@@ -829,7 +829,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Write $(x+3)(2x-1)(5x+4)$ in the form $ax^3 + bx^2 + cx$ where $a$, $b$ and $c$ are integers."
+          "content": "Write $3x(2x-1)(5x+4)$ in the form $ax^3 + bx^2 + cx$ where $a$, $b$ and $c$ are integers."
         },
         {
           "type": "space",
@@ -925,7 +925,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Show that $\\frac{5}{2-\\sqrt{2}}$ can be written in the form $a+b\\sqrt{2}$ where $a$ and $b$"
+              "content": "Show that $\\frac{5\\sqrt{2}}{\\sqrt{2}-1}$ can be written in the form $a+b\\sqrt{2}$ where $a$ and $b$"
             },
             {
               "type": "newline"
@@ -1046,7 +1046,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The curve with equation $y = x^2 + \\frac{64}{x} - 4$ has a minimum point."
+          "content": "The curve with equation $y = 2x^4 - 64x$ has a minimum point."
         },
         {
           "type": "newline"
@@ -1079,7 +1079,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$T = \\frac{x^2}{y-w}$"
+          "content": "$T = \\frac{x^2 + y^2}{w}$"
         },
         {
           "type": "newline"
@@ -1209,7 +1209,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The curve C has equation $y = x^2 - 8x + 9$"
+          "content": "The curve C has equation $y = x^2 - 8x - 9$"
         },
         {
           "type": "newline"
@@ -1244,7 +1244,7 @@
         },
         {
           "type": "text",
-          "content": "Given that $p+q = 14$"
+          "content": "Given that $p - q = 14$"
         },
         {
           "type": "newline"
@@ -1320,7 +1320,7 @@
         },
         {
           "type": "text",
-          "content": "and $\\vec{OQ} = \\frac{1}{5} \\vec{OB}$"
+          "content": "and $\\vec{OQ} = \\frac{1}{2} \\vec{OB}$"
         },
         {
           "type": "newline"
@@ -1344,7 +1344,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$\\vec{AB}$"
+              "content": "$\\vec{AQ}$"
             },
             {
               "type": "space",
@@ -1398,7 +1398,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The function f is such that $f(x) = \\frac{2x+7}{x-2}$ where $x \\ge 6$"
+          "content": "The function f is such that $f(x) = 2x^2 - 24x + 7$ where $x \\ge 6$"
         },
         {
           "type": "newline"

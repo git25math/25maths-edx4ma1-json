@@ -1207,7 +1207,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Make f the subject of $w = \\frac{2f - 3}{f + 8}$"
+              "content": "Make f the subject of $w = \\frac{2f + 3}{8 - f}$"
             },
             {
               "type": "space",
@@ -1347,7 +1347,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Show that $R = x \\left( 50 - \\frac{x}{4} \\right) + \\frac{\\sqrt{3}}{4} x^2$"
+              "content": "Show that $R = \\frac{x}{4}\\left(200 - \\left(6 - \\sqrt{3}\\right)x\\right)$"
             },
             {
               "type": "space",

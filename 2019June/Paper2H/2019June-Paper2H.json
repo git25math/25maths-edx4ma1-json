@@ -162,7 +162,7 @@
             },
             {
               "type": "text",
-              "content": "B $\\cap$ C $\\neq \\emptyset$"
+              "content": "B $\\cap$ C = {4, 6, 10}"
             },
             {
               "type": "newline"
@@ -461,7 +461,7 @@
         },
         {
           "type": "text",
-          "content": "$x + 2y = 5$"
+          "content": "$x + 2y = -0.5$"
         },
         {
           "type": "newline"
@@ -500,7 +500,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The straight line L has gradient $\\frac{1}{2}$ and passes through the point with coordinates (4, -1)"
+          "content": "The straight line L has gradient 5 and passes through the point with coordinates (0, -3)"
         }
       ],
       "parts": [
@@ -719,7 +719,7 @@
         },
         {
           "type": "table",
-          "content": "\\begin{tabular}{|l|l|}\n\\hline\nTime taken (t minutes) & Frequency \\\\\n\\hline\n$0 \\le t < 5$ & 7 \\\\\n$5 \\le t < 10$ & 10 \\\\\n$10 \\le t < 15$ & 12 \\\\\n$15 \\le t < 20$ & 19 \\\\\n$20 \\le t < 25$ & 18 \\\\\n$25 \\le t < 30$ & 14 \\\\\n\\hline\n\\end{tabular}"
+          "content": "\\begin{tabular}{|l|l|}\n\\hline\nTime taken (t minutes) & Frequency \\\\\n\\hline\n$0 < t \\le 5$ & 7 \\\\\n$5 < t \\le 10$ & 10 \\\\\n$10 < t \\le 15$ & 12 \\\\\n$15 < t \\le 20$ & 19 \\\\\n$20 < t \\le 25$ & 18 \\\\\n$25 < t \\le 30$ & 14 \\\\\n\\hline\n\\end{tabular}"
         }
       ],
       "parts": [
@@ -736,7 +736,7 @@
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|l|l|}\n\\hline\nTime taken (t minutes) & Cumulative frequency \\\\\n\\hline\n$0 \\le t < 5$ & \\\\\n$0 \\le t < 10$ & \\\\\n$0 \\le t < 15$ & \\\\\n$0 \\le t < 20$ & \\\\\n$0 \\le t < 25$ & \\\\\n$0 \\le t < 30$ & \\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{|l|l|}\n\\hline\nTime taken (t minutes) & Cumulative frequency \\\\\n\\hline\n$0 < t \\le 5$ & \\\\\n$0 < t \\le 10$ & \\\\\n$0 < t \\le 15$ & \\\\\n$0 < t \\le 20$ & \\\\\n$0 < t \\le 25$ & \\\\\n$0 < t \\le 30$ & \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {
@@ -842,7 +842,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Make $x$ the subject of the formula $y = \\frac{3x - 2}{x + 1}$"
+          "content": "Make $x$ the subject of the formula $y = \\sqrt{\\frac{3x - 2}{x + 1}}$"
         },
         {
           "type": "space",
@@ -861,7 +861,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $\\frac{4}{8 - 2\\sqrt{1}}$ can be written in the form $a + b\\sqrt{2}$, where $a$ and $b$ are integers."
+          "content": "Show that $\\frac{4 + \\sqrt{8}}{\\sqrt{2} - 1}$ can be written in the form $a + b\\sqrt{2}$, where $a$ and $b$ are integers."
         },
         {
           "type": "newline"
@@ -1042,14 +1042,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "The equation of the line L is $y = 2x - 5$"
+          "content": "The equation of the line L is $y = 9 - x$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "The equation of the curve C is $x^2 - xy + 2y^2 = 0$"
+          "content": "The equation of the curve C is $x^2 - 3xy + 2y^2 = 0$"
         },
         {
           "type": "newline"
@@ -1150,7 +1150,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Simplify fully $\\frac{6x^2 + 13x - 5}{4x^2 - 25}$"
+          "content": "Simplify fully $\\frac{6x^3 + 13x^2 - 5x}{4x^2 - 25}$"
         },
         {
           "type": "space",

@@ -119,7 +119,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $7 \frac{1}{3} \\div 3 \frac{4}{7} = \frac{316}{21}$"
+          "content": "Show that $7\\frac{1}{3} \\div 3\\frac{4}{7} = 3\\frac{16}{21}$"
         }
       ],
       "parts": [],
@@ -493,7 +493,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Expand and simplify $(3x - 5)(7x + 4)$"
+          "content": "Expand and simplify $3x(2x + 5)(7x - 4)$"
         }
       ],
       "parts": [],
@@ -613,7 +613,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write down the letter of the graph that could have the equation $y = \frac{5}{x^2}$"
+              "content": "Write down the letter of the graph that could have the equation $y = 5 - x^2$"
             }
           ],
           "answer": {
@@ -626,7 +626,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write down the letter of the graph that could have the equation $y = 2^x$"
+              "content": "Write down the letter of the graph that could have the equation $y = 2x^3$"
             }
           ],
           "answer": {
@@ -643,7 +643,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Simplify fully $\frac{a^{10} \\times a^3}{a^7 \\times a^2}$"
+          "content": "Simplify fully $\\left(\\frac{2a^3}{10a\\,c^5}\\right)^{-1}$"
         }
       ],
       "parts": [],
@@ -658,7 +658,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Make $t$ the subject of the formula $c = \frac{2t - 3}{7t + 8}$"
+          "content": "Make $t$ the subject of the formula $c = \\frac{t^2 + 3}{7 - 8t^3}$"
         }
       ],
       "parts": [],
@@ -673,7 +673,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$y = 4x^3 - 5x^2 + 2x - 3$"
+          "content": "$y = 4x^3 + 5x^2 + 2x$"
         }
       ],
       "parts": [
@@ -704,7 +704,7 @@
             },
             {
               "type": "text",
-              "content": "equation $y = 4x^3 - 5x^2 + 2x - 3$"
+              "content": "equation $y = 4x^3 + 5x^2 + 2x$"
             },
             {
               "type": "newline"
@@ -743,7 +743,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Solve the inequality $4x^2 - 4x - 15 \\ge 0$"
+          "content": "Solve the inequality $4x^2 + 4x - 15 < 0$"
         },
         {
           "type": "newline"
@@ -975,7 +975,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$4^{2x} \\times 5^{120} = 10^{60} \\times 5^{180} \\times 2^{px}$ where $p$ is an integer."
+          "content": "$\\frac{4x^2 - 4x - 120}{5x^2 - 180} \\times \\frac{x^2 + 5x}{10x^2 + 60x} = p$ where $p$ is an integer."
         },
         {
           "type": "newline"
@@ -1082,7 +1082,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write $2x^2 - 24x + 28$ in the form $a(x-b)^2 + c$ where a, b and c are integers."
+              "content": "Write $28 + 24x - 6x^2$ in the form $a - b(x - c)^2$ where a, b and c are integers."
             }
           ],
           "answer": {
@@ -1095,7 +1095,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the axes below, sketch the graph of $y = 2x^2 - 24x + 28$"
+              "content": "On the axes below, sketch the graph of $y = 28 + 24x - 6x^2$"
             },
             {
               "type": "newline"

@@ -402,7 +402,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $\\frac{5 \\times 10^3}{8 \\times 10^{-4}}$"
+              "content": "Work out $\\frac{5 \\times 10^3 + 8 \\times 10^5}{4 \\times 10^{-2}}$"
             },
             {
               "type": "newline"
@@ -611,11 +611,11 @@
           "content": [
             {
               "type": "text",
-              "content": "Complete the table of values for $y = x + \\frac{4}{x^2}$"
+              "content": "Complete the table of values for $y = \\frac{1}{2}\\left(x + \\frac{4}{x}\\right)$"
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & 0.5 & 1 & 2 & 3 & 4 & 5 & 6 \\\\\n\\hline\n$y$ & 4.25 & & 2.17 & 2.5 & 2.9 & 3.33 & \\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & 0.5 & 1 & 2 & 3 & 4 & 5 & 6 \\\\\n\\hline\n$y$ & 4.25 & & & 2.17 & 2.5 & 2.9 & 3.33 \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {
@@ -628,7 +628,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Draw the graph of $y = x + \\frac{4}{x^2}$ for $0.5 \\le x \\le 6$"
+              "content": "Draw the graph of $y = \\frac{1}{2}\\left(x + \\frac{4}{x}\\right)$ for $0.5 \\le x \\le 6$"
             },
             {
               "type": "newline"
@@ -681,7 +681,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify fully $\\frac{125x^2y^6}{3x^3y^{15}}$"
+              "content": "Simplify fully $\\left(\\frac{125x^6}{y^{15}}\\right)^{\\frac{1}{3}}$"
             },
             {
               "type": "space",
@@ -945,7 +945,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "T is inversely proportional to $m$"
+          "content": "T is inversely proportional to $\\sqrt{m}$"
         },
         {
           "type": "newline"
@@ -1043,7 +1043,7 @@
         },
         {
           "type": "text",
-          "content": "$$g(x) = \\frac{2}{x}$$"
+          "content": "$$g(x) = \\frac{x}{2x - 1}$$"
         }
       ],
       "parts": [
@@ -1113,7 +1113,7 @@
         },
         {
           "type": "text",
-          "content": "The solutions of this equation are given by $x = \\frac{-4 \\pm \\sqrt{39}}{10}$"
+          "content": "The solutions of this equation are given by $x = \\frac{-4 \\pm 2\\sqrt{39}}{10}$"
         },
         {
           "type": "newline"
@@ -1290,7 +1290,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$D = \\frac{n}{pq}$"
+          "content": "$D = \\frac{n}{p - q}$"
         },
         {
           "type": "newline"

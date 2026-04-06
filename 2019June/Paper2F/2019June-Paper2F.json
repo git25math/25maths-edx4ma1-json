@@ -22,6 +22,13 @@
             {
               "type": "text",
               "content": "Write these numbers in order.\nStart with the smallest number."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$3 \\quad -8 \\quad 1 \\quad -5 \\quad 0$"
             }
           ],
           "answer": {
@@ -36,6 +43,13 @@
             {
               "type": "text",
               "content": "Write these numbers in order of size.\nStart with the smallest number."
+            },
+            {
+              "type": "newline"
+            },
+            {
+              "type": "text",
+              "content": "$2.5 \\quad 2.85 \\quad 2.082 \\quad 2.28 \\quad 2.805$"
             }
           ],
           "answer": {
@@ -513,7 +527,7 @@
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\cline{2-7}\n\\multicolumn{1}{c|}{} & \\multicolumn{6}{c|}{\\textbf{Dice}} \\\\\n\\cline{2-7}\n\\multicolumn{1}{c|}{} & \\textbf{1} & \\textbf{2} & \\textbf{3} & \\textbf{4} & \\textbf{5} & \\textbf{6} \\\\\n\\hline\n\\textbf{1} & 1 & 2 & 3 & 4 & & \\\\\n\\cline{2-7}\n\\textbf{Spinner} & \\textbf{2} & & 4 & & 8 & 10 \\\\\n\\cline{2-7}\n\\multicolumn{1}{c|}{} & \\textbf{3} & 3 & 6 & & 12 & \\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|}\n\\cline{3-8}\n\\multicolumn{2}{c|}{} & \\multicolumn{6}{c|}{\\textbf{Dice}} \\\\\n\\cline{3-8}\n\\multicolumn{2}{c|}{} & \\textbf{1} & \\textbf{2} & \\textbf{3} & \\textbf{4} & \\textbf{5} & \\textbf{6} \\\\\n\\hline\n& \\textbf{1} & 1 & 2 & 3 & 4 & & \\\\\n\\cline{2-8}\n\\textbf{Spinner} & \\textbf{2} & & 4 & & 8 & 10 & \\\\\n\\cline{2-8}\n& \\textbf{3} & 3 & 6 & & 12 & & 18 \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {

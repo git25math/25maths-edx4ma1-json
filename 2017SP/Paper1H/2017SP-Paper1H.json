@@ -209,7 +209,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $\\frac{x-6}{5} = x + 1$"
+              "content": "Solve $\\frac{6x-5}{2} = x + 1$"
             },
             {
               "type": "newline"
@@ -827,7 +827,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$P$ is inversely proportional to $q$"
+              "content": "$P$ is inversely proportional to $\\sqrt[3]{q}$"
             },
             {
               "type": "newline"

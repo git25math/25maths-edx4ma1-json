@@ -527,7 +527,7 @@
             },
             {
               "type": "text",
-              "content": "$$ \\frac{6^2 + 2}{3\\times 5} $$"
+              "content": "$6^2 \\div 2^3 \\times 5$"
             },
             {
               "type": "space",

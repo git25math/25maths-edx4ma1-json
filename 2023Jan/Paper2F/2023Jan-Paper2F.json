@@ -949,7 +949,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out the value of $\\frac{9.3 + 2.8}{3.2 \\times 1.2}$"
+              "content": "Work out the value of $\\frac{\\sqrt{9.3 + 2.8^2}}{3.2 \\times 1.2}$"
             },
             {
               "type": "newline"
@@ -1354,7 +1354,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Penny has worked out $\\frac{81.3 \\times 59.2}{1.92}$ on her calculator."
+              "content": "Penny has worked out $\\frac{81.3 \\times 59.2}{1.9^2}$ on her calculator."
             },
             {
               "type": "newline"
@@ -1580,7 +1580,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $(3a^2b^4)^3$"
+              "content": "Simplify $(3a^2b^5)^3$"
             },
             {
               "type": "space",

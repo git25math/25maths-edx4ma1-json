@@ -53,7 +53,7 @@
         },
         {
           "type": "text",
-          "content": "$$\\frac{2.11 \\times 58.9}{8.859^2}$$"
+          "content": "$$\\frac{2.11^2 \\times 58.9}{\\sqrt{8.859}}$$"
         },
         {
           "type": "newline"
@@ -191,7 +191,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $$\\frac{3}{5} \\div \\frac{7}{12} = \\frac{36}{35}$$"
+          "content": "Show that $$3\\frac{5}{7} \\div 1\\frac{2}{3} = 5\\frac{8}{21}$$"
         }
       ],
       "parts": [],
@@ -301,7 +301,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$$8^2 \\times 8^9 \\div 8^{10} = 8^n$$"
+          "content": "$$\\frac{8^2 \\times 8^9}{8^{10}} = 8^n$$"
         },
         {
           "type": "newline"
@@ -393,7 +393,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Factorise fully $15w^2x^5 + 25w^3x^2$"
+              "content": "Factorise fully $15w^2x^5 + 25w^3x^3$"
             },
             {
               "type": "space"
@@ -658,7 +658,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $$\\frac{9}{y} - \\frac{2}{5} = \\frac{7}{5}$$"
+              "content": "Solve $$\\frac{9}{2y} - \\frac{5}{7} = 5$$"
             },
             {
               "type": "newline"
@@ -693,7 +693,7 @@
         },
         {
           "type": "text",
-          "content": "[Figure - Sector AOB]"
+          "content": "[Figure - Sector AOB with angle 75°]"
         },
         {
           "type": "newline"
@@ -765,7 +765,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $$\\frac{2}{2 - \\sqrt{7}} - \\frac{3}{2 + \\sqrt{7}}$$ can be written in the form $a - b\\sqrt{7}$ where $a$ and $b$ are integers."
+          "content": "Show that $$\\frac{2\\sqrt{7} + 2}{\\sqrt{7} - 3}$$ can be written in the form $a - \\sqrt{b}$ where $a$ and $b$ are integers."
         },
         {
           "type": "newline"
@@ -787,7 +787,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Make y the subject of $$\\frac{p}{y} = \\frac{w}{y} + t$$"
+          "content": "Make y the subject of $$p = \\sqrt{\\frac{y + w}{3y - t}}$$"
         },
         {
           "type": "space"
@@ -953,14 +953,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "$$a = \\frac{x^2y^5}{x^{-1}y^2} \\times \\frac{1}{x^5y^{-3}}$$"
+          "content": "$$a = \\frac{2x + 5}{1 - x} \\qquad b = \\frac{5 - 2x}{3x}$$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Write a in the form $m(xy)^n y^p$ where $m$, $n$ and $p$ are integers."
+          "content": "Write $a$ in the form $\\frac{m + nx}{p(x - 1)}$ where $m$, $n$ and $p$ are integers."
         },
         {
           "type": "newline"

@@ -16,7 +16,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $15 \\frac{2}{7} \\div 3 \\frac{3}{4} = 4$"
+          "content": "Show that $1 \\frac{5}{7} \\times 2 \\frac{3}{16} = 3 \\frac{3}{4}$"
         },
         {
           "type": "space",
@@ -542,7 +542,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $3(2x - 5) = 2(x + 1) - 3$"
+              "content": "Solve $\\frac{3x + 2}{5} - \\frac{2x + 1}{3} = x$"
             },
             {
               "type": "newline"
@@ -563,7 +563,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Make c the subject of the formula $f = \\frac{a + bc}{c - d}$"
+              "content": "Make c the subject of the formula $f = \\sqrt{\\frac{a + bc}{c - d}}$"
             }
           ],
           "answer": {
@@ -668,7 +668,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Given that $3^{2n} \\times 3^3 \\div 3^4 = 3^{\\frac{1}{2}}$"
+          "content": "Given that $\\frac{3^{2n+1}}{3^4} = 3^2 \\times 3^{1-2n}$"
         },
         {
           "type": "newline"
@@ -698,7 +698,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Use algebra to show that $0.763 = \\frac{42}{55}$"
+          "content": "Use algebra to show that $0.7\\dot{6}\\dot{3} = \\frac{42}{55}$"
         },
         {
           "type": "space",
@@ -809,14 +809,14 @@
         },
         {
           "type": "text",
-          "content": "$\\begin{pmatrix} 5 \\\\ 2 \\end{pmatrix}$ $\\begin{pmatrix} 4 \\\\ 14 \\end{pmatrix}$"
+          "content": "$\\vec{FG} = \\begin{pmatrix} -5 \\\\ 2 \\end{pmatrix}$ $\\vec{HG} = \\begin{pmatrix} 4 \\\\ 14 \\end{pmatrix}$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "Calculate the magnitude of the vector"
+          "content": "Calculate the magnitude of the vector $\\vec{HF}$"
         }
       ],
       "parts": [],
@@ -831,7 +831,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "The straight line L is perpendicular to the straight line with equation $2x + 9y = 5$ and passes through the point with coordinates (8, 11)"
+          "content": "The straight line L is perpendicular to the straight line with equation $2x + y = 9$ and passes through the point with coordinates (8, 11)"
         },
         {
           "type": "newline"
@@ -892,7 +892,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$y = \\text{f}(x) + 5$"
+              "content": "$y = \\text{f}(x + 5)$"
             }
           ],
           "answer": {
@@ -920,7 +920,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$y = \\text{f}(x - 7)$"
+              "content": "$y = \\text{f}(x) - 7$"
             }
           ],
           "answer": {
@@ -938,7 +938,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Solve the inequality $10x^2 - 11x - 21 \\ge 0$"
+          "content": "Solve the inequality $10x^2 + 11x - 21 < 0$"
         },
         {
           "type": "newline"
@@ -1004,14 +1004,14 @@
         },
         {
           "type": "text",
-          "content": "$x^2 + y^2 = 3$"
+          "content": "$x^2 + y^2 + y = 3$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$x - y = 2$"
+          "content": "$x + 2 = y$"
         },
         {
           "type": "newline"
@@ -1034,7 +1034,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $\\frac{16x^2 - 36}{7x^2 - 6x - 5} \\times \\frac{14x^2 + 7x - 8}{2x^2 + 2x} = \\frac{n(2x - 3)}{x}$"
+          "content": "Show that $\\frac{16x^2 - 36}{x - 7} \\times \\frac{2x^2 + 7x + 6}{x^2 - 5x - 14} \\div (7 + 8x) = n$"
         },
         {
           "type": "newline"

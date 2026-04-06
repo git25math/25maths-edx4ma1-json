@@ -795,14 +795,14 @@
         },
         {
           "type": "text",
-          "content": "$$\\frac{12}{\\sqrt{3} + 2}$$"
+          "content": "$$\\frac{\\sqrt{12}}{\\sqrt{3} + 2}$$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "can be written in the form $a + b\\sqrt{3}$ where a and b are integers."
+          "content": "can be written in the form $a + \\sqrt{b}$ where a and b are integers."
         }
       ],
       "parts": [],

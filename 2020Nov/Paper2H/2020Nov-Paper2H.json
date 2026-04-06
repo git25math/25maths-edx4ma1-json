@@ -603,7 +603,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Express $\\left(\\frac{y^2}{4}\\right)^{-1}$ in the form $ay^n$ where $a$ and $n$ are integers."
+              "content": "Express $\\left(\\frac{y}{2}\\right)^{4}$ in the form $ay^n$ where $a$ and $n$ are integers."
             },
             {
               "type": "space",
@@ -620,7 +620,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $\\frac{4x-3}{5} - \\frac{2x-6}{3} = 4$"
+              "content": "Solve $\\frac{4x-2}{3} - \\frac{5-3x}{4} = 6$"
             },
             {
               "type": "newline"
@@ -649,7 +649,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Given that $3^x = \\frac{9}{81^x}$"
+          "content": "Given that $\\frac{3^x}{9^x} = 81$"
         },
         {
           "type": "newline"
@@ -683,7 +683,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Use algebra to show that $0.68\\dot{1} = \\frac{15}{22}$"
+          "content": "Use algebra to show that $0.6\\dot{8}\\dot{1} = \\frac{15}{22}$"
         },
         {
           "type": "space",
@@ -805,7 +805,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Make x the subject of $y = \\frac{5x-2}{x+3}$"
+          "content": "Make x the subject of $y = \\frac{5-2x}{x+3}$"
         },
         {
           "type": "space",

@@ -733,7 +733,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out the value of $\\frac{10.4 - 5.1}{2.7 + 6.8 - 3.2 - 9.5}$."
+              "content": "Work out the value of $\\frac{10.4 - 5.1}{2.7} + \\frac{6.8 - 3.2}{9.5}$."
             },
             {
               "type": "newline"
@@ -1186,7 +1186,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve the inequality $5x - 4 \\le 39$"
+              "content": "Solve the inequality $5x - 4 < 39$"
             }
           ],
           "answer": {
@@ -1292,7 +1292,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Show that $\\frac{3}{4} - \\frac{7}{15} = \\frac{153}{56}$"
+          "content": "Show that $1\\frac{4}{7} - 1\\frac{5}{8} = \\frac{53}{56}$"
         }
       ],
       "parts": [],
@@ -1486,7 +1486,7 @@
           "stem": [
             {
               "type": "text",
-              "content": "$8^{27} = 2^n$"
+              "content": "$\\frac{8}{2^3} = 2^n$"
             }
           ],
           "content": [
@@ -1506,7 +1506,7 @@
           "stem": [
             {
               "type": "text",
-              "content": "$(13^{-6})^4 \\times 13^5 = 13^k$"
+              "content": "$(13^{-9})^4 \\times 13^5 = 13^k$"
             }
           ],
           "content": [

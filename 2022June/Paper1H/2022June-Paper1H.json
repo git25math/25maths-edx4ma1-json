@@ -253,7 +253,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $2x - 3 = \\frac{3}{5}x - 4$"
+              "content": "Solve $2x - 3 = \\frac{3x - 5}{4}$"
             },
             {
               "type": "newline"
@@ -635,7 +635,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Express $\\frac{7}{x-8} - \\frac{3}{x+4}$ as a single fraction in its simplest form."
+              "content": "Express $\\frac{7}{8} - \\frac{x + 3}{4x}$ as a single fraction in its simplest form."
             },
             {
               "type": "space"
@@ -779,7 +779,7 @@
         },
         {
           "type": "text",
-          "content": "f : $x \\alpha \\frac{2x}{x - 6}\\quad\\quad\\quad\\quad x \\ne 6$"
+          "content": "f : $x \\mapsto \\frac{2x}{x - 6}\\quad\\quad\\quad\\quad x \\ne 6$"
         }
       ],
       "parts": [
@@ -805,7 +805,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Express the inverse function f$^{-1}$ in the form f$^{-1}$ : $x \\alpha \\dots$"
+              "content": "Express the inverse function f$^{-1}$ in the form f$^{-1}$ : $x \\mapsto \\dots$"
             },
             {
               "type": "space"
@@ -813,7 +813,7 @@
           ],
           "answer": {
             "type": "expression",
-            "prefix": "f^{-1} : x \\alpha "
+            "prefix": "f^{-1} : x \\mapsto "
           }
         }
       ],
@@ -899,7 +899,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Without using a calculator, show that $\\frac{12}{2 - \\sqrt{2}} - \\frac{12}{2 + \\sqrt{2}} = \\frac{12\\sqrt{2}}{5}$"
+          "content": "Without using a calculator, show that $\\frac{12}{\\sqrt{2} - 1} - (\\sqrt{2})^4 = 2\\sqrt{32} + 12$"
         },
         {
           "type": "newline"

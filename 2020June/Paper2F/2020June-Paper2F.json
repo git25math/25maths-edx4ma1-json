@@ -931,7 +931,7 @@
       "parts": [],
       "answer": {
         "type": "number",
-        "prefix": "£"
+        "prefix": "$"
       },
       "meta": {}
     },
@@ -946,7 +946,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Factorise $25f – 10$"
+              "content": "Factorise $25f - 10$"
             },
             {
               "type": "space"
@@ -962,7 +962,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Make $y$ the subject of the formula $c = 5y – h$"
+              "content": "Make $y$ the subject of the formula $c = 5y - h$"
             },
             {
               "type": "space"
@@ -1360,7 +1360,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $g^6 \\times g^4$"
+              "content": "Simplify $g^6 \\times g^2$"
             },
             {
               "type": "space"
@@ -1518,7 +1518,7 @@
         },
         {
           "type": "text",
-          "content": "The volume of the cylinder is $72\\pi\\text{m}^3$"
+          "content": "The volume of the cylinder is $72\\pi$ $\\text{m}^3$"
         },
         {
           "type": "newline"

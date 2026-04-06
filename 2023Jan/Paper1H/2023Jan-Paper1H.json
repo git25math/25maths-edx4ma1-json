@@ -465,7 +465,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $(2.4 \\times 10^{12}) \\div (9.6 \\times 10^4)$"
+              "content": "Work out $(2.4 \\times 10^{12}) \\div (9.6 \\times 10^5)$"
             },
             {
               "type": "newline"
@@ -621,7 +621,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$3^{\\frac{1}{2}} \\times 3^{\\frac{2}{5}} = 3^m$"
+              "content": "$3^{\\frac{1}{2}} \\times 3^{\\frac{7}{5}} = 3^m$"
             },
             {
               "type": "newline"
@@ -706,7 +706,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Complete the table of values for $y = \\frac{25}{x} - x$"
+              "content": "Complete the table of values for $y = \\frac{2}{x}\\left(5 - \\frac{1}{x}\\right)$"
             },
             {
               "type": "newline"
@@ -726,7 +726,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the grid, draw the graph of $y = \\frac{25}{x} - x$ for $0.5 \\le x \\le 5$"
+              "content": "On the grid, draw the graph of $y = \\frac{2}{x}\\left(5 - \\frac{1}{x}\\right)$ for $0.5 \\le x \\le 5$"
             },
             {
               "type": "newline"
@@ -1012,7 +1012,7 @@
             },
             {
               "type": "text",
-              "content": "The function h is such that $h(x) = \\frac{3-x}{2x}$ where $x \\neq 2$"
+              "content": "The function h is such that $h(x) = \\frac{3x}{2 - x}$ where $x \\neq 2$"
             }
           ],
           "subparts": [

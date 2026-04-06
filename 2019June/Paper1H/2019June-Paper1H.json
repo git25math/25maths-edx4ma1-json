@@ -227,11 +227,11 @@
           "content": [
             {
               "type": "text",
-              "content": "Complete the table of values for $y = x^2 - x - 5$"
+              "content": "Complete the table of values for $y = x^2 - 3x - 1$"
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|} \\hline x & -2 & -1 & 0 & 1 & 2 & 3 & 4 \\\\ \\hline y & -1 & -3 & & & & 1 & 3 \\\\ \\hline \\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|} \\hline x & -2 & -1 & 0 & 1 & 2 & 3 & 4 \\\\ \\hline y & & -1 & & & -3 & & 3 \\\\ \\hline \\end{tabular}"
             }
           ],
           "answer": {
@@ -244,7 +244,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the grid, draw the graph of $y = x^2 - x - 5$ for all values of $x$ from $-2$ to $4$"
+              "content": "On the grid, draw the graph of $y = x^2 - 3x - 1$ for all values of $x$ from $-2$ to $4$"
             },
             {
               "type": "text",
@@ -385,7 +385,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $\\frac{2 \\times 10^3 \\times 6 \\times 10^4}{4 \\times 10^{-5}}$"
+              "content": "Work out $\\frac{2 \\times 10^4 \\times 3 \\times 10^5}{6.4 \\times 10^{-2}}$"
             },
             {
               "type": "space",
@@ -583,7 +583,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Factorise $2x^2 - x + 6$"
+              "content": "Factorise $2x^2 - 7x + 6$"
             },
             {
               "type": "space",
@@ -600,7 +600,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $\\frac{4}{m+3} - \\frac{9}{m} = 1$"
+              "content": "Solve $\\frac{4m + 9}{3} = 7 - 2m$"
             },
             {
               "type": "newline"
@@ -625,7 +625,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write $\\frac{\\sqrt{y}}{y^4}$ in the form $y^b$ where $b$ is a fraction."
+              "content": "Write $\\frac{\\sqrt[3]{y}}{y^4}$ in the form $y^b$ where $b$ is a fraction."
             },
             {
               "type": "space",
@@ -750,14 +750,14 @@
         },
         {
           "type": "text",
-          "content": "$A = \\{x : x \\le 12\\}$"
+          "content": "$A = \\{x : x < 12\\}$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$B = \\{x : 7 < x \\le 16\\}$"
+          "content": "$B = \\{x : 7 \\le x < 16\\}$"
         }
       ],
       "parts": [
@@ -1236,7 +1236,7 @@
         },
         {
           "type": "text",
-          "content": "Give your answer in the form $py + qx = R$ where $p$, $q$ and $R$ are integers."
+          "content": "Give your answer in the form $py + qx = r$ where $p$, $q$ and $r$ are integers."
         },
         {
           "type": "space",
@@ -1269,7 +1269,7 @@
         },
         {
           "type": "text",
-          "content": "$$s = t^3 - 4t^2 + 5t - 6$$"
+          "content": "$$s = t^3 - 6t^2 + 5t - 4$$"
         },
         {
           "type": "newline"

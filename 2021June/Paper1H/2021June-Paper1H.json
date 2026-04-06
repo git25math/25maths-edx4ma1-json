@@ -211,7 +211,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Given that $w^5 \\times w^3 = w^{10n}$"
+              "content": "Given that $\\frac{w^5 \\times w^n}{w^7} = w^n$"
             },
             {
               "type": "newline"
@@ -555,7 +555,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$2^x \\times 16 = 2^x$"
+              "content": "$\\sqrt[3]{2} \\times 16 = 2^x$"
             },
             {
               "type": "newline"
@@ -586,7 +586,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$(11^6)^5 \\div 11^4 = 11^n$"
+              "content": "$\\frac{(11^{-4})^5}{11^4} = 11^n$"
             },
             {
               "type": "newline"
@@ -983,7 +983,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$P = \\frac{t}{w-y}$"
+          "content": "$P = \\frac{t - w}{y}$"
         },
         {
           "type": "newline"
@@ -1036,7 +1036,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Given that $x = \\frac{y-5}{y+5}$ and that $y = 5a^2$"
+          "content": "Given that $x = \\frac{5}{9y + 5}$ and that $y = \\frac{5}{5a - 2}$"
         },
         {
           "type": "newline"

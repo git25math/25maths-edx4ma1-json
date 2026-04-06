@@ -1146,7 +1146,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Factorise fully $15b^5c - 35b^3c^9$"
+              "content": "Factorise fully $15b^5c - 35b^4c^9$"
             }
           ],
           "answer": {

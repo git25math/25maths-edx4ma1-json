@@ -49,7 +49,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Find the value of p, given that $\\frac{7^8}{7^2} = 7^p$"
+              "content": "Find the value of p, given that $\\frac{7^5 \\times 7^3}{7^2} = 7^p$"
             }
           ],
           "answer": {
@@ -638,7 +638,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write as a single fraction $\\frac{2x}{3} - \\frac{4x}{5} + \\frac{9x}{10}$"
+              "content": "Write as a single fraction $\\frac{2}{3x} - \\frac{4}{5x} + \\frac{9}{10x}$"
             },
             {
               "type": "newline"
@@ -798,7 +798,7 @@
         },
         {
           "type": "text",
-          "content": "$g(x) = \\frac{x}{x-1}$"
+          "content": "$g(x) = \\frac{x}{3x + 1}$"
         }
       ],
       "parts": [
@@ -913,7 +913,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Express $\\frac{8}{5 - \\sqrt{1}}$ in the form $a + b$ where a and b are integers."
+          "content": "Express $\\frac{8}{\\sqrt{5} - 1}$ in the form $\\sqrt{a} + b$ where a and b are integers."
         },
         {
           "type": "newline"
@@ -1039,7 +1039,7 @@
         },
         {
           "type": "text",
-          "content": "$k \\quad 3k \\quad 5k \\quad 7k$"
+          "content": "$k \\quad \\frac{3k}{4} \\quad \\frac{k}{2} \\quad \\frac{k}{4}$"
         },
         {
           "type": "newline"

@@ -1252,7 +1252,7 @@
         },
         {
           "type": "text",
-          "content": "$$\\frac{2.11 \\times 58.9}{8.859}$$"
+          "content": "$$\\frac{2.11^2 \\times 58.9}{\\sqrt{8.859}}$$"
         },
         {
           "type": "newline"

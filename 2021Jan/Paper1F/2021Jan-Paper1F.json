@@ -483,7 +483,7 @@
         },
         {
           "type": "table",
-          "content": "\\begin{tabular}{|l|c|c|c|c|}\\hline Type of noodle & Ramen & Soba & Udon & Total \\\\ \\hline Boiled & 18 & & 31 & \\\\ Fried & & 12 & 7 & \\\\ \\hline Total & & 15 & & 60 \\\\ \\hline\\end{tabular}"
+          "content": "\\begin{tabular}{|l|c|c|c|c|}\\hline Type of noodle & Ramen & Soba & Udon & Total \\\\ \\hline Boiled & 18 & & & 31 \\\\ Fried & & 12 & 7 & \\\\ \\hline Total & & 15 & & 60 \\\\ \\hline\\end{tabular}"
         }
       ],
       "parts": [

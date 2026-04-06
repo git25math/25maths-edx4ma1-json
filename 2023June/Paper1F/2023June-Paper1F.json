@@ -6,7 +6,7 @@
   "year": 2023,
   "session": "June",
   "paperNum": "1F",
-  "type": "foundation-nocalc",
+  "type": "foundation-calc",
   "totalMarks": 100,
   "time": 120,
   "questions": [
@@ -1071,7 +1071,7 @@
             },
             {
               "type": "text",
-              "content": "$$\\frac{9.12 \\times 4.5}{3.28 \\times 9.64}$$"
+              "content": "$$\\frac{9}{12.4} + \\frac{5.3 \\times 2.8}{9.64}$$"
             },
             {
               "type": "newline"

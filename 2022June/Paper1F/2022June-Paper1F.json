@@ -526,7 +526,7 @@
             },
             {
               "type": "text",
-              "content": "$22 + 5 \\times 2 + 32 = 99$"
+              "content": "$2^2 + 5 \\times 2 + 3^2 = 99$"
             }
           ],
           "answer": {
@@ -1462,7 +1462,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $2x - 3 = \\frac{3}{5}(4x - 1)$"
+              "content": "Solve $2x - 3 = \\frac{3x - 5}{4}$"
             },
             {
               "type": "newline"

@@ -1200,7 +1200,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$A' \\cup B'$"
+              "content": "$(A \\cup B)'$"
             },
             {
               "type": "space"
@@ -1553,7 +1553,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "A $ = 2^5 \\times 3^7 \\times 5^{11}$"
+          "content": "$A = 5^3 \\times 7^2 \\times 11^4$"
         },
         {
           "type": "newline"
@@ -1567,7 +1567,7 @@
         },
         {
           "type": "text",
-          "content": "B $ = 2^5 \\times 3^7 \\times 5^{11} \\times 6^2 \\times 4$"
+          "content": "$B = 5^6 \\times 7^3 \\times 11^4$"
         },
         {
           "type": "newline"

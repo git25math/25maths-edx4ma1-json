@@ -582,7 +582,7 @@
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & –1 & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\\\\n\\hline\n$y$ & –1 & & & & 5 & & & 14 \\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|c|c|}\n\\hline\n$x$ & –1 & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\\\\n\\hline\n$y$ & –4 & & & 5 & & & & 17 \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {
@@ -1269,7 +1269,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write  $7^8 \\times 7^4 \\times 7^3$  as a single power of 7"
+              "content": "Write  $\\frac{7^8 \\times 7^4}{7^3}$  as a single power of 7"
             },
             {
               "type": "space",

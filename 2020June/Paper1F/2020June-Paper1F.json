@@ -649,7 +649,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $8k + 5m – 2k + 6m$"
+              "content": "Simplify $8k + 5m - 2k + 6m$"
             },
             {
               "type": "space",
@@ -894,7 +894,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Use your calculator to work out the value of $\\frac{67.8}{4.6 + 5.62}$"
+              "content": "Use your calculator to work out the value of $\\frac{67.8 + 4.6^2}{\\sqrt{56}}$"
             },
             {
               "type": "newline"
@@ -1245,7 +1245,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "On the grid, draw the graph of $y = 7 – 4x$ for values of $x$ from $-2$ to $3$"
+          "content": "On the grid, draw the graph of $y = 7 - 4x$ for values of $x$ from $-2$ to $3$"
         },
         {
           "type": "newline"
@@ -1392,7 +1392,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $\\frac{3 \\times 10^2}{7 \\times 10^{-6} \\times 5 \\times 10^4}$"
+              "content": "Work out $\\frac{3 \\times 10^2 - 2.7 \\times 10^4}{6 \\times 10^{-5}}$"
             },
             {
               "type": "space",
@@ -1451,7 +1451,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $5(4 – x) = 7 – 3x$"
+              "content": "Solve $5(4 - x) = 7 - 3x$"
             },
             {
               "type": "newline"
@@ -1501,7 +1501,7 @@
               "content": [
                 {
                   "type": "text",
-                  "content": "Factorise $y^2 – 2y – 48$"
+                  "content": "Factorise $y^2 - 2y - 48$"
                 },
                 {
                   "type": "space",
@@ -1518,7 +1518,7 @@
               "content": [
                 {
                   "type": "text",
-                  "content": "Hence, solve $y^2 – 2y – 48 = 0$"
+                  "content": "Hence, solve $y^2 - 2y - 48 = 0$"
                 },
                 {
                   "type": "space",
@@ -1615,14 +1615,14 @@
       "stem": [
         {
           "type": "text",
-          "content": "$A = 2 \\times 343$"
+          "content": "$A = 2 \\times 3^{10}$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$B = 16 \\times 337$"
+          "content": "$B = 16 \\times 3^{7}$"
         }
       ],
       "parts": [

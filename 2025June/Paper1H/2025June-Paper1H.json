@@ -295,7 +295,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $x - \\frac{4}{2} = \\frac{3}{6} + x$"
+              "content": "Solve $x - 4 = \\frac{3 + 2x}{6}$"
             },
             {
               "type": "newline"
@@ -450,7 +450,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $(5 \\times 10^{42}) \\times (7 \\times 10^{-180})$. Give your answer in standard form."
+              "content": "Work out $(5 \\times 10^{62}) \\times (7 \\times 10^{-180})$. Give your answer in standard form."
             },
             {
               "type": "space",
@@ -590,7 +590,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Express $\\frac{5}{x-4} - \\frac{3}{x-6}$ as a single fraction in its simplest form."
+          "content": "Express $\\frac{5}{4} + \\frac{x - 3}{6x}$ as a single fraction in its simplest form."
         },
         {
           "type": "space",
@@ -734,7 +734,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "$\\sqrt[3]{3^5} = 3^k$ where k is an integer."
+          "content": "$(\\sqrt{3})^5 = k\\sqrt{3}$ where k is an integer."
         }
       ],
       "parts": [

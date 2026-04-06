@@ -406,7 +406,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $8d^4 \\times 7d$"
+              "content": "Simplify $8d - 4d + 7d$"
             },
             {
               "type": "space",
@@ -423,7 +423,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $m \\times p \\times 10$"
+              "content": "Simplify $m \\times 10p$"
             },
             {
               "type": "space",
@@ -440,7 +440,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $x - 5 = 19$"
+              "content": "Solve $x + 5 = -19$"
             },
             {
               "type": "space",
@@ -768,7 +768,7 @@
       "stem": [
         {
           "type": "text",
-          "content": "Make $d$ the subject of the formula $c = \\frac{8}{5d}$"
+          "content": "Make $d$ the subject of the formula $c = 8d + 5$"
         },
         {
           "type": "space",
@@ -1019,7 +1019,7 @@
         },
         {
           "type": "text",
-          "content": "$$\\frac{31.4 \\times 4.8}{7.5}$$"
+          "content": "$$31.4 \\times 48.7$$"
         },
         {
           "type": "newline"
@@ -1157,7 +1157,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $p^3 \\times p^5$"
+              "content": "Simplify $(p^3)^5$"
             },
             {
               "type": "space",
@@ -1174,7 +1174,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Expand and simplify $2(4n - 3) - 4(n - 5)$"
+              "content": "Expand and simplify $2n(4n + 3) - n(n - 4)$"
             },
             {
               "type": "space",
@@ -1191,7 +1191,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $2x - 5 = 3x + 4$"
+              "content": "Solve $\\frac{2x + 5}{3} = 4 - x$"
             },
             {
               "type": "newline"
@@ -1347,21 +1347,21 @@
       "stem": [
         {
           "type": "text",
-          "content": "$A = 2^5 \\times 7^3 \\times 11^4$"
+          "content": "$A = 2^3 \\times 5^4 \\times 7 \\times 11$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$B = 2^5 \\times 7^2 \\times 2^2$"
+          "content": "$B = 2^2 \\times 5^3 \\times 7^2$"
         },
         {
           "type": "newline"
         },
         {
           "type": "text",
-          "content": "$C = 2^5 \\times 7^2 \\times 3^4$"
+          "content": "$C = 2^2 \\times 5^3 \\times 7^4$"
         },
         {
           "type": "newline"
@@ -1524,7 +1524,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve the inequality $3y - 5 > 7y + 10$"
+              "content": "Solve the inequality $3y + 5 > 7y - 10$"
             },
             {
               "type": "newline"
@@ -1557,7 +1557,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Write $8.4 \\times 10^5$ as an ordinary number."
+              "content": "Write $8.4 \\times 10^{-5}$ as an ordinary number."
             },
             {
               "type": "space",
@@ -1574,7 +1574,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Work out $(6.5 \\times 10^8) \\times (4 \\times 10^{185})$"
+              "content": "Work out $(6.5 \\times 10^{-10}) \\times (8 \\times 10^{15})$"
             },
             {
               "type": "newline"

@@ -277,7 +277,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Simplify $4 \\times 5 \\times e$"
+              "content": "Simplify $4 \\times 5e$"
             },
             {
               "type": "space"
@@ -293,7 +293,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $f - 14 = 29$"
+              "content": "Solve $f + 14 = 29$"
             },
             {
               "type": "space"
@@ -494,11 +494,11 @@
           "content": [
             {
               "type": "text",
-              "content": "Complete the table of values for $y = 2x + 1$"
+              "content": "Complete the table of values for $y = 2x - 1$"
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n$x$ & $-2$ & $-1$ & $0$ & $1$ & $2$ & $3$ \\\\\n\\hline\n$y$ & & $-1$ & & & & $7$ \\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{|c|c|c|c|c|c|c|}\n\\hline\n$x$ & $-2$ & $-1$ & $0$ & $1$ & $2$ & $3$ \\\\\n\\hline\n$y$ & & $-1$ & & & & $5$ \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {
@@ -511,7 +511,7 @@
           "content": [
             {
               "type": "text",
-              "content": "On the grid, draw the graph of $y = 2x + 1$ for values of $x$ from –2 to 3"
+              "content": "On the grid, draw the graph of $y = 2x - 1$ for values of $x$ from –2 to 3"
             },
             {
               "type": "newline"
@@ -563,7 +563,7 @@
             },
             {
               "type": "table",
-              "content": "\\begin{tabular}{|l|c|c|}\n\\hline\n\\textbf{Egg} & \\textbf{Frequency} & \\textbf{Angle of sector} \\\\\n\\hline\nscrambled & & $72°$ \\\\\nboiled & $6$ & \\\\\npoached & & $132°$ \\\\\nfried & & $48°$ \\\\\n\\hline\n\\end{tabular}"
+              "content": "\\begin{tabular}{|l|c|c|}\n\\hline\n\\textbf{Egg} & \\textbf{Frequency} & \\textbf{Angle of sector} \\\\\n\\hline\nscrambled & $6$ & $72°$ \\\\\nboiled & & $132°$ \\\\\npoached & & \\\\\nfried & & $48°$ \\\\\n\\hline\n\\end{tabular}"
             }
           ],
           "answer": {
@@ -779,7 +779,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Expand $x(x+7)$"
+              "content": "Expand $x(x-7)$"
             },
             {
               "type": "space"
@@ -811,7 +811,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$m = 5a - 7b$"
+              "content": "$m = 5a + 7b$"
             },
             {
               "type": "newline"
@@ -1212,7 +1212,7 @@
           "content": [
             {
               "type": "text",
-              "content": "$x^5 \\times x^7 = x^m$"
+              "content": "$x^5 \\times x^3 = x^m$"
             },
             {
               "type": "newline"
@@ -1318,7 +1318,7 @@
           "content": [
             {
               "type": "text",
-              "content": "Solve $\\frac{x-4}{2} = \\frac{x+3}{6}$"
+              "content": "Solve $x - 4 = \\frac{3 + 2x}{6}$"
             },
             {
               "type": "newline"
