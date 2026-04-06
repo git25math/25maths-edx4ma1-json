@@ -1,0 +1,622 @@
+=== Edexcel 真题仓库全量分析 ===
+日期: 2026年 4月 6日 星期一 15时27分07秒 UTC
+
+=== 目录结构 ===
+./.DS_Store
+./.nojekyll
+./2017SP/.DS_Store
+./2017SP/Paper1F/2017SP-Paper1F.json
+./2017SP/Paper1F/2017SP-Paper1F.json.raw
+./2017SP/Paper1H/2017SP-Paper1H.json
+./2017SP/Paper1H/2017SP-Paper1H.json.raw
+./2017SP/Paper2F/2017SP-Paper2F.json
+./2017SP/Paper2F/2017SP-Paper2F.json.raw
+./2017SP/Paper2H/2017SP-Paper2H.json
+./2017SP/Paper2H/2017SP-Paper2H.json.raw
+./2018June/Paper1F/2018June-Paper1F.json
+./2018June/Paper1F/2018June-Paper1F.json.raw
+./2018June/Paper1H/2018June-Paper1H.json
+./2018June/Paper1H/2018June-Paper1H.json.raw
+./2018June/Paper2F/2018June-Paper2F.json
+./2018June/Paper2F/2018June-Paper2F.json.raw
+./2018June/Paper2H/2018June-Paper2H.json
+./2018June/Paper2H/2018June-Paper2H.json.raw
+./2019Jan/Paper1F/2019Jan-Paper1F.json
+./2019Jan/Paper1F/2019Jan-Paper1F.json.raw
+./2019Jan/Paper1H/2019Jan-Paper1H.json
+./2019Jan/Paper1H/2019Jan-Paper1H.json.raw
+./2019Jan/Paper2F/2019Jan-Paper2F.json
+./2019Jan/Paper2F/2019Jan-Paper2F.json.raw
+./2019Jan/Paper2H/2019Jan-Paper2H.json
+./2019Jan/Paper2H/2019Jan-Paper2H.json.raw
+./2019June/Paper1F/2019June-Paper1F.json
+./2019June/Paper1F/2019June-Paper1F.json.raw
+./2019June/Paper1H/2019June-Paper1H.json
+./2019June/Paper1H/2019June-Paper1H.json.raw
+./2019June/Paper2F/2019June-Paper2F.json
+./2019June/Paper2F/2019June-Paper2F.json.raw
+./2019June/Paper2H/2019June-Paper2H.json
+./2019June/Paper2H/2019June-Paper2H.json.raw
+./2020Jan/Paper1F/2020Jan-Paper1F.json
+./2020Jan/Paper1F/2020Jan-Paper1F.json.raw
+./2020Jan/Paper1H/2020Jan-Paper1H.json
+./2020Jan/Paper1H/2020Jan-Paper1H.json.raw
+./2020Jan/Paper2F/2020Jan-Paper2F.json
+./2020Jan/Paper2F/2020Jan-Paper2F.json.raw
+./2020Jan/Paper2H/2020Jan-Paper2H.json
+./2020Jan/Paper2H/2020Jan-Paper2H.json.raw
+./2020June/Paper1F/2020June-Paper1F.json
+./2020June/Paper1F/2020June-Paper1F.json.raw
+./2020June/Paper1H/2020June-Paper1H.json
+./2020June/Paper1H/2020June-Paper1H.json.raw
+./2020June/Paper2F/2020June-Paper2F.json
+./2020June/Paper2F/2020June-Paper2F.json.raw
+./2020June/Paper2H/2020June-Paper2H.json
+./2020June/Paper2H/2020June-Paper2H.json.raw
+./2020Nov/Paper1F/2020Nov-Paper1F.json
+./2020Nov/Paper1F/2020Nov-Paper1F.json.raw
+./2020Nov/Paper1H/2020Nov-Paper1H.json
+./2020Nov/Paper1H/2020Nov-Paper1H.json.raw
+./2020Nov/Paper2F/2020Nov-Paper2F.json
+./2020Nov/Paper2F/2020Nov-Paper2F.json.raw
+./2020Nov/Paper2H/2020Nov-Paper2H.json
+./2020Nov/Paper2H/2020Nov-Paper2H.json.raw
+./2021Jan/Paper1F/2021Jan-Paper1F.json
+./2021Jan/Paper1F/2021Jan-Paper1F.json.raw
+./2021Jan/Paper1H/2021Jan-Paper1H.json
+./2021Jan/Paper1H/2021Jan-Paper1H.json.raw
+./2021Jan/Paper2F/2021Jan-Paper2F.json
+./2021Jan/Paper2F/2021Jan-Paper2F.json.raw
+./2021Jan/Paper2H/2021Jan-Paper2H.json
+./2021Jan/Paper2H/2021Jan-Paper2H.json.raw
+./2021June/Paper1F/2021June-Paper1F.json
+./2021June/Paper1F/2021June-Paper1F.json.raw
+./2021June/Paper1H/2021June-Paper1H.json
+./2021June/Paper1H/2021June-Paper1H.json.raw
+./2021June/Paper2F/2021June-Paper2F.json
+./2021June/Paper2F/2021June-Paper2F.json.raw
+./2021June/Paper2H/2021June-Paper2H.json
+./2021June/Paper2H/2021June-Paper2H.json.raw
+./2021Nov/Paper1F/2021Nov-Paper1F.json
+./2021Nov/Paper1F/2021Nov-Paper1F.json.raw
+./2021Nov/Paper1H/2021Nov-Paper1H.json
+./2021Nov/Paper1H/2021Nov-Paper1H.json.raw
+./2021Nov/Paper2F/2021Nov-Paper2F.json
+./2021Nov/Paper2F/2021Nov-Paper2F.json.raw
+./2021Nov/Paper2H/2021Nov-Paper2H.json
+./2021Nov/Paper2H/2021Nov-Paper2H.json.raw
+./2022Jan/Paper1F/2022Jan-Paper1F.json
+./2022Jan/Paper1F/2022Jan-Paper1F.json.raw
+./2022Jan/Paper1H/2022Jan-Paper1H.json
+./2022Jan/Paper1H/2022Jan-Paper1H.json.raw
+./2022Jan/Paper2F/2022Jan-Paper2F.json
+./2022Jan/Paper2F/2022Jan-Paper2F.json.raw
+./2022Jan/Paper2H/2022Jan-Paper2H.json
+./2022Jan/Paper2H/2022Jan-Paper2H.json.raw
+./2022June/Paper1F/2022June-Paper1F.json
+./2022June/Paper1F/2022June-Paper1F.json.raw
+./2022June/Paper1H/2022June-Paper1H.json
+./2022June/Paper1H/2022June-Paper1H.json.raw
+./2022June/Paper2F/2022June-Paper2F.json
+./2022June/Paper2F/2022June-Paper2F.json.raw
+./2022June/Paper2H/2022June-Paper2H.json
+./2022June/Paper2H/2022June-Paper2H.json.raw
+./2023Jan/Paper1F/2023Jan-Paper1F.json
+./2023Jan/Paper1F/2023Jan-Paper1F.json.raw
+./2023Jan/Paper1H/2023Jan-Paper1H.json
+./2023Jan/Paper1H/2023Jan-Paper1H.json.raw
+./2023Jan/Paper2F/2023Jan-Paper2F.json
+./2023Jan/Paper2F/2023Jan-Paper2F.json.raw
+./2023Jan/Paper2H/2023Jan-Paper2H.json
+./2023Jan/Paper2H/2023Jan-Paper2H.json.raw
+./2023June/Paper1F/2023June-Paper1F.json
+./2023June/Paper1F/2023June-Paper1F.json.raw
+./2023June/Paper1H/2023June-Paper1H.json
+./2023June/Paper1H/2023June-Paper1H.json.raw
+./2023June/Paper2F/2023June-Paper2F.json
+./2023June/Paper2F/2023June-Paper2F.json.raw
+./2023June/Paper2H/2023June-Paper2H.json
+./2023June/Paper2H/2023June-Paper2H.json.raw
+./2023Nov/Paper1F/2023Nov-Paper1F.json
+./2023Nov/Paper1F/2023Nov-Paper1F.json.raw
+./2023Nov/Paper1H/2023Nov-Paper1H.json
+./2023Nov/Paper1H/2023Nov-Paper1H.json.raw
+./2023Nov/Paper2F/2023Nov-Paper2F.json
+./2023Nov/Paper2F/2023Nov-Paper2F.json.raw
+./2023Nov/Paper2H/2023Nov-Paper2H.json
+./2023Nov/Paper2H/2023Nov-Paper2H.json.raw
+./2024June/Paper1F/2024June-Paper1F.json
+./2024June/Paper1F/2024June-Paper1F.json.raw
+./2024June/Paper1H/2024June-Paper1H.json
+./2024June/Paper1H/2024June-Paper1H.json.raw
+./2024June/Paper2F/2024June-Paper2F.json
+./2024June/Paper2F/2024June-Paper2F.json.raw
+./2024June/Paper2H/2024June-Paper2H.json
+./2024June/Paper2H/2024June-Paper2H.json.raw
+./2024Nov/Paper1F/2024Nov-Paper1F.json
+./2024Nov/Paper1F/2024Nov-Paper1F.json.raw
+./2024Nov/Paper1H/2024Nov-Paper1H.json
+./2024Nov/Paper1H/2024Nov-Paper1H.json.raw
+./2024Nov/Paper2F/2024Nov-Paper2F.json
+./2024Nov/Paper2F/2024Nov-Paper2F.json.raw
+./2024Nov/Paper2H/2024Nov-Paper2H.json
+./2024Nov/Paper2H/2024Nov-Paper2H.json.raw
+./2025June/Paper1F/2025June-Paper1F.json
+./2025June/Paper1F/2025June-Paper1F.json.raw
+./2025June/Paper1H/2025June-Paper1H.json
+./2025June/Paper1H/2025June-Paper1H.json.raw
+./2025June/Paper2F/2025June-Paper2F.json
+./2025June/Paper2F/2025June-Paper2F.json.raw
+./2025June/Paper2H/2025June-Paper2H.json
+./2025June/Paper2H/2025June-Paper2H.json.raw
+./2025Nov/Paper1F/2025Nov-Paper1F.json
+./2025Nov/Paper1F/2025Nov-Paper1F.json.raw
+./2025Nov/Paper1H/2025Nov-Paper1H.json
+./2025Nov/Paper1H/2025Nov-Paper1H.json.raw
+./2025Nov/Paper2F/2025Nov-Paper2F.json
+./2025Nov/Paper2F/2025Nov-Paper2F.json.raw
+./2025Nov/Paper2H/2025Nov-Paper2H.json
+./2025Nov/Paper2H/2025Nov-Paper2H.json.raw
+./extraction-progress.json
+./knowledge-edx.json
+./output-20260406-2327.txt
+./papers-edx.json
+./README.md
+./syllabus-edx.json
+./vocabulary-edx.json
+
+=== 规模统计 ===
+文件总数:
+     162
+JSON 文件数:
+      81
+TS 文件数:
+       0
+
+=== README ===
+# 25maths-edx4ma1-json
+
+Edexcel 4MA1 Mathematics structured data (single source of truth)
+
+## Structure
+
+See CIE 0580 equivalent (`25maths-cie0580-json`) for directory structure reference.
+
+=== 第一个 JSON 文件路径和结构 ===
+文件: ./2017SP/Paper1F/2017SP-Paper1F.json
+{
+  "v": "1.0",
+  "paper": "2017SP-Paper1F",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2017,
+  "session": "Specimen",
+  "paperNum": "1F",
+  "type": "foundation-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 4,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{12}{15}$ as a fraction in its simplest form."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Shade $\\frac{1}{6}$ of the shape below."
+            },
+            {
+              "type": "text",
+              "content": "[Figure]"
+            }
+          ],
+          "answer": {
+            "type": "none"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{1}{5}$ as a decimal."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number"
+          }
+        },
+        {
+          "label": "(d)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Write $\\frac{7}{10}$ as a percentage."
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "suffix": "$\\%$"
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 4,
+      "stem": [
+        {
+          "type": "text",
+          "content": "The pictogram shows information about the number of goals scored by each of five hockey teams in March."
+        },
+        {
+          "type": "text",
+          "content": "[Figure]"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "The total number of goals scored in March by the five hockey teams was 152"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How many goals did City score in March?"
+        },
+        {
+          "type": "space"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 3,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify$\\quad\\quad 4x + 9x – 5x$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(b)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Simplify$\\quad\\quad 6m \\times 4p$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "expression"
+          }
+        },
+        {
+          "label": "(c)",
+          "marks": 1,
+          "content": [
+            {
+              "type": "text",
+              "content": "Solve$\\quad\\quad 8t = 40$"
+            },
+            {
+              "type": "space"
+            }
+          ],
+          "answer": {
+            "type": "number",
+            "prefix": "$t$ = "
+          }
+        }
+      ],
+      "answer": null,
+      "meta": {}
+    },
+    {
+      "qnum": 4,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Ramla has two full 1.5 litre bottles of water."
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "She wants to fill as many glasses as possible with water from the bottles."
+        },
+        {
+          "type": "newline"
+        },
+        {
+
+=== 第二个 JSON 文件路径和结构 ===
+文件: ./2017SP/Paper1H/2017SP-Paper1H.json
+{
+  "v": "1.0",
+  "paper": "2017SP-Paper1H",
+  "board": "edx",
+  "code": "4MA1",
+  "year": 2017,
+  "session": "Specimen",
+  "paperNum": "1H",
+  "type": "higher-nocalc",
+  "totalMarks": 100,
+  "time": 120,
+  "questions": [
+    {
+      "qnum": 1,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "Aiko, Max and Pau share 5400 yen in the ratios $5 : 3 : 4$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "How much money does each of them get?"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "structured",
+        "answerBlocks": [
+          {
+            "type": "number",
+            "prefix": "Aiko ",
+            "suffix": " yen"
+          },
+          {
+            "type": "number",
+            "prefix": "Max ",
+            "suffix": " yen"
+          },
+          {
+            "type": "number",
+            "prefix": "Pau ",
+            "suffix": " yen"
+          }
+        ]
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 2,
+      "marks": 3,
+      "stem": [
+        {
+          "type": "text",
+          "content": "$$ \\text{pressure} = \\frac{\\text{force}}{\\text{area}} $$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Find the pressure exerted by a force of 810 newtons on an area of 120 cm$^2$"
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "text",
+          "content": "Give your answer in newtons/m$^2$"
+        },
+        {
+          "type": "space",
+          "height": "1cm"
+        }
+      ],
+      "parts": [],
+      "answer": {
+        "type": "number",
+        "suffix": " newtons/m$^2$"
+      },
+      "meta": {}
+    },
+    {
+      "qnum": 3,
+      "marks": 5,
+      "stem": [],
+      "parts": [
+        {
+          "label": "(a)",
+          "marks": 2,
+          "content": [
+            {
+              "type": "text",
+              "content": "Find the Highest Common Factor (HCF) of 140 and 245"
+            },
+            {
+              "type": "space",
+
+=== 目录层级 ===
+.
+./2017SP
+./2017SP/Paper1F
+./2017SP/Paper1H
+./2017SP/Paper2F
+./2017SP/Paper2H
+./2018June
+./2018June/Paper1F
+./2018June/Paper1H
+./2018June/Paper2F
+./2018June/Paper2H
+./2019Jan
+./2019Jan/Paper1F
+./2019Jan/Paper1H
+./2019Jan/Paper2F
+./2019Jan/Paper2H
+./2019June
+./2019June/Paper1F
+./2019June/Paper1H
+./2019June/Paper2F
+./2019June/Paper2H
+./2020Jan
+./2020Jan/Paper1F
+./2020Jan/Paper1H
+./2020Jan/Paper2F
+./2020Jan/Paper2H
+./2020June
+./2020June/Paper1F
+./2020June/Paper1H
+./2020June/Paper2F
+./2020June/Paper2H
+./2020Nov
+./2020Nov/Paper1F
+./2020Nov/Paper1H
+./2020Nov/Paper2F
+./2020Nov/Paper2H
+./2021Jan
+./2021Jan/Paper1F
+./2021Jan/Paper1H
+./2021Jan/Paper2F
+./2021Jan/Paper2H
+./2021June
+./2021June/Paper1F
+./2021June/Paper1H
+./2021June/Paper2F
+./2021June/Paper2H
+./2021Nov
+./2021Nov/Paper1F
+./2021Nov/Paper1H
+./2021Nov/Paper2F
+./2021Nov/Paper2H
+./2022Jan
+./2022Jan/Paper1F
+./2022Jan/Paper1H
+./2022Jan/Paper2F
+./2022Jan/Paper2H
+./2022June
+./2022June/Paper1F
+./2022June/Paper1H
+./2022June/Paper2F
+./2022June/Paper2H
+./2023Jan
+./2023Jan/Paper1F
+./2023Jan/Paper1H
+./2023Jan/Paper2F
+./2023Jan/Paper2H
+./2023June
+./2023June/Paper1F
+./2023June/Paper1H
+./2023June/Paper2F
+./2023June/Paper2H
+./2023Nov
+./2023Nov/Paper1F
+./2023Nov/Paper1H
+./2023Nov/Paper2F
+./2023Nov/Paper2H
+./2024June
+./2024June/Paper1F
+./2024June/Paper1H
+./2024June/Paper2F
+./2024June/Paper2H
+./2024Nov
+./2024Nov/Paper1F
+./2024Nov/Paper1H
+./2024Nov/Paper2F
+./2024Nov/Paper2H
+./2025June
+./2025June/Paper1F
+./2025June/Paper1H
+./2025June/Paper2F
+./2025June/Paper2H
+./2025Nov
+./2025Nov/Paper1F
+./2025Nov/Paper1H
+./2025Nov/Paper2F
+./2025Nov/Paper2H
+
+=== JSON 文件列表（前30个）===
+./2017SP/Paper1F/2017SP-Paper1F.json
+./2017SP/Paper1H/2017SP-Paper1H.json
+./2017SP/Paper2F/2017SP-Paper2F.json
+./2017SP/Paper2H/2017SP-Paper2H.json
+./2018June/Paper1F/2018June-Paper1F.json
+./2018June/Paper1H/2018June-Paper1H.json
+./2018June/Paper2F/2018June-Paper2F.json
+./2018June/Paper2H/2018June-Paper2H.json
+./2019Jan/Paper1F/2019Jan-Paper1F.json
+./2019Jan/Paper1H/2019Jan-Paper1H.json
+./2019Jan/Paper2F/2019Jan-Paper2F.json
+./2019Jan/Paper2H/2019Jan-Paper2H.json
+./2019June/Paper1F/2019June-Paper1F.json
+./2019June/Paper1H/2019June-Paper1H.json
+./2019June/Paper2F/2019June-Paper2F.json
+./2019June/Paper2H/2019June-Paper2H.json
+./2020Jan/Paper1F/2020Jan-Paper1F.json
+./2020Jan/Paper1H/2020Jan-Paper1H.json
+./2020Jan/Paper2F/2020Jan-Paper2F.json
+./2020Jan/Paper2H/2020Jan-Paper2H.json
+./2020June/Paper1F/2020June-Paper1F.json
+./2020June/Paper1H/2020June-Paper1H.json
+./2020June/Paper2F/2020June-Paper2F.json
+./2020June/Paper2H/2020June-Paper2H.json
+./2020Nov/Paper1F/2020Nov-Paper1F.json
+./2020Nov/Paper1H/2020Nov-Paper1H.json
+./2020Nov/Paper2F/2020Nov-Paper2F.json
+./2020Nov/Paper2H/2020Nov-Paper2H.json
+./2021Jan/Paper1F/2021Jan-Paper1F.json
+./2021Jan/Paper1H/2021Jan-Paper1H.json
+
+=== 题目数量估算 ===
+      79
